@@ -29,4 +29,6 @@ Data is based on the official branch listing from [kba.co.ke](https://www.kba.co
 You can use the JSON or CSV files for data analysis, integration, or reporting on Kenyan bank branches.
 
 ## License
-This data is provided for informational purposes. Please refer to KBA for official and up-to-date information.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+**Note:** The data provided in this repository is given AS IS, without warranty or guarantee of accuracy or completeness. Please refer to the Kenya Bankers Association (KBA) for official and up-to-date information.
