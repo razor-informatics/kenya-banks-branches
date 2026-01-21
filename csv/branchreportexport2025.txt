@@ -1,0 +1,12777 @@
+BankCode
+BranchAreaCode
+BankName
+BranchName
+CountyCodStopped
+CountyName
+01
+231
+Kenya Commercial Bank Limited
+Kapsowar
+028
+0 Elgeyo-Marakwet
+01
+302
+Kenya Commercial Bank Limited
+Diaspora
+047
+0 Nairobi County
+01
+303
+Kenya Commercial Bank Limited
+Kisii West
+045
+0 Kisii
+01
+304
+Kenya Commercial Bank Limited
+Mbita
+043
+0 Homa Bay
+01
+305
+Kenya Commercial Bank Limited
+Sori
+044
+0 Migori
+01
+306
+Kenya Commercial Bank Limited
+Hurlingham
+047
+0 Nairobi County
+01
+307
+Kenya Commercial Bank Limited
+Kibera
+047
+0 Nairobi County
+01
+308
+Kenya Commercial Bank Limited
+Thika Road Mall Branch
+047
+0 Nairobi County
+01
+309
+Kenya Commercial Bank Limited
+Kasarani Branch
+047
+0 Nairobi County
+01
+310
+Kenya Commercial Bank Limited
+KCB Maasai Mara
+033
+0 Narok
+01
+311
+Kenya Commercial Bank Limited
+KCB Kabartonjo
+030
+0 Baringo
+01
+312
+Kenya Commercial Bank Limited
+KCB Eldoret East
+027
+0 Uasin Gishu
+01
+313
+Kenya Commercial Bank Limited
+Kikim
+017
+0 Makueni
+01
+314
+Kenya Commercial Bank Limited
+KCB JKUAT
+022
+0 Kiambu
+01
+315
+Kenya Commercial Bank Limited
+KCB Changamwe
+001
+0 Mombasa
+01
+316
+Kenya Commercial Bank Limited
+KCB Makongeni
+022
+0 Kiambu
+01
+317
+Kenya Commercial Bank Limited
+KCB Syokimau
+016
+0 Machakos
+01
+340
+Kenya Commercial Bank Limited
+Karen Waterfront Platinum
+047
+0 Nairobi County
+01
+341
+Kenya Commercial Bank Limited
+KCB Ngong Branch
+034
+0 Kajiado
+01
+325
+Kenya Commercial Bank Limited
+Garden City
+047
+0 Nairobi County
+01
+326
+Kenya Commercial Bank Limited
+JKIA
+047
+0 Nairobi County
+01
+327
+Kenya Commercial Bank Limited
+Makutano
+012
+0 Meru
+01
+330
+Kenya Commercial Bank Limited
+KCB NextGen
+047
+0 Nairobi County
+01
+331
+Kenya Commercial Bank Limited
+KCB Mogotio
+030
+0 Baringo
+01
+329
+Kenya Commercial Bank Limited
+Two Rivers
+022
+0 Kiambu
+01
+332
+Kenya Commercial Bank Limited
+KCB Upperhill Platinum
+047
+0 Nairobi County
+01
+337
+Kenya Commercial Bank Limited
+KCB Kilimani Platinum
+047
+0 Nairobi County
+01
+339
+Kenya Commercial Bank Limited
+KCB Utawala
+047
+0 Nairobi County
+01
+242
+Kenya Commercial Bank Limited
+Ugunja
+041
+0 Siaya
+01
+243
+Kenya Commercial Bank Limited
+United Mall
+042
+0 Kisumu
+01
+244
+Kenya Commercial Bank Limited
+Serem
+038
+0 Vihiga
+01
+245
+Kenya Commercial Bank Limited
+Sondu
+042
+0 Kisumu
+01
+246
+Kenya Commercial Bank Limited
+Kisumu West
+042
+0 Kisumu
+01
+247
+Kenya Commercial Bank Limited
+Marigat
+030
+0 Baringo
+01
+248
+Kenya Commercial Bank Limited
+Mois Bridge
+027
+0 Uasin Gishu
+01
+249
+Kenya Commercial Bank Limited
+Mashariki
+047
+0 Nairobi County
+01
+250
+Kenya Commercial Bank Limited
+Naro Moro
+019
+0 Nyeri
+01
+251
+Kenya Commercial Bank Limited
+Kiriaini
+021
+0 Murang'a
+01
+252
+Kenya Commercial Bank Limited
+Egerton University
+032
+0 Nakuru
+01
+253
+Kenya Commercial Bank Limited
+Maua
+012
+0 Meru
+01
+254
+Kenya Commercial Bank Limited
+Kawangare
+047
+0 Nairobi County
+01
+255
+Kenya Commercial Bank Limited
+Kimathi
+047
+0 Nairobi County
+01
+256
+Kenya Commercial Bank Limited
+Namanga
+034
+0 Kajiado
+01
+288
+Kenya Commercial Bank Limited
+Haile Selassie
+047
+0 Nairobi County
+01
+289
+Kenya Commercial Bank Limited
+Salama House Mortgage Centre
+047
+0 Nairobi County
+01
+290
+Kenya Commercial Bank Limited
+Garden Plaza
+047
+0 Nairobi County
+01
+291
+Kenya Commercial Bank Limited
+Sarit Centre Mortgage Centre
+047
+0 Nairobi County
+01
+292
+Kenya Commercial Bank Limited
+Cpc Bulk Corporate Cheques
+047
+0 Nairobi County
+01
+293
+Kenya Commercial Bank Limited
+Trade Services
+047
+0 Nairobi County
+01
+295
+Kenya Commercial Bank Limited
+Nairobi High Court
+047
+0 Nairobi County
+01
+296
+Kenya Commercial Bank Limited
+Mombasa High Court
+001
+0 Mombasa
+
+
+01
+297
+Kenya Commercial Bank Limited
+Kisumu Airport
+042
+0 Kisumu
+01
+298
+Kenya Commercial Bank Limited
+Port Victoria
+040
+0 Busia
+01
+300
+Kenya Commercial Bank Limited
+Nyali
+001
+0 Mombasa
+01
+301
+Kenya Commercial Bank Limited
+Westgate Advantage
+047
+0 Nairobi County
+01
+287
+Kenya Commercial Bank Limited
+Kisauni
+001
+0 Mombasa
+01
+257
+Kenya Commercial Bank Limited
+Gikomba
+047
+0 Nairobi County
+01
+258
+Kenya Commercial Bank Limited
+Kwale
+002
+0 Kwale
+01
+259
+Kenya Commercial Bank Limited
+Prestige Plaza
+047
+0 Nairobi County
+01
+260
+Kenya Commercial Bank Limited
+Kariobangi
+047
+0 Nairobi County
+01
+263
+Kenya Commercial Bank Limited
+Biashara Street
+047
+0 Nairobi County
+01
+266
+Kenya Commercial Bank Limited
+Ngara
+047
+0 Nairobi County
+01
+267
+Kenya Commercial Bank Limited
+Kyuso
+015
+0 Kitui
+01
+270
+Kenya Commercial Bank Limited
+Masii
+016
+0 Machakos
+01
+271
+Kenya Commercial Bank Limited
+Menengai Crater
+032
+0 Nakuru
+01
+272
+Kenya Commercial Bank Limited
+Town Centre
+001
+0 Mombasa
+01
+278
+Kenya Commercial Bank Limited
+Makindu
+017
+0 Makueni
+01
+283
+Kenya Commercial Bank Limited
+Rongo
+044
+0 Migori
+01
+284
+Kenya Commercial Bank Limited
+Isibania
+044
+0 Migori
+01
+318
+Kenya Commercial Bank Limited
+KCB Moi Referral Hospital
+027
+0 Uasin Gishu
+01
+319
+Kenya Commercial Bank Limited
+KCB Kitale Advantage
+026
+0 Trans-Nzoia
+01
+320
+Kenya Commercial Bank Limited
+KCB Lavington
+047
+0 Nairobi County
+01
+322
+Kenya Commercial Bank Limited
+KCB Riverside Advantage
+047
+0 Nairobi County
+01
+323
+Kenya Commercial Bank Limited
+KCB Gigiri Square
+047
+0 Nairobi County
+01
+324
+Kenya Commercial Bank Limited
+Kayole
+047
+0 Nairobi County
+01
+214
+Kenya Commercial Bank Limited
+Gatundu
+022
+0 Kiambu
+01
+215
+Kenya Commercial Bank Limited
+Emali
+017
+0 Makueni
+01
+216
+Kenya Commercial Bank Limited
+Isiolo
+011
+0 Isiolo
+01
+217
+Kenya Commercial Bank Limited
+KCB Flamingo
+032
+0 Nakuru
+01
+218
+Kenya Commercial Bank Limited
+Njoro
+032
+0 Nakuru
+01
+219
+Kenya Commercial Bank Limited
+Mutomo
+015
+0 Kitui
+01
+220
+Kenya Commercial Bank Limited
+Mariakani
+003
+0 Kilifi
+01
+221
+Kenya Commercial Bank Limited
+Mpeketoni
+005
+0 Lamu
+01
+222
+Kenya Commercial Bank Limited
+Mtitu Andei
+017
+0 Makueni
+01
+223
+Kenya Commercial Bank Limited
+Mtwapa
+003
+0 Kilifi
+01
+224
+Kenya Commercial Bank Limited
+Taveta
+006
+0 Taita Taveta
+01
+225
+Kenya Commercial Bank Limited
+Kengeleni
+001
+0 Mombasa
+01
+226
+Kenya Commercial Bank Limited
+Garsen
+004
+0 Tana River
+01
+227
+Kenya Commercial Bank Limited
+Watamu
+003
+0 Kilifi
+01
+228
+Kenya Commercial Bank Limited
+Bondo
+041
+0 Siaya
+01
+229
+Kenya Commercial Bank Limited
+Busia
+040
+0 Busia
+01
+230
+Kenya Commercial Bank Limited
+Homa Bay
+043
+0 Homa Bay
+01
+185
+Kenya Commercial Bank Limited
+Othaya
+019
+0 Nyeri
+01
+186
+Kenya Commercial Bank Limited
+Voi
+006
+0 Taita Taveta
+01
+188
+Kenya Commercial Bank Limited
+Webuye
+039
+0 Bungoma
+01
+163
+Kenya Commercial Bank Limited
+Eldama Ravine
+030
+0 Baringo
+01
+164
+Kenya Commercial Bank Limited
+Kibwezi
+017
+0 Makueni
+01
+166
+Kenya Commercial Bank Limited
+Kapsabet
+029
+0 Nandi
+01
+167
+Kenya Commercial Bank Limited
+University Way
+047
+0 Nairobi County
+01
+168
+Kenya Commercial Bank Limited
+KCB Eldoret West
+027
+0 Uasin Gishu
+01
+169
+Kenya Commercial Bank Limited
+Garissa
+007
+0 Garissa
+01
+124
+Kenya Commercial Bank Limited
+Mumias
+037
+0 Kakamega
+01
+125
+Kenya Commercial Bank Limited
+Nanyuki
+031
+0 Laikipia
+
+
+01
+127
+Kenya Commercial Bank Limited
+Moyale
+010
+0 Marsabit
+01
+129
+Kenya Commercial Bank Limited
+Kikuyu
+022
+0 Kiambu
+01
+130
+Kenya Commercial Bank Limited
+Tala
+016
+0 Machakos
+01
+131
+Kenya Commercial Bank Limited
+Kajiado
+034
+0 Kajiado
+01
+133
+Kenya Commercial Bank Limited
+KCB Custody services
+047
+0 Nairobi County
+01
+134
+Kenya Commercial Bank Limited
+Matuu
+016
+0 Machakos
+01
+135
+Kenya Commercial Bank Limited
+Kitui
+015
+0 Kitui
+01
+136
+Kenya Commercial Bank Limited
+Mvita
+001
+0 Mombasa
+01
+137
+Kenya Commercial Bank Limited
+Jogoo Rd Nairobi
+047
+0 Nairobi County
+01
+139
+Kenya Commercial Bank Limited
+Card Centre
+047
+0 Nairobi County
+01
+140
+Kenya Commercial Bank Limited
+Marsabit
+010
+0 Marsabit
+01
+141
+Kenya Commercial Bank Limited
+Sarit Centre
+047
+0 Nairobi County
+01
+142
+Kenya Commercial Bank Limited
+Loitokitok
+034
+0 Kajiado
+01
+143
+Kenya Commercial Bank Limited
+Nandi Hills
+029
+0 Nandi
+01
+144
+Kenya Commercial Bank Limited
+Lodwar
+023
+0 Turkana
+01
+145
+Kenya Commercial Bank Limited
+Un Gigiri
+047
+0 Nairobi County
+01
+146
+Kenya Commercial Bank Limited
+Hola
+004
+0 Tana River
+01
+147
+Kenya Commercial Bank Limited
+Ruiru
+022
+0 Kiambu
+01
+148
+Kenya Commercial Bank Limited
+Mwingi
+015
+0 Kitui
+01
+149
+Kenya Commercial Bank Limited
+Kitale
+026
+0 Trans-Nzoia
+01
+150
+Kenya Commercial Bank Limited
+Mandera
+009
+0 Mandera
+01
+151
+Kenya Commercial Bank Limited
+Kapenguria
+024
+0 West Pokot
+01
+152
+Kenya Commercial Bank Limited
+Kabarnet
+030
+0 Baringo
+01
+153
+Kenya Commercial Bank Limited
+Wajir
+008
+0 Wajir
+01
+154
+Kenya Commercial Bank Limited
+Maralal
+025
+0 Samburu
+01
+155
+Kenya Commercial Bank Limited
+Limuru
+022
+0 Kiambu
+01
+157
+Kenya Commercial Bank Limited
+Ukunda
+002
+0 Kwale
+01
+158
+Kenya Commercial Bank Limited
+Iten
+028
+0 Elgeyo-Marakwet
+01
+159
+Kenya Commercial Bank Limited
+Gilgil
+032
+0 Nakuru
+01
+161
+Kenya Commercial Bank Limited
+Ongata Rongai
+047
+0 Nairobi County
+01
+162
+Kenya Commercial Bank Limited
+Kitengela
+034
+0 Kajiado
+01
+345
+Kenya Commercial Bank Limited
+KCB Mokowe
+005
+0 Lamu
+01
+346
+Kenya Commercial Bank Limited
+KCB Kendu Bay
+043
+0 Homa Bay
+01
+355
+Kenya Commercial Bank Limited
+KCB SAHL Centre Eastleign Bran
+047
+0 Nairobi County
+01
+347
+Kenya Commercial Bank Limited
+KCB Greenwood Mall
+012
+0 Meru
+01
+338
+Kenya Commercial Bank Limited
+KCB Langata
+047
+0 Nairobi County
+01
+348
+Kenya Commercial Bank Limited
+KCB Kamakis
+038
+0 Vihiga
+01
+344
+Kenya Commercial Bank Limited
+KCB Rumuruti Branch
+031
+0 Laikipia
+01
+091
+Kenya Commercial Bank Limited
+Eastleigh
+047
+0 Nairobi County
+01
+285
+Kenya Commercial Bank Limited
+Kiserian
+034
+0 Kajiado
+01
+286
+Kenya Commercial Bank Limited
+Mwembe Tayari
+001
+0 Mombasa
+01
+342
+Kenya Commercial Bank Limited
+Imara Daima
+047
+0 Nairobi County
+01
+343
+Kenya Commercial Bank Limited
+Takaba Town
+009
+0 Mandera
+01
+232
+Kenya Commercial Bank Limited
+Kehancha
+044
+0 Migori
+01
+233
+Kenya Commercial Bank Limited
+Keroka
+046
+0 Nyamira
+01
+234
+Kenya Commercial Bank Limited
+Kilgoris
+033
+0 Narok
+01
+235
+Kenya Commercial Bank Limited
+Kimilili
+039
+0 Bungoma
+01
+236
+Kenya Commercial Bank Limited
+Litein
+035
+0 Kericho
+01
+237
+Kenya Commercial Bank Limited
+Londiani Branch
+035
+0 Kericho
+01
+238
+Kenya Commercial Bank Limited
+Luanda
+038
+0 Vihiga
+01
+239
+Kenya Commercial Bank Limited
+Malaba
+040
+0 Busia
+01
+240
+Kenya Commercial Bank Limited
+Muhoroni
+042
+0 Kisumu
+
+
+01
+241
+Kenya Commercial Bank Limited
+Oyugis
+043
+0 Homa Bay
+01
+189
+Kenya Commercial Bank Limited
+Sotik
+036
+0 Bomet
+01
+190
+Kenya Commercial Bank Limited
+Naivasha
+032
+0 Nakuru
+01
+191
+Kenya Commercial Bank Limited
+Kisii
+045
+0 Kisii
+01
+192
+Kenya Commercial Bank Limited
+Migori
+044
+0 Migori
+01
+193
+Kenya Commercial Bank Limited
+Githunguri
+022
+0 Kiambu
+01
+194
+Kenya Commercial Bank Limited
+Machakos
+016
+0 Machakos
+01
+195
+Kenya Commercial Bank Limited
+Kerugoya
+020
+0 Kirinyaga
+01
+196
+Kenya Commercial Bank Limited
+Chuka
+013
+0 Tharaka-Nithi
+01
+197
+Kenya Commercial Bank Limited
+Bungoma
+039
+0 Bungoma
+01
+198
+Kenya Commercial Bank Limited
+Wundanyi
+006
+0 Taita Taveta
+01
+199
+Kenya Commercial Bank Limited
+Malindi
+003
+0 Kilifi
+01
+201
+Kenya Commercial Bank Limited
+Capital Hill
+047
+0 Nairobi County
+01
+202
+Kenya Commercial Bank Limited
+Karen
+047
+0 Nairobi County
+01
+203
+Kenya Commercial Bank Limited
+Lokichogio
+000
+0 UNKNOWN
+01
+204
+Kenya Commercial Bank Limited
+Gateway Msa Road
+047
+0 Nairobi County
+01
+205
+Kenya Commercial Bank Limited
+Buruburu
+047
+0 Nairobi County
+01
+206
+Kenya Commercial Bank Limited
+Chogoria
+013
+0 Tharaka-Nithi
+01
+207
+Kenya Commercial Bank Limited
+Kangare
+021
+0 Murang'a
+01
+208
+Kenya Commercial Bank Limited
+Kianyaga
+020
+0 Kirinyaga
+01
+209
+Kenya Commercial Bank Limited
+Nkubu
+012
+0 Meru
+01
+210
+Kenya Commercial Bank Limited
+Ol Kalou
+018
+0 Nyandarua
+01
+211
+Kenya Commercial Bank Limited
+Makuyu
+021
+0 Murang'a
+01
+212
+Kenya Commercial Bank Limited
+Mwea
+020
+0 Kirinyaga
+01
+213
+Kenya Commercial Bank Limited
+Njambini
+018
+0 Nyandarua
+01
+333
+Kenya Commercial Bank Limited
+Kakuma Branch
+023
+0 Turkana
+01
+334
+Kenya Commercial Bank Limited
+KCB Parklands
+047
+0 Nairobi County
+01
+335
+Kenya Commercial Bank Limited
+KCB Diani
+002
+0 Kwale
+01
+336
+Kenya Commercial Bank Limited
+KCB Eldoret Advantage Branch
+027
+0 Uasin Gishu
+01
+092
+Kenya Commercial Bank Limited
+KCB CPC
+047
+0 Nairobi County
+01
+094
+Kenya Commercial Bank Limited
+Head Office
+047
+0 Nairobi County
+01
+095
+Kenya Commercial Bank Limited
+Wote
+017
+0 Makueni
+01
+096
+Kenya Commercial Bank Limited
+Head Office Finance
+047
+0 Nairobi County
+01
+100
+Kenya Commercial Bank Limited
+Moi Avenue Nairobi
+047
+0 Nairobi County
+01
+101
+Kenya Commercial Bank Limited
+Kipande House
+047
+0 Nairobi County
+01
+102
+Kenya Commercial Bank Limited
+Treasury Sq Mombasa
+001
+0 Mombasa
+01
+103
+Kenya Commercial Bank Limited
+Nakuru
+032
+0 Nakuru
+01
+104
+Kenya Commercial Bank Limited
+Kicc
+047
+0 Nairobi County
+01
+105
+Kenya Commercial Bank Limited
+Kisumu
+042
+0 Kisumu
+01
+106
+Kenya Commercial Bank Limited
+Kericho
+035
+0 Kericho
+01
+107
+Kenya Commercial Bank Limited
+Tom Mboya
+047
+0 Nairobi County
+01
+108
+Kenya Commercial Bank Limited
+Thika
+022
+0 Kiambu
+01
+109
+Kenya Commercial Bank Limited
+Eldoret
+027
+0 Uasin Gishu
+01
+110
+Kenya Commercial Bank Limited
+Kakamega
+037
+0 Kakamega
+01
+111
+Kenya Commercial Bank Limited
+Kilindini Mombasa
+001
+0 Mombasa
+01
+112
+Kenya Commercial Bank Limited
+Nyeri
+019
+0 Nyeri
+01
+113
+Kenya Commercial Bank Limited
+Industrial Area Nairobi
+047
+0 Nairobi County
+01
+114
+Kenya Commercial Bank Limited
+River Road
+047
+0 Nairobi County
+01
+115
+Kenya Commercial Bank Limited
+Muranga
+021
+0 Murang'a
+01
+116
+Kenya Commercial Bank Limited
+Embu
+014
+0 Embu
+01
+117
+Kenya Commercial Bank Limited
+Kangema
+021
+0 Murang'a
+01
+119
+Kenya Commercial Bank Limited
+Kiambu
+022
+0 Kiambu
+
+
+01
+120
+Kenya Commercial Bank Limited
+Karatina
+019
+0 Nyeri
+01
+121
+Kenya Commercial Bank Limited
+Siaya
+041
+0 Siaya
+01
+122
+Kenya Commercial Bank Limited
+Nyahururu
+031
+0 Laikipia
+01
+123
+Kenya Commercial Bank Limited
+Meru
+012
+0 Meru
+01
+173
+Kenya Commercial Bank Limited
+Lamu
+005
+0 Lamu
+01
+174
+Kenya Commercial Bank Limited
+Kilifi
+003
+0 Kilifi
+01
+175
+Kenya Commercial Bank Limited
+Milimani
+047
+0 Nairobi County
+01
+176
+Kenya Commercial Bank Limited
+Nyamira
+046
+0 Nyamira
+01
+177
+Kenya Commercial Bank Limited
+Mukuruweini
+019
+0 Nyeri
+01
+180
+Kenya Commercial Bank Limited
+Village Market
+047
+0 Nairobi County
+01
+181
+Kenya Commercial Bank Limited
+Bomet
+036
+0 Bomet
+01
+183
+Kenya Commercial Bank Limited
+Mbale
+038
+0 Vihiga
+01
+184
+Kenya Commercial Bank Limited
+Narok
+033
+0 Narok
+02
+090
+Standard Chartered Bank Kenya Ltd
+Bungoma
+047
+0 Nairobi County
+02
+091
+Standard Chartered Bank Kenya Ltd
+Thika Road Mall
+047
+0 Nairobi County
+02
+092
+Standard Chartered Bank Kenya Ltd
+UN Gigiri
+000
+0 UNKNOWN
+02
+000
+Standard Chartered Bank Kenya Ltd
+Eldoret
+027
+0 Uasin Gishu
+02
+001
+Standard Chartered Bank Kenya Ltd
+Kericho
+035
+0 Kericho
+02
+002
+Standard Chartered Bank Kenya Ltd
+Kisumu
+042
+0 Kisumu
+02
+003
+Standard Chartered Bank Kenya Ltd
+Kitale
+026
+0 Trans-Nzoia
+02
+004
+Standard Chartered Bank Kenya Ltd
+Treasury Square
+001
+0 Mombasa
+02
+005
+Standard Chartered Bank Kenya Ltd
+Kilindini
+001
+0 Mombasa
+02
+006
+Standard Chartered Bank Kenya Ltd
+Kenyatta Avenue
+047
+0 Nairobi County
+02
+008
+Standard Chartered Bank Kenya Ltd
+Moi Avenue
+000
+0 UNKNOWN
+02
+009
+Standard Chartered Bank Kenya Ltd
+Nakuru
+032
+0 Nakuru
+02
+010
+Standard Chartered Bank Kenya Ltd
+Nanyuki
+031
+0 Laikipia
+02
+011
+Standard Chartered Bank Kenya Ltd
+Nyeri
+019
+0 Nyeri
+02
+012
+Standard Chartered Bank Kenya Ltd
+Thika
+022
+0 Kiambu
+02
+015
+Standard Chartered Bank Kenya Ltd
+Westlands
+047
+0 Nairobi County
+02
+016
+Standard Chartered Bank Kenya Ltd
+Machakos
+016
+0 Machakos
+02
+017
+Standard Chartered Bank Kenya Ltd
+Meru
+012
+0 Meru
+02
+019
+Standard Chartered Bank Kenya Ltd
+Harambee Avenue
+047
+0 Nairobi County
+02
+053
+Standard Chartered Bank Kenya Ltd
+Industrial Area
+047
+0 Nairobi County
+02
+054
+Standard Chartered Bank Kenya Ltd
+Kakamega
+037
+0 Kakamega
+02
+064
+Standard Chartered Bank Kenya Ltd
+Koinage
+047
+0 Nairobi County
+02
+071
+Standard Chartered Bank Kenya Ltd
+Yaya Centre Branch
+047
+0 Nairobi County
+02
+072
+Standard Chartered Bank Kenya Ltd
+Ruaraka
+000
+0 UNKNOWN
+02
+073
+Standard Chartered Bank Kenya Ltd
+Langata
+047
+0 Nairobi County
+02
+074
+Standard Chartered Bank Kenya Ltd
+Makupa
+000
+0 UNKNOWN
+02
+075
+Standard Chartered Bank Kenya Ltd
+Karen
+047
+0 Nairobi County
+02
+076
+Standard Chartered Bank Kenya Ltd
+Muthaiga
+047
+0 Nairobi County
+02
+078
+Standard Chartered Bank Kenya Ltd
+C.o.u
+047
+0 Nairobi County
+02
+079
+Standard Chartered Bank Kenya Ltd
+Ukay
+000
+0 UNKNOWN
+02
+080
+Standard Chartered Bank Kenya Ltd
+Two Rivers Branch
+047
+0 Nairobi County
+02
+081
+Standard Chartered Bank Kenya Ltd
+Kisii
+000
+0 UNKNOWN
+02
+082
+Standard Chartered Bank Kenya Ltd
+Upper Hill Branch
+047
+0 Nairobi County
+02
+083
+Standard Chartered Bank Kenya Ltd
+Nyali
+000
+0 UNKNOWN
+02
+084
+Standard Chartered Bank Kenya Ltd
+Chiromo
+047
+0 Nairobi County
+02
+085
+Standard Chartered Bank Kenya Ltd
+Greenspan
+000
+0 UNKNOWN
+02
+086
+Standard Chartered Bank Kenya Ltd
+The T-Mall
+000
+0 UNKNOWN
+02
+087
+Standard Chartered Bank Kenya Ltd
+The Junction
+000
+0 UNKNOWN
+02
+089
+Standard Chartered Bank Kenya Ltd
+Kitengela
+000
+0 UNKNOWN
+
+
+03
+065
+Absa Bank Kenya Plc
+Karen Branch
+047
+0 Nairobi County
+03
+066
+Absa Bank Kenya Plc
+Wundanyi Branch
+006
+0 Taita Taveta
+03
+067
+Absa Bank Kenya Plc
+Ruaraka Branch
+047
+0 Nairobi County
+03
+068
+Absa Bank Kenya Plc
+Kitengela Branch
+034
+0 Kajiado
+03
+069
+Absa Bank Kenya Plc
+Wote Branch
+017
+0 Makueni
+03
+070
+Absa Bank Kenya Plc
+Enterprise Road Branch
+047
+0 Nairobi County
+03
+071
+Absa Bank Kenya Plc
+Nakumatt Meru Branch
+012
+0 Meru
+03
+072
+Absa Bank Kenya Plc
+Juja Branch
+022
+0 Kiambu
+03
+073
+Absa Bank Kenya Plc
+Westlands Branch
+047
+0 Nairobi County
+03
+074
+Absa Bank Kenya Plc
+Kikuyu Branch
+022
+0 Kiambu
+03
+075
+Absa Bank Kenya Plc
+Moi Avenue-nairobi Branch
+047
+0 Nairobi County
+03
+076
+Absa Bank Kenya Plc
+Nyali
+001
+0 Mombasa
+03
+077
+Absa Bank Kenya Plc
+Absa Towers Branch
+047
+0 Nairobi County
+03
+034
+Absa Bank Kenya Plc
+Kawangware
+047
+0 Nairobi County
+03
+035
+Absa Bank Kenya Plc
+Mbale
+038
+0 Vihiga
+03
+036
+Absa Bank Kenya Plc
+Plaza Premier Centre
+047
+0 Nairobi County
+03
+037
+Absa Bank Kenya Plc
+River Road Branch
+047
+0 Nairobi County
+03
+038
+Absa Bank Kenya Plc
+Chomba House-river Road
+047
+0 Nairobi County
+03
+039
+Absa Bank Kenya Plc
+Mumias Branch
+037
+0 Kakamega
+03
+040
+Absa Bank Kenya Plc
+Machakos Branch
+016
+0 Machakos
+03
+041
+Absa Bank Kenya Plc
+Narok Branch
+033
+0 Narok
+03
+042
+Absa Bank Kenya Plc
+Isiolo Branch
+011
+0 Isiolo
+03
+043
+Absa Bank Kenya Plc
+Ngong Branch
+034
+0 Kajiado
+03
+044
+Absa Bank Kenya Plc
+Maua Branch
+012
+0 Meru
+03
+045
+Absa Bank Kenya Plc
+Hurlingham Branch
+047
+0 Nairobi County
+03
+046
+Absa Bank Kenya Plc
+Makupa Branch
+001
+0 Mombasa
+03
+047
+Absa Bank Kenya Plc
+Development House Branch
+047
+0 Nairobi County
+03
+048
+Absa Bank Kenya Plc
+Bungoma
+039
+0 Bungoma
+03
+027
+Absa Bank Kenya Plc
+Nakuru East
+032
+0 Nakuru
+03
+028
+Absa Bank Kenya Plc
+Buruburu
+047
+0 Nairobi County
+03
+029
+Absa Bank Kenya Plc
+Bomet
+036
+0 Bomet
+03
+030
+Absa Bank Kenya Plc
+Nyeri Branch
+019
+0 Nyeri
+03
+031
+Absa Bank Kenya Plc
+Thika Branch
+022
+0 Kiambu
+03
+032
+Absa Bank Kenya Plc
+Port Mombasa
+001
+0 Mombasa
+03
+033
+Absa Bank Kenya Plc
+Gikomba
+047
+0 Nairobi County
+03
+001
+Absa Bank Kenya Plc
+Head Office - Vpc
+047
+0 Nairobi County
+03
+002
+Absa Bank Kenya Plc
+Kapsabet Branch
+029
+0 Nandi
+03
+003
+Absa Bank Kenya Plc
+Eldoret Branch
+027
+0 Uasin Gishu
+03
+004
+Absa Bank Kenya Plc
+Embu Branch
+014
+0 Embu
+03
+005
+Absa Bank Kenya Plc
+Murang A Branch
+021
+0 Murang'a
+03
+006
+Absa Bank Kenya Plc
+Kapenguria Branch
+024
+0 West Pokot
+03
+021
+Absa Bank Kenya Plc
+Barclaycard Operations
+047
+0 Nairobi County
+03
+022
+Absa Bank Kenya Plc
+Paymants And International Servi
+047
+0 Nairobi County
+03
+023
+Absa Bank Kenya Plc
+Gilgil Branch
+032
+0 Nakuru
+03
+024
+Absa Bank Kenya Plc
+Thika Road Mall
+022
+0 Kiambu
+03
+018
+Absa Bank Kenya Plc
+Nyamira Branch
+046
+0 Nyamira
+03
+019
+Absa Bank Kenya Plc
+Kilifi Branch
+003
+0 Kilifi
+03
+020
+Absa Bank Kenya Plc
+Office Park Westlands
+047
+0 Nairobi County
+03
+026
+Absa Bank Kenya Plc
+Kakamega Branch
+037
+0 Kakamega
+03
+007
+Absa Bank Kenya Plc
+Kericho Branch
+035
+0 Kericho
+03
+008
+Absa Bank Kenya Plc
+Kisii Branch
+045
+0 Kisii
+03
+009
+Absa Bank Kenya Plc
+Kisumu Branch
+042
+0 Kisumu
+
+
+03
+010
+Absa Bank Kenya Plc
+South C Branch
+047
+0 Nairobi County
+03
+011
+Absa Bank Kenya Plc
+Limuru Branch
+022
+0 Kiambu
+03
+012
+Absa Bank Kenya Plc
+Malindi Branch
+003
+0 Kilifi
+03
+013
+Absa Bank Kenya Plc
+Meru Branch
+012
+0 Meru
+03
+014
+Absa Bank Kenya Plc
+Eastleigh Branch
+047
+0 Nairobi County
+03
+015
+Absa Bank Kenya Plc
+Kitui Branch
+015
+0 Kitui
+03
+016
+Absa Bank Kenya Plc
+Nkrumah Road Branch
+001
+0 Mombasa
+03
+017
+Absa Bank Kenya Plc
+Garissa Branch
+007
+0 Garissa
+03
+140
+Absa Bank Kenya Plc
+Two Rivers
+047
+0 Nairobi County
+03
+103
+Absa Bank Kenya Plc
+Nairobi J.k.i.a Branch
+047
+0 Nairobi County
+03
+105
+Absa Bank Kenya Plc
+Village Market - Premier Life Cent
+047
+0 Nairobi County
+03
+150
+Absa Bank Kenya Plc
+Absa Rupa Mall
+027
+0 Uasin Gishu
+03
+106
+Absa Bank Kenya Plc
+Sarit Centre - Premier Life Centre
+047
+0 Nairobi County
+03
+109
+Absa Bank Kenya Plc
+Yaya Centre- Premier Life Centre
+047
+0 Nairobi County
+03
+111
+Absa Bank Kenya Plc
+Naivasha Branch
+032
+0 Nakuru
+03
+113
+Absa Bank Kenya Plc
+Market Branch
+047
+0 Nairobi County
+03
+114
+Absa Bank Kenya Plc
+Changamwe Branch
+001
+0 Mombasa
+03
+117
+Absa Bank Kenya Plc
+Rahimtulla Trust Towers - Premie
+047
+0 Nairobi County
+03
+125
+Absa Bank Kenya Plc
+Nakuru West Branch
+032
+0 Nakuru
+03
+078
+Absa Bank Kenya Plc
+Kiriaini Branch
+019
+0 Nyeri
+03
+079
+Absa Bank Kenya Plc
+Butere Road Branch
+047
+0 Nairobi County
+03
+080
+Absa Bank Kenya Plc
+Migori Branch
+044
+0 Migori
+03
+081
+Absa Bank Kenya Plc
+Digo Branch
+001
+0 Mombasa
+03
+082
+Absa Bank Kenya Plc
+Haile Selassie Avenue Branch
+047
+0 Nairobi County
+03
+083
+Absa Bank Kenya Plc
+Nairobi University Branch
+047
+0 Nairobi County
+03
+084
+Absa Bank Kenya Plc
+Bunyala Road
+047
+0 Nairobi County
+03
+086
+Absa Bank Kenya Plc
+Nairobi West Branch
+047
+0 Nairobi County
+03
+087
+Absa Bank Kenya Plc
+Parklands
+047
+0 Nairobi County
+03
+088
+Absa Bank Kenya Plc
+Busia
+040
+0 Busia
+03
+089
+Absa Bank Kenya Plc
+Pangani Branch
+047
+0 Nairobi County
+03
+090
+Absa Bank Kenya Plc
+Abc Premier Life Centre
+047
+0 Nairobi County
+03
+093
+Absa Bank Kenya Plc
+Kariobangi Branch
+047
+0 Nairobi County
+03
+094
+Absa Bank Kenya Plc
+Queensway House Branch
+047
+0 Nairobi County
+03
+095
+Absa Bank Kenya Plc
+Nakumatt Embakasi Branch
+047
+0 Nairobi County
+03
+096
+Absa Bank Kenya Plc
+Barclays Merchant Finance Ltd.
+047
+0 Nairobi County
+03
+097
+Absa Bank Kenya Plc
+Barclays Securities Services (k
+047
+0 Nairobi County
+03
+100
+Absa Bank Kenya Plc
+Diani Branch
+001
+0 Mombasa
+03
+154
+Absa Bank Kenya Plc
+Kamakis
+022
+0 Kiambu
+03
+190
+Absa Bank Kenya Plc
+Nanyuki Branch
+019
+0 Nyeri
+03
+206
+Absa Bank Kenya Plc
+Karatina Branch
+019
+0 Nyeri
+03
+220
+Absa Bank Kenya Plc
+Mombasa Nyerere Ave - Premier
+001
+0 Mombasa
+03
+273
+Absa Bank Kenya Plc
+Consumer Operations
+047
+0 Nairobi County
+03
+300
+Absa Bank Kenya Plc
+Finance Department
+047
+0 Nairobi County
+03
+337
+Absa Bank Kenya Plc
+Documents And Securities Dsc
+047
+0 Nairobi County
+03
+152
+Absa Bank Kenya Plc
+Absa Imaara Mall
+047
+0 Nairobi County
+03
+340
+Absa Bank Kenya Plc
+Retail Credit Team
+047
+0 Nairobi County
+03
+354
+Absa Bank Kenya Plc
+Credit Operations
+047
+0 Nairobi County
+03
+400
+Absa Bank Kenya Plc
+Head office
+047
+0 Nairobi County
+03
+149
+Absa Bank Kenya Plc
+ABSA BBS Mall
+047
+0 Nairobi County
+03
+152
+Absa Bank Kenya Plc
+Absa Imara Mall
+047
+0 Nairobi County
+03
+128
+Absa Bank Kenya Plc
+Bamburi Branch
+001
+0 Mombasa
+03
+130
+Absa Bank Kenya Plc
+Harambee Ave - Premier Life Cen
+047
+0 Nairobi County
+
+
+03
+132
+Absa Bank Kenya Plc
+Kitale Branch
+026
+0 Trans-Nzoia
+03
+139
+Absa Bank Kenya Plc
+Nyahururu Branch
+018
+0 Nyandarua
+03
+144
+Absa Bank Kenya Plc
+Treasury Operations
+047
+0 Nairobi County
+03
+145
+Absa Bank Kenya Plc
+Moi Avenue Mombasa - Premier
+001
+0 Mombasa
+03
+151
+Absa Bank Kenya Plc
+Cash Monitoring Unit
+047
+0 Nairobi County
+03
+049
+Absa Bank Kenya Plc
+Lavington Branch
+047
+0 Nairobi County
+03
+050
+Absa Bank Kenya Plc
+Tala
+016
+0 Machakos
+03
+051
+Absa Bank Kenya Plc
+Homa Bay Branch
+043
+0 Homa Bay
+03
+052
+Absa Bank Kenya Plc
+Ongata Rongai Branch
+034
+0 Kajiado
+03
+053
+Absa Bank Kenya Plc
+Othaya Branch
+019
+0 Nyeri
+03
+054
+Absa Bank Kenya Plc
+Voi Branch
+006
+0 Taita Taveta
+03
+055
+Absa Bank Kenya Plc
+Muthaiga Branch
+047
+0 Nairobi County
+03
+056
+Absa Bank Kenya Plc
+Barclays Advisory And Reg. Servi
+047
+0 Nairobi County
+03
+057
+Absa Bank Kenya Plc
+Githunguri Branch
+022
+0 Kiambu
+03
+058
+Absa Bank Kenya Plc
+Webuye Branch
+039
+0 Bungoma
+03
+059
+Absa Bank Kenya Plc
+Kasarani Branch
+047
+0 Nairobi County
+03
+060
+Absa Bank Kenya Plc
+Chuka Branch
+013
+0 Tharaka-Nithi
+03
+061
+Absa Bank Kenya Plc
+Nakumatt-westgate Branch
+047
+0 Nairobi County
+03
+062
+Absa Bank Kenya Plc
+Kabarnet Branch
+030
+0 Baringo
+03
+063
+Absa Bank Kenya Plc
+Kerugoya Branch
+020
+0 Kirinyaga
+03
+064
+Absa Bank Kenya Plc
+Taveta Branch
+006
+0 Taita Taveta
+05
+000
+Bank of India
+Kenyatta Avenue , Nairobi
+047
+0 Nairobi County
+05
+001
+Bank of India
+Nkrumah Road , Mombasa
+001
+0 Mombasa
+05
+002
+Bank of India
+Industrial Area
+047
+0 Nairobi County
+05
+003
+Bank of India
+Westlands
+047
+0 Nairobi County
+05
+005
+Bank of India
+Eldoret
+027
+0 Uasin Gishu
+06
+007
+Bank of Baroda(Kenya Ltd)
+Industrial Area
+047
+0 Nairobi County
+06
+008
+Bank of Baroda(Kenya Ltd)
+Eldoret
+027
+0 Uasin Gishu
+06
+009
+Bank of Baroda(Kenya Ltd)
+Nakuru
+032
+0 Nakuru
+06
+010
+Bank of Baroda(Kenya Ltd)
+Kakamega
+037
+0 Kakamega
+06
+011
+Bank of Baroda(Kenya Ltd)
+Nyali Mombasa
+001
+0 Mombasa
+06
+012
+Bank of Baroda(Kenya Ltd)
+Meru
+012
+0 Meru
+06
+015
+Bank of Baroda(Kenya Ltd)
+Diamond Plaza
+047
+0 Nairobi County
+06
+016
+Bank of Baroda(Kenya Ltd)
+Mombasa Road
+047
+0 Nairobi County
+06
+000
+Bank of Baroda(Kenya Ltd)
+Nairobi Main
+047
+0 Nairobi County
+06
+002
+Bank of Baroda(Kenya Ltd)
+Digo Road, Mombasa
+001
+0 Mombasa
+06
+004
+Bank of Baroda(Kenya Ltd)
+Thika
+022
+0 Kiambu
+06
+005
+Bank of Baroda(Kenya Ltd)
+Kisumu
+042
+0 Kisumu
+06
+006
+Bank of Baroda(Kenya Ltd)
+Sarit Centre
+047
+0 Nairobi County
+06
+017
+Bank of Baroda(Kenya Ltd)
+Muthithi road
+047
+0 Nairobi County
+07
+235
+NCBA Bank Kenya Plc
+Nyahururu Branch
+031
+0 Laikipia
+07
+204
+NCBA Bank Kenya Plc
+Sarit Centre Branch
+047
+0 Nairobi County
+07
+000
+NCBA Bank Kenya Plc
+Head Office
+047
+0 Nairobi County
+07
+001
+NCBA Bank Kenya Plc
+Upper Hill
+047
+0 Nairobi County
+07
+002
+NCBA Bank Kenya Plc
+Wabera Street
+047
+0 Nairobi County
+07
+003
+NCBA Bank Kenya Plc
+Mama Ngina
+047
+0 Nairobi County
+07
+004
+NCBA Bank Kenya Plc
+Westlands Branch
+047
+0 Nairobi County
+07
+232
+NCBA Bank Kenya Plc
+Kitui Branch
+015
+0 Kitui
+07
+104
+NCBA Bank Kenya Plc
+Head Office-Fargo
+047
+0 Nairobi County
+07
+108
+NCBA Bank Kenya Plc
+City Mall Branch
+001
+0 Mombasa
+07
+109
+NCBA Bank Kenya Plc
+Nkrumah Road
+001
+0 Mombasa
+07
+227
+NCBA Bank Kenya Plc
+RUAKA BRANCH
+022
+0 Kiambu
+
+
+07
+115
+NCBA Bank Kenya Plc
+Galleria (Bomas)
+047
+0 Nairobi County
+07
+116
+NCBA Bank Kenya Plc
+Eldoret
+027
+0 Uasin Gishu
+07
+117
+NCBA Bank Kenya Plc
+Village Market
+047
+0 Nairobi County
+07
+236
+NCBA Bank Kenya Plc
+Tatu City Branch
+022
+0 Kiambu
+07
+233
+NCBA Bank Kenya Plc
+Kerugoya Branch
+020
+0 Kirinyaga
+07
+231
+NCBA Bank Kenya Plc
+Githunguri
+022
+0 Kiambu
+07
+230
+NCBA Bank Kenya Plc
+Limuru
+022
+0 Kiambu
+07
+234
+NCBA Bank Kenya Plc
+Kawangware
+047
+0 Nairobi County
+07
+229
+NCBA Bank Kenya Plc
+Homa Bay
+043
+0 Homa Bay
+07
+225
+NCBA Bank Kenya Plc
+Wote Branch
+017
+0 Makueni
+07
+228
+NCBA Bank Kenya Plc
+Kapsabet Branch
+029
+0 Nandi
+07
+219
+NCBA Bank Kenya Plc
+Busia
+040
+0 Busia
+07
+223
+NCBA Bank Kenya Plc
+Kenol Town
+021
+0 Murang'a
+07
+222
+NCBA Bank Kenya Plc
+Utawala Nairobi
+047
+0 Nairobi County
+07
+221
+NCBA Bank Kenya Plc
+Eastleigh Nairobi
+047
+0 Nairobi County
+07
+33
+NCBA Bank Kenya Plc
+River Road
+000
+0 UNKNOWN
+07
+218
+NCBA Bank Kenya Plc
+Muranga
+021
+0 Murang'a
+07
+224
+NCBA Bank Kenya Plc
+Kahawa Sukari
+000
+0 UNKNOWN
+07
+220
+NCBA Bank Kenya Plc
+Chwele
+047
+0 Nairobi County
+07
+226
+NCBA Bank Kenya Plc
+Migori Branch
+000
+0 UNKNOWN
+07
+131
+NCBA Bank Kenya Plc
+Kisii
+045
+0 Kisii
+07
+132
+NCBA Bank Kenya Plc
+KMA Centre
+047
+0 Nairobi County
+07
+133
+NCBA Bank Kenya Plc
+Buru Buru
+047
+0 Nairobi County
+07
+134
+NCBA Bank Kenya Plc
+CPA Centre, Ruaraka
+047
+0 Nairobi County
+07
+135
+NCBA Bank Kenya Plc
+Rongai
+034
+0 Kajiado
+07
+141
+NCBA Bank Kenya Plc
+Rosslyn Riviera
+047
+0 Nairobi County
+07
+142
+NCBA Bank Kenya Plc
+Ciata Mall
+022
+0 Kiambu
+07
+143
+NCBA Bank Kenya Plc
+Parklands
+047
+0 Nairobi County
+07
+144
+NCBA Bank Kenya Plc
+Nanyuki
+031
+0 Laikipia
+07
+145
+NCBA Bank Kenya Plc
+Malindi
+003
+0 Kilifi
+07
+005
+NCBA Bank Kenya Plc
+Industrial Area
+047
+0 Nairobi County
+07
+006
+NCBA Bank Kenya Plc
+Mamlaka
+047
+0 Nairobi County
+07
+007
+NCBA Bank Kenya Plc
+Village Market
+047
+0 Nairobi County
+07
+008
+NCBA Bank Kenya Plc
+Cargo Centre
+047
+0 Nairobi County
+07
+009
+NCBA Bank Kenya Plc
+Park Side
+047
+0 Nairobi County
+07
+026
+NCBA Bank Kenya Plc
+Eldoret
+027
+0 Uasin Gishu
+07
+027
+NCBA Bank Kenya Plc
+Kisumu
+042
+0 Kisumu
+07
+028
+NCBA Bank Kenya Plc
+Thika
+022
+0 Kiambu
+07
+029
+NCBA Bank Kenya Plc
+Nanyuki
+031
+0 Laikipia
+07
+030
+NCBA Bank Kenya Plc
+Yaya Centre
+047
+0 Nairobi County
+07
+031
+NCBA Bank Kenya Plc
+Lavington
+047
+0 Nairobi County
+07
+032
+NCBA Bank Kenya Plc
+Machakos
+016
+0 Machakos
+07
+016
+NCBA Bank Kenya Plc
+Galleria Mall
+047
+0 Nairobi County
+07
+017
+NCBA Bank Kenya Plc
+Junction
+047
+0 Nairobi County
+07
+018
+NCBA Bank Kenya Plc
+Thika Road Mall
+047
+0 Nairobi County
+07
+019
+NCBA Bank Kenya Plc
+Greenspan Mall
+047
+0 Nairobi County
+07
+020
+NCBA Bank Kenya Plc
+Moi Avenue Mombasa
+001
+0 Mombasa
+07
+021
+NCBA Bank Kenya Plc
+Meru
+012
+0 Meru
+07
+022
+NCBA Bank Kenya Plc
+Nakuru
+032
+0 Nakuru
+07
+023
+NCBA Bank Kenya Plc
+Nyali
+001
+0 Mombasa
+07
+024
+NCBA Bank Kenya Plc
+Diani
+002
+0 Kwale
+07
+025
+NCBA Bank Kenya Plc
+Changamwe
+001
+0 Mombasa
+
+
+07
+209
+NCBA Bank Kenya Plc
+Mwembe Tayari
+001
+0 Mombasa
+07
+208
+NCBA Bank Kenya Plc
+Ruiru Eastern Bypass
+022
+0 Kiambu
+07
+206
+NCBA Bank Kenya Plc
+Nyeri
+019
+0 Nyeri
+07
+207
+NCBA Bank Kenya Plc
+Karatina
+019
+0 Nyeri
+07
+210
+NCBA Bank Kenya Plc
+Kakamega
+037
+0 Kakamega
+07
+033
+NCBA Bank Kenya Plc
+River Road
+047
+0 Nairobi County
+07
+034
+NCBA Bank Kenya Plc
+Karen Hub
+047
+0 Nairobi County
+07
+211
+NCBA Bank Kenya Plc
+Kericho
+035
+0 Kericho
+07
+213
+NCBA Bank Kenya Plc
+Bungoma
+039
+0 Bungoma
+07
+212
+NCBA Bank Kenya Plc
+Embu
+014
+0 Embu
+07
+216
+NCBA Bank Kenya Plc
+Gikomba
+047
+0 Nairobi County
+07
+214
+NCBA Bank Kenya Plc
+Ngong
+034
+0 Kajiado
+07
+215
+NCBA Bank Kenya Plc
+Kiambu
+022
+0 Kiambu
+07
+217
+NCBA Bank Kenya Plc
+Naivasha
+032
+0 Nakuru
+07
+035
+NCBA Bank Kenya Plc
+Garden City
+047
+0 Nairobi County
+07
+036
+NCBA Bank Kenya Plc
+Two Rivers Mall
+022
+0 Kiambu
+07
+101
+NCBA Bank Kenya Plc
+City Centre
+047
+0 Nairobi County
+07
+102
+NCBA Bank Kenya Plc
+NIC House
+047
+0 Nairobi County
+07
+103
+NCBA Bank Kenya Plc
+Harbour House
+001
+0 Mombasa
+07
+105
+NCBA Bank Kenya Plc
+The Mall Branch, Westlands
+047
+0 Nairobi County
+07
+106
+NCBA Bank Kenya Plc
+The Junction Br.
+047
+0 Nairobi County
+07
+107
+NCBA Bank Kenya Plc
+Nakuru Tower One Branch
+047
+0 Nairobi County
+07
+110
+NCBA Bank Kenya Plc
+Harambee
+047
+0 Nairobi County
+07
+111
+NCBA Bank Kenya Plc
+Prestige-Ngong Road
+047
+0 Nairobi County
+07
+112
+NCBA Bank Kenya Plc
+One Kentons Square Branch
+042
+0 Kisumu
+07
+113
+NCBA Bank Kenya Plc
+Thika
+022
+0 Kiambu
+07
+114
+NCBA Bank Kenya Plc
+Meru
+012
+0 Meru
+07
+118
+NCBA Bank Kenya Plc
+Sameer Park
+047
+0 Nairobi County
+07
+119
+NCBA Bank Kenya Plc
+Karen
+047
+0 Nairobi County
+07
+121
+NCBA Bank Kenya Plc
+Taj Mall
+047
+0 Nairobi County
+07
+122
+NCBA Bank Kenya Plc
+ABC
+047
+0 Nairobi County
+07
+123
+NCBA Bank Kenya Plc
+Thika Road Mall
+047
+0 Nairobi County
+07
+124
+NCBA Bank Kenya Plc
+Changamwe Branch
+001
+0 Mombasa
+07
+125
+NCBA Bank Kenya Plc
+Kenyatta Avenue
+047
+0 Nairobi County
+07
+126
+NCBA Bank Kenya Plc
+Riverside
+047
+0 Nairobi County
+07
+127
+NCBA Bank Kenya Plc
+Machakos
+016
+0 Machakos
+07
+128
+NCBA Bank Kenya Plc
+Lunga Lunga Square
+047
+0 Nairobi County
+07
+129
+NCBA Bank Kenya Plc
+Kilimani
+047
+0 Nairobi County
+07
+130
+NCBA Bank Kenya Plc
+Kitengela
+034
+0 Kajiado
+07
+146
+NCBA Bank Kenya Plc
+Kilifi
+003
+0 Kilifi
+07
+147
+NCBA Bank Kenya Plc
+Watamu
+003
+0 Kilifi
+07
+148
+NCBA Bank Kenya Plc
+Ukunda Branch
+002
+0 Kwale
+07
+149
+NCBA Bank Kenya Plc
+Kitale
+026
+0 Trans-Nzoia
+07
+200
+NCBA Bank Kenya Plc
+Narok Branch
+033
+0 Narok
+07
+201
+NCBA Bank Kenya Plc
+Lavington Branch
+047
+0 Nairobi County
+07
+500
+NCBA Bank Kenya Plc
+Head Office
+047
+0 Nairobi County
+07
+501
+NCBA Bank Kenya Plc
+Head Office
+047
+0 Nairobi County
+07
+502
+NCBA Bank Kenya Plc
+Head Office
+047
+0 Nairobi County
+07
+503
+NCBA Bank Kenya Plc
+Head Office
+047
+0 Nairobi County
+07
+600
+NCBA Bank Kenya Plc
+Head Office
+047
+0 Nairobi County
+09
+006
+Central Bank Of Kenya
+Nakuru Centre
+032
+0 Nakuru
+09
+000
+Central Bank Of Kenya
+Head Office
+047
+0 Nairobi County
+
+
+09
+001
+Central Bank Of Kenya
+Head Office
+047
+0 Nairobi County
+09
+008
+Central Bank Of Kenya
+Kisii Centre
+045
+0 Kisii
+09
+003
+Central Bank Of Kenya
+Kisumu
+042
+0 Kisumu
+09
+004
+Central Bank Of Kenya
+Eldoret
+027
+0 Uasin Gishu
+09
+002
+Central Bank Of Kenya
+Mombasa
+001
+0 Mombasa
+10
+025
+Prime Bank Limited
+Village Market
+047
+0 Nairobi County
+10
+026
+Prime Bank Limited
+Kitale
+026
+0 Trans-Nzoia
+10
+027
+Prime Bank Limited
+Baba Dogo
+000
+0 UNKNOWN
+10
+019
+Prime Bank Limited
+Thika
+022
+0 Kiambu
+10
+020
+Prime Bank Limited
+Garden City
+000
+0 UNKNOWN
+10
+021
+Prime Bank Limited
+Two Rivers
+000
+0 UNKNOWN
+10
+023
+Prime Bank Limited
+Meru
+012
+0 Meru
+10
+024
+Prime Bank Limited
+Lavington Branch
+047
+0 Nairobi County
+10
+022
+Prime Bank Limited
+UAP Towers
+000
+0 UNKNOWN
+10
+000
+Prime Bank Limited
+H/o Riverside
+047
+0 Nairobi County
+10
+001
+Prime Bank Limited
+Kenindia
+047
+0 Nairobi County
+10
+002
+Prime Bank Limited
+Biashara
+047
+0 Nairobi County
+10
+003
+Prime Bank Limited
+Mombasa
+001
+0 Mombasa
+10
+004
+Prime Bank Limited
+Westlands
+047
+0 Nairobi County
+10
+005
+Prime Bank Limited
+Industrial Area
+047
+0 Nairobi County
+10
+006
+Prime Bank Limited
+Kisumu
+042
+0 Kisumu
+10
+007
+Prime Bank Limited
+Parklands
+047
+0 Nairobi County
+10
+008
+Prime Bank Limited
+Riverside Drive
+047
+0 Nairobi County
+10
+009
+Prime Bank Limited
+Card Centre
+000
+0 UNKNOWN
+10
+010
+Prime Bank Limited
+Hurlingham
+047
+0 Nairobi County
+10
+011
+Prime Bank Limited
+Capital Centre
+047
+0 Nairobi County
+10
+012
+Prime Bank Limited
+Nyali
+001
+0 Mombasa
+10
+014
+Prime Bank Limited
+Kamukunji
+047
+0 Nairobi County
+10
+015
+Prime Bank Limited
+Eldoret
+027
+0 Uasin Gishu
+10
+016
+Prime Bank Limited
+Karen
+047
+0 Nairobi County
+10
+017
+Prime Bank Limited
+Nakuru
+032
+0 Nakuru
+11
+083
+Co-operative Bank of Kenya Limited
+Keroka
+046
+0 Nyamira
+11
+084
+Co-operative Bank of Kenya Limited
+Gilgil
+032
+0 Nakuru
+11
+085
+Co-operative Bank of Kenya Limited
+Tom Mboya
+047
+0 Nairobi County
+11
+086
+Co-operative Bank of Kenya Limited
+Likoni
+001
+0 Mombasa
+11
+087
+Co-operative Bank of Kenya Limited
+Donholm
+047
+0 Nairobi County
+11
+088
+Co-operative Bank of Kenya Limited
+Mwingi
+015
+0 Kitui
+11
+089
+Co-operative Bank of Kenya Limited
+Ruaka
+022
+0 Kiambu
+11
+090
+Co-operative Bank of Kenya Limited
+Webuye
+039
+0 Bungoma
+11
+094
+Co-operative Bank of Kenya Limited
+Sacco Clearing Unit
+047
+0 Nairobi County
+11
+097
+Co-operative Bank of Kenya Limited
+Clearing Centre
+047
+0 Nairobi County
+11
+100
+Co-operative Bank of Kenya Limited
+Ndhiwa
+043
+0 Homa Bay
+11
+101
+Co-operative Bank of Kenya Limited
+Oyugis
+043
+0 Homa Bay
+11
+102
+Co-operative Bank of Kenya Limited
+Isiolo
+011
+0 Isiolo
+11
+103
+Co-operative Bank of Kenya Limited
+Uganda Road Eldoret
+027
+0 Uasin Gishu
+11
+104
+Co-operative Bank of Kenya Limited
+Changamwe
+001
+0 Mombasa
+11
+105
+Co-operative Bank of Kenya Limited
+Kondele
+042
+0 Kisumu
+11
+106
+Co-operative Bank of Kenya Limited
+Githurai Kimbo
+022
+0 Kiambu
+11
+107
+Co-operative Bank of Kenya Limited
+Mlolongo
+016
+0 Machakos
+11
+108
+Co-operative Bank of Kenya Limited
+Kilifi
+003
+0 Kilifi
+11
+109
+Co-operative Bank of Kenya Limited
+Ol Kalau
+018
+0 Nyandarua
+11
+110
+Co-operative Bank of Kenya Limited
+Mbale
+038
+0 Vihiga
+
+
+11
+111
+Co-operative Bank of Kenya Limited
+Kimilili
+039
+0 Bungoma
+11
+035
+Co-operative Bank of Kenya Limited
+Stima Plaza
+047
+0 Nairobi County
+11
+170
+Co-operative Bank of Kenya Limited
+Kamulu Branch
+047
+0 Nairobi County
+11
+156
+Co-operative Bank of Kenya Limited
+Ridgeways Mall
+047
+0 Nairobi County
+11
+157
+Co-operative Bank of Kenya Limited
+Two Rivers Mall
+047
+0 Nairobi County
+11
+158
+Co-operative Bank of Kenya Limited
+JKIA
+047
+0 Nairobi County
+11
+154
+Co-operative Bank of Kenya Limited
+Gikomba Area 42
+047
+0 Nairobi County
+11
+166
+Co-operative Bank of Kenya Limited
+Kapenguria Sub - Branch
+024
+0 West Pokot
+11
+162
+Co-operative Bank of Kenya Limited
+Litein
+035
+0 Kericho
+11
+161
+Co-operative Bank of Kenya Limited
+Kilimani
+047
+0 Nairobi County
+11
+159
+Co-operative Bank of Kenya Limited
+Emali
+017
+0 Makueni
+11
+163
+Co-operative Bank of Kenya Limited
+Thika Makongeni
+022
+0 Kiambu
+11
+160
+Co-operative Bank of Kenya Limited
+Kangema
+021
+0 Murang'a
+11
+155
+Co-operative Bank of Kenya Limited
+Utawala
+047
+0 Nairobi County
+11
+020
+Co-operative Bank of Kenya Limited
+Eastleigh
+047
+0 Nairobi County
+11
+021
+Co-operative Bank of Kenya Limited
+Kiambu
+022
+0 Kiambu
+11
+022
+Co-operative Bank of Kenya Limited
+Homa Bay
+043
+0 Homa Bay
+11
+023
+Co-operative Bank of Kenya Limited
+Embu
+014
+0 Embu
+11
+024
+Co-operative Bank of Kenya Limited
+Kericho
+035
+0 Kericho
+11
+025
+Co-operative Bank of Kenya Limited
+Bungoma
+039
+0 Bungoma
+11
+026
+Co-operative Bank of Kenya Limited
+Muranga
+021
+0 Murang'a
+11
+027
+Co-operative Bank of Kenya Limited
+Kayole
+047
+0 Nairobi County
+11
+028
+Co-operative Bank of Kenya Limited
+Karatina
+019
+0 Nyeri
+11
+029
+Co-operative Bank of Kenya Limited
+Ukunda
+002
+0 Kwale
+11
+030
+Co-operative Bank of Kenya Limited
+Mtwapa
+003
+0 Kilifi
+11
+031
+Co-operative Bank of Kenya Limited
+University Way
+047
+0 Nairobi County
+11
+032
+Co-operative Bank of Kenya Limited
+Buru Buru
+047
+0 Nairobi County
+11
+033
+Co-operative Bank of Kenya Limited
+Athi River
+016
+0 Machakos
+11
+034
+Co-operative Bank of Kenya Limited
+Mumias
+037
+0 Kakamega
+11
+038
+Co-operative Bank of Kenya Limited
+Ongata Rongai
+034
+0 Kajiado
+11
+039
+Co-operative Bank of Kenya Limited
+Thika
+022
+0 Kiambu
+11
+040
+Co-operative Bank of Kenya Limited
+Nacico
+047
+0 Nairobi County
+11
+041
+Co-operative Bank of Kenya Limited
+Kariobangi
+047
+0 Nairobi County
+11
+042
+Co-operative Bank of Kenya Limited
+Kawangware
+047
+0 Nairobi County
+11
+043
+Co-operative Bank of Kenya Limited
+Makutano
+012
+0 Meru
+11
+044
+Co-operative Bank of Kenya Limited
+Parliament road
+047
+0 Nairobi County
+11
+045
+Co-operative Bank of Kenya Limited
+Kimathi Street
+047
+0 Nairobi County
+11
+046
+Co-operative Bank of Kenya Limited
+Kitale
+026
+0 Trans-Nzoia
+11
+047
+Co-operative Bank of Kenya Limited
+Githurai
+022
+0 Kiambu
+11
+048
+Co-operative Bank of Kenya Limited
+Maua
+012
+0 Meru
+11
+049
+Co-operative Bank of Kenya Limited
+City Hall
+047
+0 Nairobi County
+11
+050
+Co-operative Bank of Kenya Limited
+Digo Rd
+001
+0 Mombasa
+11
+051
+Co-operative Bank of Kenya Limited
+Nbc
+047
+0 Nairobi County
+11
+228
+Co-operative Bank of Kenya Limited
+Shares Operations
+047
+0 Nairobi County
+11
+247
+Co-operative Bank of Kenya Limited
+Back Office Operations
+047
+0 Nairobi County
+11
+250
+Co-operative Bank of Kenya Limited
+E- Channels Unit
+047
+0 Nairobi County
+11
+254
+Co-operative Bank of Kenya Limited
+Diaspora Banking
+047
+0 Nairobi County
+11
+266
+Co-operative Bank of Kenya Limited
+Kilindini Port
+001
+0 Mombasa
+11
+270
+Co-operative Bank of Kenya Limited
+Money Transfers Agency
+047
+0 Nairobi County
+11
+052
+Co-operative Bank of Kenya Limited
+Kakamega
+037
+0 Kakamega
+11
+053
+Co-operative Bank of Kenya Limited
+Migori
+044
+0 Migori
+11
+054
+Co-operative Bank of Kenya Limited
+Kenyatta Avenue
+001
+0 Mombasa
+
+
+11
+055
+Co-operative Bank of Kenya Limited
+Nkubu
+012
+0 Meru
+11
+056
+Co-operative Bank of Kenya Limited
+Enterprise Road
+047
+0 Nairobi County
+11
+057
+Co-operative Bank of Kenya Limited
+Busia
+040
+0 Busia
+11
+058
+Co-operative Bank of Kenya Limited
+Siaya
+041
+0 Siaya
+11
+059
+Co-operative Bank of Kenya Limited
+Voi
+006
+0 Taita Taveta
+11
+060
+Co-operative Bank of Kenya Limited
+Mariakani
+003
+0 Kilifi
+11
+061
+Co-operative Bank of Kenya Limited
+Malindi
+003
+0 Kilifi
+11
+128
+Co-operative Bank of Kenya Limited
+Marsabit
+010
+0 Marsabit
+11
+130
+Co-operative Bank of Kenya Limited
+Dagoretti
+047
+0 Nairobi County
+11
+131
+Co-operative Bank of Kenya Limited
+Othaya
+019
+0 Nyeri
+11
+132
+Co-operative Bank of Kenya Limited
+Limuru
+022
+0 Kiambu
+11
+133
+Co-operative Bank of Kenya Limited
+Kikuyu
+022
+0 Kiambu
+11
+134
+Co-operative Bank of Kenya Limited
+Githunguri
+022
+0 Kiambu
+11
+135
+Co-operative Bank of Kenya Limited
+Karen
+047
+0 Nairobi County
+11
+136
+Co-operative Bank of Kenya Limited
+Mpeketoni
+005
+0 Lamu
+11
+000
+Co-operative Bank of Kenya Limited
+Head Office
+047
+0 Nairobi County
+11
+001
+Co-operative Bank of Kenya Limited
+Finance And Accounts
+047
+0 Nairobi County
+11
+002
+Co-operative Bank of Kenya Limited
+Co-op House
+047
+0 Nairobi County
+11
+003
+Co-operative Bank of Kenya Limited
+Kisumu
+042
+0 Kisumu
+11
+004
+Co-operative Bank of Kenya Limited
+Nkurumah Road
+001
+0 Mombasa
+11
+005
+Co-operative Bank of Kenya Limited
+Meru
+012
+0 Meru
+11
+006
+Co-operative Bank of Kenya Limited
+Nakuru
+032
+0 Nakuru
+11
+007
+Co-operative Bank of Kenya Limited
+Industrial Area
+047
+0 Nairobi County
+11
+008
+Co-operative Bank of Kenya Limited
+Kisii
+045
+0 Kisii
+11
+009
+Co-operative Bank of Kenya Limited
+Machakos
+016
+0 Machakos
+11
+010
+Co-operative Bank of Kenya Limited
+Nyeri
+019
+0 Nyeri
+11
+011
+Co-operative Bank of Kenya Limited
+Ukulima
+047
+0 Nairobi County
+11
+012
+Co-operative Bank of Kenya Limited
+Kerugoya
+020
+0 Kirinyaga
+11
+013
+Co-operative Bank of Kenya Limited
+Eldoret
+027
+0 Uasin Gishu
+11
+014
+Co-operative Bank of Kenya Limited
+Moi Avenue
+047
+0 Nairobi County
+11
+015
+Co-operative Bank of Kenya Limited
+Naivasha
+032
+0 Nakuru
+11
+017
+Co-operative Bank of Kenya Limited
+Nyahururu
+031
+0 Laikipia
+11
+018
+Co-operative Bank of Kenya Limited
+Chuka
+013
+0 Tharaka-Nithi
+11
+019
+Co-operative Bank of Kenya Limited
+Wakulima Market
+047
+0 Nairobi County
+11
+062
+Co-operative Bank of Kenya Limited
+Zimmerman
+047
+0 Nairobi County
+11
+063
+Co-operative Bank of Kenya Limited
+Kenyatta Avenue Nakuru
+032
+0 Nakuru
+11
+064
+Co-operative Bank of Kenya Limited
+Kitengela
+016
+0 Machakos
+11
+065
+Co-operative Bank of Kenya Limited
+Aga Khan Walk
+047
+0 Nairobi County
+11
+066
+Co-operative Bank of Kenya Limited
+Narok
+033
+0 Narok
+11
+067
+Co-operative Bank of Kenya Limited
+Kitui
+015
+0 Kitui
+11
+068
+Co-operative Bank of Kenya Limited
+Nanyuki
+031
+0 Laikipia
+11
+069
+Co-operative Bank of Kenya Limited
+Embakasi
+047
+0 Nairobi County
+11
+070
+Co-operative Bank of Kenya Limited
+Kibera
+047
+0 Nairobi County
+11
+071
+Co-operative Bank of Kenya Limited
+Siakago
+014
+0 Embu
+11
+072
+Co-operative Bank of Kenya Limited
+Kapsabet
+029
+0 Nandi
+11
+073
+Co-operative Bank of Kenya Limited
+Mbita
+043
+0 Homa Bay
+11
+074
+Co-operative Bank of Kenya Limited
+Kangemi
+047
+0 Nairobi County
+11
+075
+Co-operative Bank of Kenya Limited
+Dandora
+047
+0 Nairobi County
+11
+076
+Co-operative Bank of Kenya Limited
+Kajiado
+034
+0 Kajiado
+11
+077
+Co-operative Bank of Kenya Limited
+Tala
+016
+0 Machakos
+11
+078
+Co-operative Bank of Kenya Limited
+Gikomba
+047
+0 Nairobi County
+11
+079
+Co-operative Bank of Kenya Limited
+River Road
+047
+0 Nairobi County
+
+
+11
+080
+Co-operative Bank of Kenya Limited
+Nyamira
+046
+0 Nyamira
+11
+081
+Co-operative Bank of Kenya Limited
+Garisa
+007
+0 Garissa
+11
+082
+Co-operative Bank of Kenya Limited
+Bomet
+036
+0 Bomet
+11
+189
+Co-operative Bank of Kenya Limited
+Eldama Ravine
+030
+0 Baringo
+11
+181
+Co-operative Bank of Kenya Limited
+Isibania Branch
+044
+0 Migori
+11
+184
+Co-operative Bank of Kenya Limited
+Naromoru Branch
+019
+0 Nyeri
+11
+186
+Co-operative Bank of Kenya Limited
+Eldoret Airport Road
+027
+0 Uasin Gishu
+11
+175
+Co-operative Bank of Kenya Limited
+Matuu
+016
+0 Machakos
+11
+171
+Co-operative Bank of Kenya Limited
+Bamburi Branch
+001
+0 Mombasa
+11
+165
+Co-operative Bank of Kenya Limited
+Chogoria
+013
+0 Tharaka-Nithi
+11
+164
+Co-operative Bank of Kenya Limited
+Kenyatta Avenue
+047
+0 Nairobi County
+11
+188
+Co-operative Bank of Kenya Limited
+Ruiru Nord Mall Branch
+022
+0 Kiambu
+11
+177
+Co-operative Bank of Kenya Limited
+Nakuru White House
+032
+0 Nakuru
+11
+180
+Co-operative Bank of Kenya Limited
+luanda branch
+038
+0 Vihiga
+11
+167
+Co-operative Bank of Kenya Limited
+Maralal
+025
+0 Samburu
+11
+172
+Co-operative Bank of Kenya Limited
+GREENWOOD MALL BRANCH
+012
+0 Meru
+11
+187
+Co-operative Bank of Kenya Limited
+Westlands Square Executive Cen
+047
+0 Nairobi County
+11
+191
+Co-operative Bank of Kenya Limited
+Rumuruti
+031
+0 Laikipia
+11
+190
+Co-operative Bank of Kenya Limited
+Eastleigh BBS Mall
+047
+0 Nairobi County
+11
+178
+Co-operative Bank of Kenya Limited
+Ugunja Branch
+041
+0 Siaya
+11
+179
+Co-operative Bank of Kenya Limited
+Imaara Mall Branch
+047
+0 Nairobi County
+11
+185
+Co-operative Bank of Kenya Limited
+Marimanti Branch
+013
+0 Tharaka-Nithi
+11
+183
+Co-operative Bank of Kenya Limited
+Mai Mahiu Branch
+032
+0 Nakuru
+11
+174
+Co-operative Bank of Kenya Limited
+THIKA KWAME NKRUMAH BRA
+022
+0 Kiambu
+11
+176
+Co-operative Bank of Kenya Limited
+Kimana
+034
+0 Kajiado
+11
+146
+Co-operative Bank of Kenya Limited
+Kenol-Makuyu Branch
+021
+0 Murang'a
+11
+182
+Co-operative Bank of Kenya Limited
+Dagoretti Market Branch
+047
+0 Nairobi County
+11
+169
+Co-operative Bank of Kenya Limited
+Eldoret - Kenyatta Street
+027
+0 Uasin Gishu
+11
+173
+Co-operative Bank of Kenya Limited
+Chwele
+000
+0 UNKNOWN
+11
+093
+Co-operative Bank of Kenya Limited
+Hindi Branch
+000
+0 UNKNOWN
+11
+112
+Co-operative Bank of Kenya Limited
+Kisii Highway
+045
+0 Kisii
+11
+113
+Co-operative Bank of Kenya Limited
+Kilgoris
+033
+0 Narok
+11
+114
+Co-operative Bank of Kenya Limited
+Wote
+017
+0 Makueni
+11
+116
+Co-operative Bank of Kenya Limited
+Malaba
+040
+0 Busia
+11
+117
+Co-operative Bank of Kenya Limited
+Molo
+032
+0 Nakuru
+11
+118
+Co-operative Bank of Kenya Limited
+Mwea
+020
+0 Kirinyaga
+11
+119
+Co-operative Bank of Kenya Limited
+Kutus
+020
+0 Kirinyaga
+11
+120
+Co-operative Bank of Kenya Limited
+Umoja
+047
+0 Nairobi County
+11
+121
+Co-operative Bank of Kenya Limited
+Embakasi Junction
+047
+0 Nairobi County
+11
+122
+Co-operative Bank of Kenya Limited
+Kongowea
+001
+0 Mombasa
+11
+123
+Co-operative Bank of Kenya Limited
+Langata Road
+047
+0 Nairobi County
+11
+124
+Co-operative Bank of Kenya Limited
+Juja
+022
+0 Kiambu
+11
+125
+Co-operative Bank of Kenya Limited
+Ngong
+034
+0 Kajiado
+11
+126
+Co-operative Bank of Kenya Limited
+Kawangware 46
+047
+0 Nairobi County
+11
+127
+Co-operative Bank of Kenya Limited
+Mombasa Road
+047
+0 Nairobi County
+11
+092
+Co-operative Bank of Kenya Limited
+Kabarnet Branch
+030
+0 Baringo
+11
+091
+Co-operative Bank of Kenya Limited
+Iten
+028
+0 Elgeyo-Marakwet
+11
+115
+Co-operative Bank of Kenya Limited
+Kasarani Branch
+047
+0 Nairobi County
+11
+129
+Co-operative Bank of Kenya Limited
+Kamakis
+000
+0 UNKNOWN
+11
+036
+Co-operative Bank of Kenya Limited
+Westlands
+047
+0 Nairobi County
+11
+037
+Co-operative Bank of Kenya Limited
+Upper Hill
+047
+0 Nairobi County
+11
+137
+Co-operative Bank of Kenya Limited
+Gatundu
+022
+0 Kiambu
+
+
+11
+138
+Co-operative Bank of Kenya Limited
+Ruiru
+022
+0 Kiambu
+11
+139
+Co-operative Bank of Kenya Limited
+Nyali Mall
+001
+0 Mombasa
+11
+140
+Co-operative Bank of Kenya Limited
+Yala
+041
+0 Siaya
+11
+141
+Co-operative Bank of Kenya Limited
+Maasai Mall - Ongata Rongai
+034
+0 Kajiado
+11
+142
+Co-operative Bank of Kenya Limited
+Thika Road Mall
+047
+0 Nairobi County
+11
+143
+Co-operative Bank of Kenya Limited
+Kiserian
+034
+0 Kajiado
+11
+144
+Co-operative Bank of Kenya Limited
+Nandi Hills
+029
+0 Nandi
+11
+145
+Co-operative Bank of Kenya Limited
+Lodwar
+023
+0 Turkana
+11
+147
+Co-operative Bank of Kenya Limited
+Engineer
+018
+0 Nyandarua
+11
+148
+Co-operative Bank of Kenya Limited
+Rongo
+044
+0 Migori
+11
+149
+Co-operative Bank of Kenya Limited
+Lavington Mall
+047
+0 Nairobi County
+11
+150
+Co-operative Bank of Kenya Limited
+Bondo
+041
+0 Siaya
+11
+151
+Co-operative Bank of Kenya Limited
+Gigiri Mall
+047
+0 Nairobi County
+11
+152
+Co-operative Bank of Kenya Limited
+United Mall, Kisumu
+042
+0 Kisumu
+11
+153
+Co-operative Bank of Kenya Limited
+Green House Mall
+047
+0 Nairobi County
+12
+083
+National Bank Of Kenya
+Newfortis Sacco
+019
+0 Nyeri
+12
+091
+National Bank Of Kenya
+Kenyatta Amana
+047
+0 Nairobi County
+12
+233
+National Bank Of Kenya
+Kisumu Premium Centre Amanah
+000
+0 UNKNOWN
+12
+234
+National Bank Of Kenya
+Kitale Amanah
+000
+0 UNKNOWN
+12
+235
+National Bank Of Kenya
+Kitengela Amanah
+000
+0 UNKNOWN
+12
+236
+National Bank Of Kenya
+Kitui Amanah
+000
+0 UNKNOWN
+12
+237
+National Bank Of Kenya
+Limuru Amanah
+000
+0 UNKNOWN
+12
+238
+National Bank Of Kenya
+Lunga Lunga Amanah
+000
+0 UNKNOWN
+12
+239
+National Bank Of Kenya
+Machakos Amanah
+000
+0 UNKNOWN
+12
+240
+National Bank Of Kenya
+Malindi Amanah
+000
+0 UNKNOWN
+12
+241
+National Bank Of Kenya
+Maua Amanah
+000
+0 UNKNOWN
+12
+242
+National Bank Of Kenya
+Meru Amanah
+000
+0 UNKNOWN
+12
+243
+National Bank Of Kenya
+Migori Amanah
+000
+0 UNKNOWN
+12
+244
+National Bank Of Kenya
+Moi Ave Amanah
+000
+0 UNKNOWN
+12
+245
+National Bank Of Kenya
+Moi University Eldoret Amanah
+000
+0 UNKNOWN
+12
+246
+National Bank Of Kenya
+Mois Bridge Amanah
+000
+0 UNKNOWN
+12
+247
+National Bank Of Kenya
+Molo Amanah
+000
+0 UNKNOWN
+12
+248
+National Bank Of Kenya
+Mountain Mall Amanah
+000
+0 UNKNOWN
+12
+249
+National Bank Of Kenya
+Mtwapa Amanah
+000
+0 UNKNOWN
+12
+250
+National Bank Of Kenya
+Mutomo Amanah
+000
+0 UNKNOWN
+12
+251
+National Bank Of Kenya
+Nakuru Amanah
+000
+0 UNKNOWN
+12
+252
+National Bank Of Kenya
+Nandi Hills Amanah
+000
+0 UNKNOWN
+12
+041
+National Bank Of Kenya
+MOIS BRIDGE
+027
+0 Uasin Gishu
+12
+042
+National Bank Of Kenya
+MUTOMO
+015
+0 Kitui
+12
+043
+National Bank Of Kenya
+KIANJAI
+012
+0 Meru
+12
+044
+National Bank Of Kenya
+KENYATTA UNIVERSITY
+047
+0 Nairobi County
+12
+045
+National Bank Of Kenya
+ST PAULS UNIVERSITY
+022
+0 Kiambu
+12
+046
+National Bank Of Kenya
+MOI UNIVERSITY ELDORET
+027
+0 Uasin Gishu
+12
+047
+National Bank Of Kenya
+MOI INT AIRPORT MOMBASA
+001
+0 Mombasa
+12
+048
+National Bank Of Kenya
+Machakos
+016
+0 Machakos
+12
+049
+National Bank Of Kenya
+Kitengela
+034
+0 Kajiado
+12
+050
+National Bank Of Kenya
+Kisumu
+042
+0 Kisumu
+12
+051
+National Bank Of Kenya
+Mtwapa
+003
+0 Kilifi
+12
+052
+National Bank Of Kenya
+Changamwe
+001
+0 Mombasa
+12
+053
+National Bank Of Kenya
+Garissa
+007
+0 Garissa
+12
+054
+National Bank Of Kenya
+Thika
+022
+0 Kiambu
+12
+055
+National Bank Of Kenya
+Momasa Polytechnic University C
+001
+0 Mombasa
+
+
+12
+075
+National Bank Of Kenya
+Nanyuki
+031
+0 Laikipia
+12
+078
+National Bank Of Kenya
+Wote
+017
+0 Makueni
+12
+079
+National Bank Of Kenya
+Lodwar
+023
+0 Turkana
+12
+081
+National Bank Of Kenya
+Gikomba
+047
+0 Nairobi County
+12
+264
+National Bank Of Kenya
+St. Pauls University Amanah
+000
+0 UNKNOWN
+12
+265
+National Bank Of Kenya
+Technical Univ of MSA Amanah
+000
+0 UNKNOWN
+12
+266
+National Bank Of Kenya
+Thika Amanah
+000
+0 UNKNOWN
+12
+093
+National Bank Of Kenya
+Wajir
+008
+0 Wajir
+12
+094
+National Bank Of Kenya
+Bondeni
+001
+0 Mombasa
+12
+096
+National Bank Of Kenya
+Mandera
+009
+0 Mandera
+12
+098
+National Bank Of Kenya
+Card Centre
+000
+0 UNKNOWN
+12
+099
+National Bank Of Kenya
+Head Office
+000
+0 UNKNOWN
+12
+198
+National Bank Of Kenya
+Central CLearing Centre
+000
+0 UNKNOWN
+12
+200
+National Bank Of Kenya
+Head Office Amanah
+000
+0 UNKNOWN
+12
+201
+National Bank Of Kenya
+Card Centre Amanah
+000
+0 UNKNOWN
+12
+202
+National Bank Of Kenya
+Eastleigh Amanah
+000
+0 UNKNOWN
+12
+203
+National Bank Of Kenya
+Kenyatta Ave Amanah
+000
+0 UNKNOWN
+12
+204
+National Bank Of Kenya
+Wajir Amanah
+000
+0 UNKNOWN
+12
+205
+National Bank Of Kenya
+Bondeni Amanah
+000
+0 UNKNOWN
+12
+206
+National Bank Of Kenya
+Garissa Amanah
+000
+0 UNKNOWN
+12
+207
+National Bank Of Kenya
+Mandera Amanah
+000
+0 UNKNOWN
+12
+208
+National Bank Of Kenya
+Isiolo Amanah
+000
+0 UNKNOWN
+12
+209
+National Bank Of Kenya
+Awendo Amanah
+000
+0 UNKNOWN
+12
+210
+National Bank Of Kenya
+Bomet Amanah
+000
+0 UNKNOWN
+12
+211
+National Bank Of Kenya
+Bungoma Amanah
+000
+0 UNKNOWN
+12
+212
+National Bank Of Kenya
+Busia Amanah
+000
+0 UNKNOWN
+12
+213
+National Bank Of Kenya
+Changamwe Amanah
+000
+0 UNKNOWN
+12
+214
+National Bank Of Kenya
+Eldoret Amanah
+000
+0 UNKNOWN
+12
+215
+National Bank Of Kenya
+Embu Amanah
+000
+0 UNKNOWN
+12
+216
+National Bank Of Kenya
+Gigiri Amanah
+000
+0 UNKNOWN
+12
+217
+National Bank Of Kenya
+Greenspan Amanah
+000
+0 UNKNOWN
+12
+218
+National Bank Of Kenya
+Harambee Ave Amanah
+000
+0 UNKNOWN
+12
+219
+National Bank Of Kenya
+Hill Amanah
+000
+0 UNKNOWN
+12
+220
+National Bank Of Kenya
+Hospital Amanah
+000
+0 UNKNOWN
+12
+221
+National Bank Of Kenya
+JKIA Amanah
+000
+0 UNKNOWN
+12
+222
+National Bank Of Kenya
+Kakamega Amanah
+000
+0 UNKNOWN
+12
+223
+National Bank Of Kenya
+Kapsabet Amanah
+000
+0 UNKNOWN
+12
+224
+National Bank Of Kenya
+Karatina Amanah
+000
+0 UNKNOWN
+12
+225
+National Bank Of Kenya
+Kenyatta Ave Amanah
+000
+0 UNKNOWN
+12
+226
+National Bank Of Kenya
+Kenyatta University Amanah
+000
+0 UNKNOWN
+12
+227
+National Bank Of Kenya
+Kericho Amanah
+000
+0 UNKNOWN
+12
+228
+National Bank Of Kenya
+Kiambu Amanah
+000
+0 UNKNOWN
+12
+229
+National Bank Of Kenya
+Kianjai Amanah
+000
+0 UNKNOWN
+12
+230
+National Bank Of Kenya
+Kilifi Amanah
+000
+0 UNKNOWN
+12
+231
+National Bank Of Kenya
+Kisii Amanah
+000
+0 UNKNOWN
+12
+232
+National Bank Of Kenya
+Kisumu Amanah
+000
+0 UNKNOWN
+12
+267
+National Bank Of Kenya
+Times Tower Amanah
+000
+0 UNKNOWN
+12
+268
+National Bank Of Kenya
+TSC Upper Hill Building Amanah
+000
+0 UNKNOWN
+12
+269
+National Bank Of Kenya
+Ukunda Amanah
+000
+0 UNKNOWN
+12
+270
+National Bank Of Kenya
+Westlands Amanah
+000
+0 UNKNOWN
+12
+271
+National Bank Of Kenya
+Wilson Airport NRI Amanah
+000
+0 UNKNOWN
+12
+272
+National Bank Of Kenya
+Yaya Centre Amanah
+000
+0 UNKNOWN
+
+
+12
+023
+National Bank Of Kenya
+Portway-msa
+000
+0 UNKNOWN
+12
+082
+National Bank Of Kenya
+Mwea Branch
+000
+0 UNKNOWN
+12
+025
+National Bank Of Kenya
+Hospital Br.
+047
+0 Nairobi County
+12
+026
+National Bank Of Kenya
+Ruiru
+022
+0 Kiambu
+12
+027
+National Bank Of Kenya
+Ongata Rongai
+034
+0 Kajiado
+12
+028
+National Bank Of Kenya
+Embu
+014
+0 Embu
+12
+029
+National Bank Of Kenya
+Kakamega
+037
+0 Kakamega
+12
+030
+National Bank Of Kenya
+Nakuru
+032
+0 Nakuru
+12
+031
+National Bank Of Kenya
+Ukunda
+002
+0 Kwale
+12
+032
+National Bank Of Kenya
+Upper Hill
+047
+0 Nairobi County
+12
+033
+National Bank Of Kenya
+Nandi Hills
+029
+0 Nandi
+12
+034
+National Bank Of Kenya
+Migori
+044
+0 Migori
+12
+035
+National Bank Of Kenya
+Westlands
+047
+0 Nairobi County
+12
+036
+National Bank Of Kenya
+Times Tower
+047
+0 Nairobi County
+12
+037
+National Bank Of Kenya
+Maua
+012
+0 Meru
+12
+038
+National Bank Of Kenya
+WILSON AIRPORT
+047
+0 Nairobi County
+12
+039
+National Bank Of Kenya
+J.K.I.A.
+047
+0 Nairobi County
+12
+040
+National Bank Of Kenya
+Eldoret
+027
+0 Uasin Gishu
+12
+056
+National Bank Of Kenya
+Bomet
+036
+0 Bomet
+12
+058
+National Bank Of Kenya
+Greenspan
+047
+0 Nairobi County
+12
+059
+National Bank Of Kenya
+Sameer Park
+047
+0 Nairobi County
+12
+060
+National Bank Of Kenya
+SEKU
+015
+0 Kitui
+12
+061
+National Bank Of Kenya
+Ngong Road
+047
+0 Nairobi County
+12
+062
+National Bank Of Kenya
+Moi Avenue
+047
+0 Nairobi County
+12
+063
+National Bank Of Kenya
+Mountain Mall
+047
+0 Nairobi County
+12
+065
+National Bank Of Kenya
+Nyali Centre
+001
+0 Mombasa
+12
+066
+National Bank Of Kenya
+Kilifi
+003
+0 Kilifi
+12
+067
+National Bank Of Kenya
+South C Branch- KEBS
+047
+0 Nairobi County
+12
+068
+National Bank Of Kenya
+Kericho
+035
+0 Kericho
+12
+070
+National Bank Of Kenya
+Isiolo
+011
+0 Isiolo
+12
+071
+National Bank Of Kenya
+South C - Red Cross
+047
+0 Nairobi County
+12
+072
+National Bank Of Kenya
+National Bank Premium Banking
+042
+0 Kisumu
+12
+073
+National Bank Of Kenya
+Yaya Centre
+047
+0 Nairobi County
+12
+074
+National Bank Of Kenya
+Gigiri
+047
+0 Nairobi County
+12
+253
+National Bank Of Kenya
+Narok Amanah
+000
+0 UNKNOWN
+12
+254
+National Bank Of Kenya
+Ngong Rd Amanah
+000
+0 UNKNOWN
+12
+255
+National Bank Of Kenya
+Nkuruma Amanah
+000
+0 UNKNOWN
+12
+256
+National Bank Of Kenya
+Nyali Amanah
+000
+0 UNKNOWN
+12
+257
+National Bank Of Kenya
+Nyeri Amanah
+000
+0 UNKNOWN
+12
+258
+National Bank Of Kenya
+Ongata Rongai Amanah
+000
+0 UNKNOWN
+12
+259
+National Bank Of Kenya
+Portway Hse Amanah
+000
+0 UNKNOWN
+12
+260
+National Bank Of Kenya
+Ruiru Amanah
+000
+0 UNKNOWN
+12
+261
+National Bank Of Kenya
+Sameer Park Amanah
+000
+0 UNKNOWN
+12
+262
+National Bank Of Kenya
+SEKU Amanah
+000
+0 UNKNOWN
+12
+263
+National Bank Of Kenya
+South C Red Cross Amanah
+000
+0 UNKNOWN
+12
+000
+National Bank Of Kenya
+Central Business Unit
+000
+0 UNKNOWN
+12
+002
+National Bank Of Kenya
+Kenyatta
+047
+0 Nairobi County
+12
+003
+National Bank Of Kenya
+Harambee
+047
+0 Nairobi County
+12
+004
+National Bank Of Kenya
+Hill
+047
+0 Nairobi County
+12
+005
+National Bank Of Kenya
+Busia
+040
+0 Busia
+12
+006
+National Bank Of Kenya
+Kiambu
+022
+0 Kiambu
+12
+007
+National Bank Of Kenya
+Meru
+012
+0 Meru
+
+
+12
+008
+National Bank Of Kenya
+Karatina
+019
+0 Nyeri
+12
+009
+National Bank Of Kenya
+Narok
+033
+0 Narok
+12
+010
+National Bank Of Kenya
+Kisii
+045
+0 Kisii
+12
+011
+National Bank Of Kenya
+Malindi
+003
+0 Kilifi
+12
+012
+National Bank Of Kenya
+Nyeri
+019
+0 Nyeri
+12
+013
+National Bank Of Kenya
+Kitale
+026
+0 Trans-Nzoia
+12
+015
+National Bank Of Kenya
+Eastleigh
+047
+0 Nairobi County
+12
+016
+National Bank Of Kenya
+Limuru
+022
+0 Kiambu
+12
+017
+National Bank Of Kenya
+Kitui
+015
+0 Kitui
+12
+018
+National Bank Of Kenya
+Molo
+032
+0 Nakuru
+12
+019
+National Bank Of Kenya
+Bungoma
+039
+0 Bungoma
+12
+020
+National Bank Of Kenya
+Nkrumah
+001
+0 Mombasa
+12
+021
+National Bank Of Kenya
+Kapsabet
+029
+0 Nandi
+12
+022
+National Bank Of Kenya
+Awendo
+044
+0 Migori
+14
+005
+M-Oriental Bank Limited
+Eldoret
+027
+0 Uasin Gishu
+14
+006
+M-Oriental Bank Limited
+Kitale
+026
+0 Trans-Nzoia
+14
+007
+M-Oriental Bank Limited
+Westlands
+047
+0 Nairobi County
+14
+001
+M-Oriental Bank Limited
+Koinange Street
+047
+0 Nairobi County
+14
+000
+M-Oriental Bank Limited
+Head Office
+047
+0 Nairobi County
+14
+004
+M-Oriental Bank Limited
+Nakuru
+032
+0 Nakuru
+14
+011
+M-Oriental Bank Limited
+Sameer Business Park
+047
+0 Nairobi County
+14
+010
+M-Oriental Bank Limited
+Mombasa
+001
+0 Mombasa
+16
+000
+CITI BANK N A
+Head Office , Nairobi
+047
+0 Nairobi County
+16
+500
+CITI BANK N A
+Gigiri Agency
+000
+0 UNKNOWN
+16
+700
+CITI BANK N A
+Kisumu
+000
+0 UNKNOWN
+16
+400
+CITI BANK N A
+Mombasa
+001
+0 Mombasa
+17
+000
+Habib Bank AG Zurich
+Head Office
+047
+0 Nairobi County
+17
+001
+Habib Bank AG Zurich
+Mombasa
+001
+0 Mombasa
+17
+002
+Habib Bank AG Zurich
+Industrial Area
+047
+0 Nairobi County
+17
+003
+Habib Bank AG Zurich
+Westlands
+047
+0 Nairobi County
+17
+004
+Habib Bank AG Zurich
+Nyali
+000
+0 UNKNOWN
+18
+003
+Middle East Bank Kenya Limited
+Milimani
+047
+0 Nairobi County
+18
+001
+Middle East Bank Kenya Limited
+Nairobi
+000
+0 UNKNOWN
+18
+004
+Middle East Bank Kenya Limited
+Industrial Area
+047
+0 Nairobi County
+18
+005
+Middle East Bank Kenya Limited
+Eldoret
+027
+0 Uasin Gishu
+18
+000
+Middle East Bank Kenya Limited
+Head Office
+000
+0 UNKNOWN
+18
+002
+Middle East Bank Kenya Limited
+Mombasa
+001
+0 Mombasa
+19
+032
+Bank of Africa Kenya Limited
+Embu
+014
+0 Embu
+19
+033
+Bank of Africa Kenya Limited
+Gateway Mall
+047
+0 Nairobi County
+19
+034
+Bank of Africa Kenya Limited
+Kitale
+026
+0 Trans-Nzoia
+19
+035
+Bank of Africa Kenya Limited
+South B
+047
+0 Nairobi County
+19
+036
+Bank of Africa Kenya Limited
+Digo Road
+001
+0 Mombasa
+19
+037
+Bank of Africa Kenya Limited
+Outering Road
+047
+0 Nairobi County
+19
+038
+Bank of Africa Kenya Limited
+Likoni Road
+047
+0 Nairobi County
+19
+039
+Bank of Africa Kenya Limited
+Thika Road
+047
+0 Nairobi County
+19
+040
+Bank of Africa Kenya Limited
+Narok
+033
+0 Narok
+19
+000
+Bank of Africa Kenya Limited
+Reinsurance Plaza Nairobi
+047
+0 Nairobi County
+19
+001
+Bank of Africa Kenya Limited
+Mombasa
+047
+0 Nairobi County
+19
+002
+Bank of Africa Kenya Limited
+Westlands
+047
+0 Nairobi County
+19
+003
+Bank of Africa Kenya Limited
+Uhuru Highway
+047
+0 Nairobi County
+19
+004
+Bank of Africa Kenya Limited
+River Road
+047
+0 Nairobi County
+19
+043
+Bank of Africa Kenya Limited
+Ukunda
+002
+0 Kwale
+
+
+19
+031
+Bank of
+Africa Kenya Limited
+Githurai
+047
+0 Nairobi County
+19
+030
+Bank of
+Africa Kenya Limited
+Gikomba
+047
+0 Nairobi County
+19
+029
+Bank of
+Africa Kenya Limited
+Ongata Rongai II
+034
+0 Kajiado
+19
+028
+Bank of
+Africa Kenya Limited
+Moi Avenue, Mombasa
+001
+0 Mombasa
+19
+027
+Bank of
+Africa Kenya Limited
+Sameer Business Park
+047
+0 Nairobi County
+19
+026
+Bank of
+Africa Kenya Limited
+Kenyatta Avenue
+047
+0 Nairobi County
+19
+024
+Bank of
+Africa Kenya Limited
+Nanyuki
+031
+0 Laikipia
+19
+023
+Bank of
+Africa Kenya Limited
+Upper Hilll
+047
+0 Nairobi County
+19
+022
+Bank of
+Africa Kenya Limited
+Greenspan Mall
+047
+0 Nairobi County
+19
+021
+Bank of
+Africa Kenya Limited
+Galleria
+047
+0 Nairobi County
+19
+020
+Bank of
+Africa Kenya Limited
+Nyali
+001
+0 Mombasa
+19
+019
+Bank of
+Africa Kenya Limited
+Kitengela
+034
+0 Kajiado
+19
+018
+Bank of
+Africa Kenya Limited
+MERU
+012
+0 Meru
+19
+016
+Bank of
+Africa Kenya Limited
+Bungoma
+039
+0 Bungoma
+19
+015
+Bank of
+Africa Kenya Limited
+Changamwe
+001
+0 Mombasa
+19
+014
+Bank of
+Africa Kenya Limited
+Ongata Rongai
+034
+0 Kajiado
+19
+012
+Bank of
+Africa Kenya Limited
+Embakasi
+047
+0 Nairobi County
+19
+011
+Bank of
+Africa Kenya Limited
+Eldoret
+027
+0 Uasin Gishu
+19
+010
+Bank of
+Africa Kenya Limited
+Ngong Road
+047
+0 Nairobi County
+19
+009
+Bank of
+Africa Kenya Limited
+Nakuru
+032
+0 Nakuru
+19
+008
+Bank of
+Africa Kenya Limited
+Monrovia Street
+047
+0 Nairobi County
+19
+007
+Bank of
+Africa Kenya Limited
+Ruaraka
+047
+0 Nairobi County
+19
+005
+Bank of
+Africa Kenya Limited
+Thika
+022
+0 Kiambu
+19
+006
+Bank of
+Africa Kenya Limited
+Kisumu
+042
+0 Kisumu
+23
+015
+Consolidated Bank of Kenya Ltd
+Eldoret
+027
+0 Uasin Gishu
+23
+016
+Consolidated Bank of Kenya Ltd
+Nakuru
+032
+0 Nakuru
+23
+017
+Consolidated Bank of Kenya Ltd
+Kitengela
+034
+0 Kajiado
+23
+018
+Consolidated Bank of Kenya Ltd
+Taj Mall
+047
+0 Nairobi County
+23
+000
+Consolidated Bank of Kenya Ltd
+Harambee Avenue
+047
+0 Nairobi County
+23
+001
+Consolidated Bank of Kenya Ltd
+Muranga
+021
+0 Murang'a
+23
+002
+Consolidated Bank of Kenya Ltd
+Embu
+014
+0 Embu
+23
+003
+Consolidated Bank of Kenya Ltd
+Mombasa
+001
+0 Mombasa
+23
+004
+Consolidated Bank of Kenya Ltd
+Koinange Street
+047
+0 Nairobi County
+23
+005
+Consolidated Bank of Kenya Ltd
+Thika
+022
+0 Kiambu
+23
+006
+Consolidated Bank of Kenya Ltd
+Meru
+012
+0 Meru
+23
+007
+Consolidated Bank of Kenya Ltd
+Nyeri
+019
+0 Nyeri
+23
+008
+Consolidated Bank of Kenya Ltd
+Laare
+012
+0 Meru
+23
+009
+Consolidated Bank of Kenya Ltd
+Maua
+012
+0 Meru
+23
+010
+Consolidated Bank of Kenya Ltd
+Isiolo
+011
+0 Isiolo
+23
+011
+Consolidated Bank of Kenya Ltd
+Head Office
+047
+0 Nairobi County
+23
+012
+Consolidated Bank of Kenya Ltd
+Corporate
+047
+0 Nairobi County
+23
+013
+Consolidated Bank of Kenya Ltd
+Umoja
+047
+0 Nairobi County
+23
+014
+Consolidated Bank of Kenya Ltd
+River Road
+047
+0 Nairobi County
+25
+015
+Credit Bank PLC
+Kitengela
+034
+0 Kajiado
+25
+018
+Credit Bank PLC
+Nkuruma
+001
+0 Mombasa
+25
+013
+Credit Bank PLC
+Lavington Mall
+047
+0 Nairobi County
+25
+012
+Credit Bank PLC
+Thika
+022
+0 Kiambu
+25
+011
+Credit Bank PLC
+Mombasa- Nyali Centre
+001
+0 Mombasa
+25
+010
+Credit Bank PLC
+Rongai
+047
+0 Nairobi County
+25
+009
+Credit Bank PLC
+Eldoret
+027
+0 Uasin Gishu
+25
+008
+Credit Bank PLC
+Nakuru, Kenyatta Avenue
+032
+0 Nakuru
+25
+006
+Credit Bank PLC
+Industrial Area
+047
+0 Nairobi County
+
+
+25
+005
+Credit Bank PLC
+Westlands
+047
+0 Nairobi County
+25
+004
+Credit Bank PLC
+Kisii
+045
+0 Kisii
+25
+003
+Credit Bank PLC
+Nakuru
+032
+0 Nakuru
+25
+002
+Credit Bank PLC
+Kisumu
+042
+0 Kisumu
+25
+001
+Credit Bank PLC
+Koinange Street
+047
+0 Nairobi County
+25
+000
+Credit Bank PLC
+Head Office
+047
+0 Nairobi County
+25
+017
+Credit Bank PLC
+Meru Branch
+012
+0 Meru
+25
+016
+Credit Bank PLC
+Ngong Road Branch
+034
+0 Kajiado
+25
+019
+Credit Bank PLC
+One Africa
+047
+0 Nairobi County
+25
+500
+Credit Bank PLC
+Sumac Koinange
+000
+0 UNKNOWN
+25
+014
+Credit Bank PLC
+Machakos
+016
+0 Machakos
+26
+013
+Access Bank Kenya PLC
+Sheikh Karume
+047
+0 Nairobi County
+26
+014
+Access Bank Kenya PLC
+Kabarnet
+030
+0 Baringo
+26
+015
+Access Bank Kenya PLC
+Kitale
+026
+0 Trans-Nzoia
+26
+016
+Access Bank Kenya PLC
+Narok
+033
+0 Narok
+26
+017
+Access Bank Kenya PLC
+Bomet
+036
+0 Bomet
+26
+018
+Access Bank Kenya PLC
+Iten
+028
+0 Elgeyo-Marakwet
+26
+019
+Access Bank Kenya PLC
+Lessos
+029
+0 Nandi
+26
+023
+Access Bank Kenya PLC
+Kiptagich
+000
+0 UNKNOWN
+26
+012
+Access Bank Kenya PLC
+Epz
+016
+0 Machakos
+26
+011
+Access Bank Kenya PLC
+Nandi Hills
+029
+0 Nandi
+26
+010
+Access Bank Kenya PLC
+Kericho
+035
+0 Kericho
+26
+009
+Access Bank Kenya PLC
+Olenguruone
+032
+0 Nakuru
+26
+008
+Access Bank Kenya PLC
+Kabarak
+032
+0 Nakuru
+26
+007
+Access Bank Kenya PLC
+Kirinyaga Rd Nakuru
+047
+0 Nairobi County
+26
+006
+Access Bank Kenya PLC
+Jkia
+047
+0 Nairobi County
+26
+005
+Access Bank Kenya PLC
+Mia
+001
+0 Mombasa
+26
+004
+Access Bank Kenya PLC
+Nakuru
+032
+0 Nakuru
+26
+003
+Access Bank Kenya PLC
+Eldoret
+027
+0 Uasin Gishu
+26
+002
+Access Bank Kenya PLC
+Mombasa
+001
+0 Mombasa
+26
+001
+Access Bank Kenya PLC
+Head Office
+047
+0 Nairobi County
+26
+028
+Access Bank Kenya PLC
+Eldama Ravine
+030
+0 Baringo
+26
+027
+Access Bank Kenya PLC
+Kaptumo
+000
+0 UNKNOWN
+26
+026
+Access Bank Kenya PLC
+Kapenguria
+024
+0 West Pokot
+26
+025
+Access Bank Kenya PLC
+Kapcherop
+000
+0 UNKNOWN
+26
+022
+Access Bank Kenya PLC
+Burnt Forest
+027
+0 Uasin Gishu
+26
+024
+Access Bank Kenya PLC
+Marigat
+030
+0 Baringo
+26
+029
+Access Bank Kenya PLC
+Eastleigh Branch
+047
+0 Nairobi County
+26
+020
+Access Bank Kenya PLC
+Flax
+027
+0 Uasin Gishu
+26
+021
+Access Bank Kenya PLC
+Westlands
+047
+0 Nairobi County
+31
+036
+Stanbic Bank Plc
+Busia Branch
+040
+0 Busia
+31
+024
+Stanbic Bank Plc
+Kisii
+045
+0 Kisii
+31
+004
+Stanbic Bank Plc
+Waiyaki Way
+047
+0 Nairobi County
+31
+003
+Stanbic Bank Plc
+Digo road
+001
+0 Mombasa
+31
+020
+Stanbic Bank Plc
+Gikomba
+047
+0 Nairobi County
+31
+019
+Stanbic Bank Plc
+Buruburu
+047
+0 Nairobi County
+31
+034
+Stanbic Bank Plc
+Expressway Branch
+047
+0 Nairobi County
+31
+033
+Stanbic Bank Plc
+Kericho Branch
+035
+0 Kericho
+31
+032
+Stanbic Bank Plc
+Imaara Branch
+047
+0 Nairobi County
+31
+999
+Stanbic Bank Plc
+Central Processing H/o
+047
+0 Nairobi County
+31
+029
+Stanbic Bank Plc
+Changamwe
+001
+0 Mombasa
+31
+028
+Stanbic Bank Plc
+Malindi
+003
+0 Kilifi
+
+
+31
+027
+Stanbic Bank Plc
+Nyali
+001
+0 Mombasa
+31
+026
+Stanbic Bank Plc
+Private Clients
+047
+0 Nairobi County
+31
+025
+Stanbic Bank Plc
+Warwick
+047
+0 Nairobi County
+31
+006
+Stanbic Bank Plc
+Harambee Avenue
+047
+0 Nairobi County
+31
+007
+Stanbic Bank Plc
+Chiromo Road
+047
+0 Nairobi County
+31
+008
+Stanbic Bank Plc
+International House
+047
+0 Nairobi County
+31
+010
+Stanbic Bank Plc
+Upper Hill
+047
+0 Nairobi County
+31
+011
+Stanbic Bank Plc
+Naivasha
+032
+0 Nakuru
+31
+012
+Stanbic Bank Plc
+Westgate
+047
+0 Nairobi County
+31
+013
+Stanbic Bank Plc
+Kisumu
+042
+0 Kisumu
+31
+014
+Stanbic Bank Plc
+Nakuru
+032
+0 Nakuru
+31
+015
+Stanbic Bank Plc
+Thika
+022
+0 Kiambu
+31
+017
+Stanbic Bank Plc
+Nanyuki
+031
+0 Laikipia
+31
+024
+Stanbic Bank Plc
+Kisii Branch
+045
+0 Kisii
+31
+030
+Stanbic Bank Plc
+The Hub
+047
+0 Nairobi County
+31
+031
+Stanbic Bank Plc
+Two Rivers
+047
+0 Nairobi County
+31
+000
+Stanbic Bank Plc
+CFC Stanbic Head Office
+047
+0 Nairobi County
+31
+002
+Stanbic Bank Plc
+Kenyatta Ave
+047
+0 Nairobi County
+31
+021
+Stanbic Bank Plc
+Garden city
+047
+0 Nairobi County
+31
+022
+Stanbic Bank Plc
+Eldoret
+027
+0 Uasin Gishu
+31
+023
+Stanbic Bank Plc
+Karen
+047
+0 Nairobi County
+31
+018
+Stanbic Bank Plc
+Meru
+012
+0 Meru
+31
+005
+Stanbic Bank Plc
+Industrial Area
+047
+0 Nairobi County
+35
+105
+African Banking Corporation Limited
+Central Operations 5
+047
+0 Nairobi County
+35
+104
+African Banking Corporation Limited
+Central Operations 4
+047
+0 Nairobi County
+35
+103
+African Banking Corporation Limited
+Central Operations 3
+047
+0 Nairobi County
+35
+102
+African Banking Corporation Limited
+Central Operations 2
+047
+0 Nairobi County
+35
+101
+African Banking Corporation Limited
+Central Operations 1
+047
+0 Nairobi County
+35
+008
+African Banking Corporation Limited
+Nakuru
+032
+0 Nakuru
+35
+007
+African Banking Corporation Limited
+Libra House
+047
+0 Nairobi County
+35
+006
+African Banking Corporation Limited
+Meru Branch
+012
+0 Meru
+35
+005
+African Banking Corporation Limited
+Eldoret Branch
+027
+0 Uasin Gishu
+35
+004
+African Banking Corporation Limited
+Kisumu Branch
+042
+0 Kisumu
+35
+003
+African Banking Corporation Limited
+Nkrumah Road Branch/mombasa
+001
+0 Mombasa
+35
+002
+African Banking Corporation Limited
+Industrial Area Branch
+047
+0 Nairobi County
+35
+001
+African Banking Corporation Limited
+Westlands
+047
+0 Nairobi County
+35
+000
+African Banking Corporation Limited
+Head Office/koinange St.
+047
+0 Nairobi County
+35
+011
+African Banking Corporation Limited
+Green House Mall(GHM)
+047
+0 Nairobi County
+35
+010
+African Banking Corporation Limited
+Thika Road Mall
+047
+0 Nairobi County
+43
+030
+ECO Bank Kenya LTD
+Fortis Office Park
+047
+0 Nairobi County
+43
+016
+ECO Bank Kenya LTD
+Jomo Kenyatta Avenue
+000
+0 UNKNOWN
+43
+015
+ECO Bank Kenya LTD
+Nakuru
+032
+0 Nakuru
+43
+014
+ECO Bank Kenya LTD
+United Mall
+000
+0 UNKNOWN
+43
+013
+ECO Bank Kenya LTD
+Westlands
+047
+0 Nairobi County
+43
+012
+ECO Bank Kenya LTD
+Karatina
+019
+0 Nyeri
+43
+011
+ECO Bank Kenya LTD
+Industrial Area
+047
+0 Nairobi County
+43
+010
+ECO Bank Kenya LTD
+Kitale
+000
+0 UNKNOWN
+43
+009
+ECO Bank Kenya LTD
+Kisii
+045
+0 Kisii
+43
+008
+ECO Bank Kenya LTD
+Kisumu
+042
+0 Kisumu
+43
+007
+ECO Bank Kenya LTD
+Eldoret
+027
+0 Uasin Gishu
+43
+100
+ECO Bank Kenya LTD
+Head Office
+000
+0 UNKNOWN
+43
+029
+ECO Bank Kenya LTD
+Thika Mall
+000
+0 UNKNOWN
+
+
+43
+028
+ECO Bank Kenya LTD
+Kitengela
+000
+0 UNKNOWN
+43
+027
+ECO Bank Kenya LTD
+Embakasi
+000
+0 UNKNOWN
+43
+017
+ECO Bank Kenya LTD
+Nyeri
+019
+0 Nyeri
+43
+000
+ECO Bank Kenya LTD
+Fedha Branch , Head Office
+000
+0 UNKNOWN
+43
+001
+ECO Bank Kenya LTD
+Moi Avenue Nairobi
+047
+0 Nairobi County
+43
+002
+ECO Bank Kenya LTD
+Akiba Hse Mombasa
+001
+0 Mombasa
+43
+003
+ECO Bank Kenya LTD
+Plaza 2000
+047
+0 Nairobi County
+43
+004
+ECO Bank Kenya LTD
+Westminister
+000
+0 UNKNOWN
+43
+005
+ECO Bank Kenya LTD
+Chambers
+000
+0 UNKNOWN
+43
+006
+ECO Bank Kenya LTD
+Thika
+022
+0 Kiambu
+43
+018
+ECO Bank Kenya LTD
+Busia
+000
+0 UNKNOWN
+43
+019
+ECO Bank Kenya LTD
+Malindi
+000
+0 UNKNOWN
+43
+020
+ECO Bank Kenya LTD
+Meru
+000
+0 UNKNOWN
+43
+021
+ECO Bank Kenya LTD
+Gikomba
+000
+0 UNKNOWN
+43
+022
+ECO Bank Kenya LTD
+UpperHill
+047
+0 Nairobi County
+43
+023
+ECO Bank Kenya LTD
+Valley Arcade
+047
+0 Nairobi County
+43
+024
+ECO Bank Kenya LTD
+Karen
+047
+0 Nairobi County
+43
+025
+ECO Bank Kenya LTD
+Nyali Mombasa
+000
+0 UNKNOWN
+43
+026
+ECO Bank Kenya LTD
+Ongata Rongai
+000
+0 UNKNOWN
+49
+008
+Spire Bank
+Kakamega
+037
+0 Kakamega
+49
+017
+Spire Bank
+Machakos
+016
+0 Machakos
+49
+005
+Spire Bank
+Chester
+047
+0 Nairobi County
+49
+004
+Spire Bank
+Mombasa Road
+000
+0 UNKNOWN
+49
+002
+Spire Bank
+Mombasa
+001
+0 Mombasa
+49
+001
+Spire Bank
+Nyerere
+047
+0 Nairobi County
+49
+000
+Spire Bank
+Nairobi
+047
+0 Nairobi County
+49
+016
+Spire Bank
+Ongata Rongai
+000
+0 UNKNOWN
+49
+015
+Spire Bank
+Nakuru
+032
+0 Nakuru
+49
+013
+Spire Bank
+Industrial Area
+047
+0 Nairobi County
+49
+012
+Spire Bank
+Kisumu
+042
+0 Kisumu
+49
+011
+Spire Bank
+Nyali
+000
+0 UNKNOWN
+49
+010
+Spire Bank
+Senator Cards
+047
+0 Nairobi County
+49
+009
+Spire Bank
+Eldoret
+027
+0 Uasin Gishu
+49
+007
+Spire Bank
+Waiyaki Way
+047
+0 Nairobi County
+50
+001
+Paramount Bank Limited
+Westlands
+047
+0 Nairobi County
+50
+002
+Paramount Bank Limited
+Parklands
+047
+0 Nairobi County
+50
+003
+Paramount Bank Limited
+Koinange Street
+047
+0 Nairobi County
+50
+004
+Paramount Bank Limited
+Mombasa
+047
+0 Nairobi County
+50
+006
+Paramount Bank Limited
+Eldoret
+027
+0 Uasin Gishu
+50
+007
+Paramount Bank Limited
+Industrial Area
+027
+0 Uasin Gishu
+50
+008
+Paramount Bank Limited
+Kisumu
+042
+0 Kisumu
+50
+000
+Paramount Bank Limited
+Head Office
+047
+0 Nairobi County
+51
+401
+Kingdom Bank Limited
+Eldoret
+027
+0 Uasin Gishu
+51
+206
+Kingdom Bank Limited
+Meru Branch
+012
+0 Meru
+51
+209
+Kingdom Bank Limited
+Machakos
+016
+0 Machakos
+51
+113
+Kingdom Bank Limited
+Gikomba Branch
+047
+0 Nairobi County
+51
+702
+Kingdom Bank Limited
+Kitale Branch
+026
+0 Trans-Nzoia
+51
+409
+Kingdom Bank Limited
+Kisii
+045
+0 Kisii
+51
+502
+Kingdom Bank Limited
+Ongata Rongai
+034
+0 Kajiado
+51
+503
+Kingdom Bank Limited
+Kitengela
+034
+0 Kajiado
+51
+507
+Kingdom Bank Limited
+Nakuru
+032
+0 Nakuru
+51
+603
+Kingdom Bank Limited
+Mombasa
+001
+0 Mombasa
+
+
+51
+000
+Kingdom Bank Limited
+Head Office
+047
+0 Nairobi County
+51
+001
+Kingdom Bank Limited
+Koinange Street
+047
+0 Nairobi County
+51
+100
+Kingdom Bank Limited
+Kiongozi
+047
+0 Nairobi County
+51
+101
+Kingdom Bank Limited
+Kayole
+047
+0 Nairobi County
+51
+102
+Kingdom Bank Limited
+Eastleigh
+047
+0 Nairobi County
+51
+105
+Kingdom Bank Limited
+Kawangware
+047
+0 Nairobi County
+51
+106
+Kingdom Bank Limited
+Kibera
+047
+0 Nairobi County
+51
+107
+Kingdom Bank Limited
+Kariobangi
+047
+0 Nairobi County
+51
+114
+Kingdom Bank Limited
+Funzi Road
+047
+0 Nairobi County
+51
+115
+Kingdom Bank Limited
+Ngong Road
+047
+0 Nairobi County
+51
+116
+Kingdom Bank Limited
+Kirinyaga Road
+047
+0 Nairobi County
+51
+209
+Kingdom Bank Limited
+Machakos
+016
+0 Machakos
+51
+210
+Kingdom Bank Limited
+Mtwapa
+003
+0 Kilifi
+51
+213
+Kingdom Bank Limited
+Kiritiri
+014
+0 Embu
+51
+301
+Kingdom Bank Limited
+Thika
+022
+0 Kiambu
+51
+303
+Kingdom Bank Limited
+Muranga
+021
+0 Murang'a
+51
+305
+Kingdom Bank Limited
+Wangige
+022
+0 Kiambu
+51
+306
+Kingdom Bank Limited
+Kikuyu
+022
+0 Kiambu
+51
+307
+Kingdom Bank Limited
+Banana
+022
+0 Kiambu
+51
+308
+Kingdom Bank Limited
+Kiambu
+022
+0 Kiambu
+51
+310
+Kingdom Bank Limited
+Utawala
+047
+0 Nairobi County
+51
+316
+Kingdom Bank Limited
+Nyeri
+019
+0 Nyeri
+51
+402
+Kingdom Bank Limited
+Kisumu
+042
+0 Kisumu
+51
+318
+Kingdom Bank Limited
+SACCO Clearing Centre
+046
+0 Nyamira
+51
+111
+Kingdom Bank Limited
+Central Clearing Center
+047
+0 Nairobi County
+53
+004
+Guaranty Trust Bank ( Kenya) Ltd
+Lavington
+047
+0 Nairobi County
+53
+005
+Guaranty Trust Bank ( Kenya) Ltd
+Nkrumah Road , Mombasa
+001
+0 Mombasa
+53
+006
+Guaranty Trust Bank ( Kenya) Ltd
+Nakuru
+032
+0 Nakuru
+53
+007
+Guaranty Trust Bank ( Kenya) Ltd
+Eldoret
+027
+0 Uasin Gishu
+53
+000
+Guaranty Trust Bank ( Kenya) Ltd
+Head Office
+047
+0 Nairobi County
+53
+001
+Guaranty Trust Bank ( Kenya) Ltd
+Kimathi Street
+047
+0 Nairobi County
+53
+002
+Guaranty Trust Bank ( Kenya) Ltd
+Ind Area
+047
+0 Nairobi County
+53
+003
+Guaranty Trust Bank ( Kenya) Ltd
+Westlands
+047
+0 Nairobi County
+53
+008
+Guaranty Trust Bank ( Kenya) Ltd
+Muthaiga
+047
+0 Nairobi County
+53
+009
+Guaranty Trust Bank ( Kenya) Ltd
+Nanyuki
+031
+0 Laikipia
+53
+010
+Guaranty Trust Bank ( Kenya) Ltd
+Thika
+022
+0 Kiambu
+53
+011
+Guaranty Trust Bank ( Kenya) Ltd
+Gikomba
+047
+0 Nairobi County
+53
+012
+Guaranty Trust Bank ( Kenya) Ltd
+Ngong Road
+000
+0 UNKNOWN
+53
+013
+Guaranty Trust Bank ( Kenya) Ltd
+Meru
+012
+0 Meru
+53
+014
+Guaranty Trust Bank ( Kenya) Ltd
+Nyali
+001
+0 Mombasa
+53
+015
+Guaranty Trust Bank ( Kenya) Ltd
+Sky Park
+047
+0 Nairobi County
+53
+016
+Guaranty Trust Bank ( Kenya) Ltd
+Karen
+047
+0 Nairobi County
+54
+006
+Victoria Commercial Bank
+NYALI Branch, Mombasa
+000
+0 UNKNOWN
+54
+005
+Victoria Commercial Bank
+Two Rivers
+047
+0 Nairobi County
+54
+004
+Victoria Commercial Bank
+Ruaraka Branch
+047
+0 Nairobi County
+54
+001
+Victoria Commercial Bank
+Victoria Towers, Upperhill
+047
+0 Nairobi County
+54
+002
+Victoria Commercial Bank
+Riverside Drive
+047
+0 Nairobi County
+54
+003
+Victoria Commercial Bank
+Lunga Lunga Square
+047
+0 Nairobi County
+55
+010
+Guardian Bank Limited
+Nakuru
+032
+0 Nakuru
+55
+011
+Guardian Bank Limited
+Langata
+047
+0 Nairobi County
+55
+001
+Guardian Bank Limited
+Head Office
+047
+0 Nairobi County
+55
+002
+Guardian Bank Limited
+Westlands
+047
+0 Nairobi County
+
+
+55
+003
+Guardian Bank Limited
+Mombasa
+001
+0 Mombasa
+55
+004
+Guardian Bank Limited
+Eldoret
+027
+0 Uasin Gishu
+55
+005
+Guardian Bank Limited
+Kisumu
+042
+0 Kisumu
+55
+006
+Guardian Bank Limited
+Moi Ave
+047
+0 Nairobi County
+55
+007
+Guardian Bank Limited
+Mombasa Road
+047
+0 Nairobi County
+55
+008
+Guardian Bank Limited
+Nyali
+001
+0 Mombasa
+55
+009
+Guardian Bank Limited
+Ngong Road
+047
+0 Nairobi County
+57
+036
+I&M BANK (KENYA) LTD
+Spring Valley
+047
+0 Nairobi County
+57
+037
+I&M BANK (KENYA) LTD
+Meru
+012
+0 Meru
+57
+000
+I&M BANK (KENYA) LTD
+Kenyatta Avenue
+047
+0 Nairobi County
+57
+001
+I&M BANK (KENYA) LTD
+2nd Ngong Avenue
+047
+0 Nairobi County
+57
+002
+I&M BANK (KENYA) LTD
+Sarit Centre
+047
+0 Nairobi County
+57
+003
+I&M BANK (KENYA) LTD
+Head Office
+047
+0 Nairobi County
+57
+019
+I&M BANK (KENYA) LTD
+Riverside Drive Branch
+047
+0 Nairobi County
+57
+020
+I&M BANK (KENYA) LTD
+Kisii
+045
+0 Kisii
+57
+021
+I&M BANK (KENYA) LTD
+Changamwe
+001
+0 Mombasa
+57
+022
+I&M BANK (KENYA) LTD
+Malindi
+003
+0 Kilifi
+57
+023
+I&M BANK (KENYA) LTD
+Nyeri
+019
+0 Nyeri
+57
+024
+I&M BANK (KENYA) LTD
+Thika
+022
+0 Kiambu
+57
+025
+I&M BANK (KENYA) LTD
+Gigiri
+047
+0 Nairobi County
+57
+026
+I&M BANK (KENYA) LTD
+Mtwapa
+000
+0 UNKNOWN
+57
+027
+I&M BANK (KENYA) LTD
+Lavington Mall
+047
+0 Nairobi County
+57
+028
+I&M BANK (KENYA) LTD
+Kitale
+026
+0 Trans-Nzoia
+57
+029
+I&M BANK (KENYA) LTD
+Lunga Lunga
+047
+0 Nairobi County
+57
+030
+I&M BANK (KENYA) LTD
+Yaya Centre
+047
+0 Nairobi County
+57
+031
+I&M BANK (KENYA) LTD
+Gateway Mall, Syokimau
+016
+0 Machakos
+57
+032
+I&M BANK (KENYA) LTD
+Ruaraka
+047
+0 Nairobi County
+57
+098
+I&M BANK (KENYA) LTD
+Card Center
+047
+0 Nairobi County
+57
+004
+I&M BANK (KENYA) LTD
+Biashara St
+047
+0 Nairobi County
+57
+005
+I&M BANK (KENYA) LTD
+Nyerere Avenue, Mombasa
+001
+0 Mombasa
+57
+006
+I&M BANK (KENYA) LTD
+Industrial Area
+047
+0 Nairobi County
+57
+007
+I&M BANK (KENYA) LTD
+Kisumu
+042
+0 Kisumu
+57
+008
+I&M BANK (KENYA) LTD
+Karen
+047
+0 Nairobi County
+57
+009
+I&M BANK (KENYA) LTD
+Panari Centre
+047
+0 Nairobi County
+57
+010
+I&M BANK (KENYA) LTD
+Parklands
+047
+0 Nairobi County
+57
+011
+I&M BANK (KENYA) LTD
+Wilson Airport
+047
+0 Nairobi County
+57
+012
+I&M BANK (KENYA) LTD
+Ongata Rongai
+034
+0 Kajiado
+57
+013
+I&M BANK (KENYA) LTD
+South C Shopping Centre
+047
+0 Nairobi County
+57
+014
+I&M BANK (KENYA) LTD
+Nyali Cinemax
+001
+0 Mombasa
+57
+015
+I&M BANK (KENYA) LTD
+Langata Link
+047
+0 Nairobi County
+57
+016
+I&M BANK (KENYA) LTD
+Valley Arcade
+047
+0 Nairobi County
+57
+017
+I&M BANK (KENYA) LTD
+Eldoret
+027
+0 Uasin Gishu
+57
+018
+I&M BANK (KENYA) LTD
+NAKURU
+032
+0 Nakuru
+57
+048
+I&M BANK (KENYA) LTD
+Gikomba
+047
+0 Nairobi County
+57
+067
+I&M BANK (KENYA) LTD
+Mtwapa Branch
+003
+0 Kilifi
+57
+045
+I&M BANK (KENYA) LTD
+Our Mall
+047
+0 Nairobi County
+57
+040
+I&M BANK (KENYA) LTD
+Lusaka Road
+047
+0 Nairobi County
+57
+051
+I&M BANK (KENYA) LTD
+Naivasha Branch
+032
+0 Nakuru
+57
+046
+I&M BANK (KENYA) LTD
+Kilifi
+003
+0 Kilifi
+57
+047
+I&M BANK (KENYA) LTD
+Eastleigh
+047
+0 Nairobi County
+57
+064
+I&M BANK (KENYA) LTD
+Meru- Makutano Branch
+012
+0 Meru
+57
+057
+I&M BANK (KENYA) LTD
+Kawangware
+047
+0 Nairobi County
+
+
+57
+044
+I&M BANK (KENYA) LTD
+Tatu City Branch
+022
+0 Kiambu
+57
+052
+I&M BANK (KENYA) LTD
+GTC Branch
+047
+0 Nairobi County
+57
+062
+I&M BANK (KENYA) LTD
+Kenol
+021
+0 Murang'a
+57
+066
+I&M BANK (KENYA) LTD
+Kapsabet
+029
+0 Nandi
+57
+065
+I&M BANK (KENYA) LTD
+Kericho Branch
+035
+0 Kericho
+57
+045
+I&M BANK (KENYA) LTD
+Our Mall
+047
+0 Nairobi County
+57
+063
+I&M BANK (KENYA) LTD
+Kamakis
+022
+0 Kiambu
+57
+053
+I&M BANK (KENYA) LTD
+Busia Branch
+040
+0 Busia
+57
+058
+I&M BANK (KENYA) LTD
+ABC Branch
+047
+0 Nairobi County
+57
+049
+I&M BANK (KENYA) LTD
+Watamu Branch
+003
+0 Kilifi
+57
+061
+I&M BANK (KENYA) LTD
+Bungoma
+039
+0 Bungoma
+57
+060
+I&M BANK (KENYA) LTD
+Kakamega
+037
+0 Kakamega
+57
+055
+I&M BANK (KENYA) LTD
+Ruiru Branch
+022
+0 Kiambu
+57
+034
+I&M BANK (KENYA) LTD
+Cross Road Off River Road
+047
+0 Nairobi County
+57
+035
+I&M BANK (KENYA) LTD
+Nanyuki
+031
+0 Laikipia
+57
+050
+I&M BANK (KENYA) LTD
+Diani Branch
+002
+0 Kwale
+57
+054
+I&M BANK (KENYA) LTD
+Narok Branch
+033
+0 Narok
+57
+038
+I&M BANK (KENYA) LTD
+Eldama Park
+047
+0 Nairobi County
+57
+039
+I&M BANK (KENYA) LTD
+Banda Street
+000
+0 UNKNOWN
+57
+040
+I&M BANK (KENYA) LTD
+Dunga Road
+047
+0 Nairobi County
+57
+041
+I&M BANK (KENYA) LTD
+Ridge Court
+047
+0 Nairobi County
+57
+042
+I&M BANK (KENYA) LTD
+Bandari Plaza
+000
+0 UNKNOWN
+57
+043
+I&M BANK (KENYA) LTD
+Mombasa, Moi Avenue
+001
+0 Mombasa
+57
+056
+I&M BANK (KENYA) LTD
+Embu Branch
+014
+0 Embu
+57
+059
+I&M BANK (KENYA) LTD
+Mwea
+020
+0 Kirinyaga
+59
+000
+Development Bank of Kenya Limited
+Head Office
+000
+0 UNKNOWN
+59
+001
+Development Bank of Kenya Limited
+Loita Street
+047
+0 Nairobi County
+59
+002
+Development Bank of Kenya Limited
+Ngong Road Branch
+047
+0 Nairobi County
+59
+004
+Development Bank of Kenya Limited
+Nakuru Branch
+032
+0 Nakuru
+59
+003
+Development Bank of Kenya Limited
+Mombasa
+000
+0 UNKNOWN
+60
+051
+State Bank of Mauritius Kenya
+Kilifi
+003
+0 Kilifi
+60
+052
+State Bank of Mauritius Kenya
+Kisumu Naivas
+042
+0 Kisumu
+60
+053
+State Bank of Mauritius Kenya
+Ruaka
+047
+0 Nairobi County
+60
+054
+State Bank of Mauritius Kenya
+Garden City
+047
+0 Nairobi County
+60
+055
+State Bank of Mauritius Kenya
+Xpress Jomvu
+001
+0 Mombasa
+60
+056
+State Bank of Mauritius Kenya
+Xpress Kitengela
+016
+0 Machakos
+60
+057
+State Bank of Mauritius Kenya
+Kayole
+047
+0 Nairobi County
+60
+058
+State Bank of Mauritius Kenya
+Xpress Limuru Road
+047
+0 Nairobi County
+60
+059
+State Bank of Mauritius Kenya
+Xpress Pangani
+047
+0 Nairobi County
+60
+060
+State Bank of Mauritius Kenya
+Xpress Nakuru
+032
+0 Nakuru
+60
+061
+State Bank of Mauritius Kenya
+Xpress Eldoret
+027
+0 Uasin Gishu
+60
+062
+State Bank of Mauritius Kenya
+Ngong Milele
+034
+0 Kajiado
+60
+078
+State Bank of Mauritius Kenya
+Card Centre
+047
+0 Nairobi County
+60
+100
+State Bank of Mauritius Kenya
+Head Office - IPS Clearing Centre
+047
+0 Nairobi County
+60
+079
+State Bank of Mauritius Kenya
+Gikomba Xpress
+047
+0 Nairobi County
+60
+081
+State Bank of Mauritius Kenya
+Jubilee Arcade Branch
+047
+0 Nairobi County
+60
+001
+State Bank of Mauritius Kenya
+City Centre Branch
+047
+0 Nairobi County
+60
+003
+State Bank of Mauritius Kenya
+Village Market
+047
+0 Nairobi County
+60
+004
+State Bank of Mauritius Kenya
+Mombasa Moi Avenue
+001
+0 Mombasa
+60
+005
+State Bank of Mauritius Kenya
+Hurlingham
+047
+0 Nairobi County
+60
+006
+State Bank of Mauritius Kenya
+Eastleigh
+047
+0 Nairobi County
+60
+007
+State Bank of Mauritius Kenya
+Parklands
+047
+0 Nairobi County
+
+
+60
+008
+State Bank of Mauritius Kenya
+Riverside Mews
+047
+0 Nairobi County
+60
+010
+State Bank of Mauritius Kenya
+Thika
+022
+0 Kiambu
+60
+011
+State Bank of Mauritius Kenya
+Nakuru
+032
+0 Nakuru
+60
+012
+State Bank of Mauritius Kenya
+Donholm
+047
+0 Nairobi County
+60
+013
+State Bank of Mauritius Kenya
+Bondeni
+001
+0 Mombasa
+60
+014
+State Bank of Mauritius Kenya
+Ngara Mini
+001
+0 Mombasa
+60
+015
+State Bank of Mauritius Kenya
+Kisumu
+042
+0 Kisumu
+60
+017
+State Bank of Mauritius Kenya
+Diamond Plaza
+047
+0 Nairobi County
+60
+018
+State Bank of Mauritius Kenya
+Windsor
+047
+0 Nairobi County
+60
+019
+State Bank of Mauritius Kenya
+Malindi
+003
+0 Kilifi
+60
+020
+State Bank of Mauritius Kenya
+Embakasi
+047
+0 Nairobi County
+60
+021
+State Bank of Mauritius Kenya
+Upper Hill
+047
+0 Nairobi County
+60
+063
+State Bank of Mauritius Kenya
+Corner House
+047
+0 Nairobi County
+60
+064
+State Bank of Mauritius Kenya
+Eastleigh III
+047
+0 Nairobi County
+60
+022
+State Bank of Mauritius Kenya
+Nyali
+001
+0 Mombasa
+60
+000
+State Bank of Mauritius Kenya
+Head Office
+047
+0 Nairobi County
+60
+070
+State Bank of Mauritius Kenya
+City Centre
+047
+0 Nairobi County
+60
+065
+State Bank of Mauritius Kenya
+Westlands
+047
+0 Nairobi County
+60
+066
+State Bank of Mauritius Kenya
+Industrial Area
+047
+0 Nairobi County
+60
+067
+State Bank of Mauritius Kenya
+Diani
+003
+0 Kilifi
+60
+071
+State Bank of Mauritius Kenya
+Malindi
+003
+0 Kilifi
+60
+068
+State Bank of Mauritius Kenya
+Mombasa
+001
+0 Mombasa
+60
+076
+State Bank of Mauritius Kenya
+Changamwe
+001
+0 Mombasa
+60
+069
+State Bank of Mauritius Kenya
+Kilimani
+047
+0 Nairobi County
+60
+075
+State Bank of Mauritius Kenya
+New Muthaiga
+047
+0 Nairobi County
+60
+072
+State Bank of Mauritius Kenya
+Nyali
+001
+0 Mombasa
+60
+073
+State Bank of Mauritius Kenya
+Sameer
+047
+0 Nairobi County
+60
+074
+State Bank of Mauritius Kenya
+Highridge
+047
+0 Nairobi County
+60
+077
+State Bank of Mauritius Kenya
+Garden City
+047
+0 Nairobi County
+60
+016
+State Bank of Mauritius Kenya
+Eldoret
+027
+0 Uasin Gishu
+60
+023
+State Bank of Mauritius Kenya
+Buru Buru
+047
+0 Nairobi County
+60
+024
+State Bank of Mauritius Kenya
+Strathmore
+047
+0 Nairobi County
+60
+025
+State Bank of Mauritius Kenya
+Kisii
+045
+0 Kisii
+60
+026
+State Bank of Mauritius Kenya
+Virtual
+047
+0 Nairobi County
+60
+027
+State Bank of Mauritius Kenya
+Rafiki DTM Clearing Center
+047
+0 Nairobi County
+60
+028
+State Bank of Mauritius Kenya
+Chase Xpress - Ngong Road
+047
+0 Nairobi County
+60
+029
+State Bank of Mauritius Kenya
+Chase Elite ABC Place
+047
+0 Nairobi County
+60
+030
+State Bank of Mauritius Kenya
+Sameer Business Park
+047
+0 Nairobi County
+60
+031
+State Bank of Mauritius Kenya
+Mtwapa
+001
+0 Mombasa
+60
+032
+State Bank of Mauritius Kenya
+Ongata Rongai
+034
+0 Kajiado
+60
+033
+State Bank of Mauritius Kenya
+Westlands
+047
+0 Nairobi County
+60
+034
+State Bank of Mauritius Kenya
+Machakos
+016
+0 Machakos
+60
+035
+State Bank of Mauritius Kenya
+Mombasa Old Town
+001
+0 Mombasa
+60
+036
+State Bank of Mauritius Kenya
+River Road
+047
+0 Nairobi County
+60
+037
+State Bank of Mauritius Kenya
+Lunga Lunga
+047
+0 Nairobi County
+60
+038
+State Bank of Mauritius Kenya
+Chase Xpress Dagoretti Corner
+047
+0 Nairobi County
+60
+039
+State Bank of Mauritius Kenya
+Chase Xpress Madaraka Corner
+047
+0 Nairobi County
+60
+040
+State Bank of Mauritius Kenya
+Kitale
+026
+0 Trans-Nzoia
+60
+041
+State Bank of Mauritius Kenya
+Kimathi
+047
+0 Nairobi County
+60
+042
+State Bank of Mauritius Kenya
+Narok
+033
+0 Narok
+60
+043
+State Bank of Mauritius Kenya
+SACCO Processing Centre
+043
+0 Homa Bay
+60
+044
+State Bank of Mauritius Kenya
+Garissa
+007
+0 Garissa
+
+
+60
+045
+State Bank of Mauritius Kenya
+KPA
+001
+0 Mombasa
+60
+046
+State Bank of Mauritius Kenya
+Lavington
+047
+0 Nairobi County
+60
+047
+State Bank of Mauritius Kenya
+Kericho
+036
+0 Bomet
+60
+048
+State Bank of Mauritius Kenya
+Karen
+047
+0 Nairobi County
+60
+049
+State Bank of Mauritius Kenya
+Kilimani
+047
+0 Nairobi County
+60
+050
+State Bank of Mauritius Kenya
+Kasuku Centre
+047
+0 Nairobi County
+61
+023
+Housing Finance Bank
+Komarock
+047
+0 Nairobi County
+61
+016
+Housing Finance Bank
+Kitengela
+034
+0 Kajiado
+61
+017
+Housing Finance Bank
+Naivasha
+032
+0 Nakuru
+61
+018
+Housing Finance Bank
+Kisii
+000
+0 UNKNOWN
+61
+100
+Housing Finance Bank
+Head Office
+047
+0 Nairobi County
+61
+200
+Housing Finance Bank
+Rehani House
+047
+0 Nairobi County
+61
+210
+Housing Finance Bank
+Kenyatta Market
+000
+0 UNKNOWN
+61
+220
+Housing Finance Bank
+Harambee Avenue
+047
+0 Nairobi County
+61
+230
+Housing Finance Bank
+Buru Buru
+047
+0 Nairobi County
+61
+260
+Housing Finance Bank
+Thika Road Mall
+047
+0 Nairobi County
+61
+270
+Housing Finance Bank
+Sameer Business Park
+047
+0 Nairobi County
+61
+280
+Housing Finance Bank
+Westlands
+047
+0 Nairobi County
+61
+300
+Housing Finance Bank
+Mombasa
+001
+0 Mombasa
+61
+310
+Housing Finance Bank
+Nyali
+000
+0 UNKNOWN
+61
+400
+Housing Finance Bank
+Nakuru
+032
+0 Nakuru
+61
+410
+Housing Finance Bank
+Eldoret
+027
+0 Uasin Gishu
+61
+500
+Housing Finance Bank
+Thika
+022
+0 Kiambu
+61
+510
+Housing Finance Bank
+Nyeri
+019
+0 Nyeri
+61
+520
+Housing Finance Bank
+Meru
+012
+0 Meru
+61
+600
+Housing Finance Bank
+Kisumu
+042
+0 Kisumu
+61
+024
+Housing Finance Bank
+Machakos
+016
+0 Machakos
+61
+019
+Housing Finance Bank
+Hurlingham
+047
+0 Nairobi County
+61
+020
+Housing Finance Bank
+Riveroad
+047
+0 Nairobi County
+61
+250
+Housing Finance Bank
+Ongata Rongai
+034
+0 Kajiado
+61
+022
+Housing Finance Bank
+Nanyuki
+031
+0 Laikipia
+61
+025
+Housing Finance Bank
+Embu
+014
+0 Embu
+62
+075
+Kenya Post Office Savings Bank
+Gilgil
+000
+0 UNKNOWN
+62
+085
+Kenya Post Office Savings Bank
+Homa Bay
+000
+0 UNKNOWN
+62
+095
+Kenya Post Office Savings Bank
+Isiolo
+000
+0 UNKNOWN
+62
+096
+Kenya Post Office Savings Bank
+Iten
+000
+0 UNKNOWN
+62
+100
+Kenya Post Office Savings Bank
+Kabarnet
+000
+0 UNKNOWN
+62
+107
+Kenya Post Office Savings Bank
+Kajiado
+000
+0 UNKNOWN
+62
+109
+Kenya Post Office Savings Bank
+Kakamega
+000
+0 UNKNOWN
+62
+111
+Kenya Post Office Savings Bank
+Kangundo
+000
+0 UNKNOWN
+62
+113
+Kenya Post Office Savings Bank
+Kapenguria
+000
+0 UNKNOWN
+62
+115
+Kenya Post Office Savings Bank
+Karuri
+000
+0 UNKNOWN
+62
+116
+Kenya Post Office Savings Bank
+Kapsabet
+000
+0 UNKNOWN
+62
+119
+Kenya Post Office Savings Bank
+Karatina
+000
+0 UNKNOWN
+62
+121
+Kenya Post Office Savings Bank
+Karen
+000
+0 UNKNOWN
+62
+128
+Kenya Post Office Savings Bank
+Kericho
+000
+0 UNKNOWN
+62
+308
+Kenya Post Office Savings Bank
+Naivasha
+000
+0 UNKNOWN
+62
+309
+Kenya Post Office Savings Bank
+Nakuru
+000
+0 UNKNOWN
+62
+312
+Kenya Post Office Savings Bank
+Nandi Hills
+000
+0 UNKNOWN
+62
+314
+Kenya Post Office Savings Bank
+Nanyuki
+000
+0 UNKNOWN
+62
+315
+Kenya Post Office Savings Bank
+Narok
+000
+0 UNKNOWN
+62
+327
+Kenya Post Office Savings Bank
+Ngara Rd Nairobi
+000
+0 UNKNOWN
+
+
+62
+329
+Kenya Post Office Savings Bank
+Ngong
+000
+0 UNKNOWN
+62
+333
+Kenya Post Office Savings Bank
+Nyahururu
+000
+0 UNKNOWN
+62
+341
+Kenya Post Office Savings Bank
+Nyeri
+000
+0 UNKNOWN
+62
+001
+Kenya Post Office Savings Bank
+Head Office
+000
+0 UNKNOWN
+62
+007
+Kenya Post Office Savings Bank
+Athi River
+000
+0 UNKNOWN
+62
+013
+Kenya Post Office Savings Bank
+Bomet
+000
+0 UNKNOWN
+62
+023
+Kenya Post Office Savings Bank
+Bungoma
+000
+0 UNKNOWN
+62
+025
+Kenya Post Office Savings Bank
+Busia
+000
+0 UNKNOWN
+62
+037
+Kenya Post Office Savings Bank
+Chuka
+000
+0 UNKNOWN
+62
+047
+Kenya Post Office Savings Bank
+Eastleigh
+000
+0 UNKNOWN
+62
+050
+Kenya Post Office Savings Bank
+Eldama Ravine
+000
+0 UNKNOWN
+62
+051
+Kenya Post Office Savings Bank
+Eldoret
+000
+0 UNKNOWN
+62
+056
+Kenya Post Office Savings Bank
+Embu
+000
+0 UNKNOWN
+62
+058
+Kenya Post Office Savings Bank
+Enterprise Rd
+000
+0 UNKNOWN
+62
+746
+Kenya Post Office Savings Bank
+NACICO Nairobi
+000
+0 UNKNOWN
+62
+755
+Kenya Post Office Savings Bank
+Ongata Rongai
+000
+0 UNKNOWN
+62
+771
+Kenya Post Office Savings Bank
+Kisauni Mombasa
+000
+0 UNKNOWN
+62
+782
+Kenya Post Office Savings Bank
+Mlolongo
+000
+0 UNKNOWN
+62
+785
+Kenya Post Office Savings Bank
+Adams Acade Nairobi
+000
+0 UNKNOWN
+62
+786
+Kenya Post Office Savings Bank
+Kitengela
+000
+0 UNKNOWN
+62
+787
+Kenya Post Office Savings Bank
+Kariobangi
+000
+0 UNKNOWN
+62
+794
+Kenya Post Office Savings Bank
+Mbita
+000
+0 UNKNOWN
+62
+795
+Kenya Post Office Savings Bank
+Bodo
+000
+0 UNKNOWN
+62
+796
+Kenya Post Office Savings Bank
+Maralal
+000
+0 UNKNOWN
+62
+797
+Kenya Post Office Savings Bank
+Kawangware
+000
+0 UNKNOWN
+62
+133
+Kenya Post Office Savings Bank
+Keruguya
+000
+0 UNKNOWN
+62
+135
+Kenya Post Office Savings Bank
+Keroka
+000
+0 UNKNOWN
+62
+139
+Kenya Post Office Savings Bank
+Kahancha
+000
+0 UNKNOWN
+62
+141
+Kenya Post Office Savings Bank
+Kiambu
+000
+0 UNKNOWN
+62
+142
+Kenya Post Office Savings Bank
+Kibwezi
+000
+0 UNKNOWN
+62
+151
+Kenya Post Office Savings Bank
+Kikuyu
+000
+0 UNKNOWN
+62
+152
+Kenya Post Office Savings Bank
+Kilifi
+000
+0 UNKNOWN
+62
+159
+Kenya Post Office Savings Bank
+Kisii
+000
+0 UNKNOWN
+62
+161
+Kenya Post Office Savings Bank
+Kisumu
+000
+0 UNKNOWN
+62
+163
+Kenya Post Office Savings Bank
+Kitale
+000
+0 UNKNOWN
+62
+164
+Kenya Post Office Savings Bank
+Kitui
+000
+0 UNKNOWN
+62
+198
+Kenya Post Office Savings Bank
+Likoni
+000
+0 UNKNOWN
+62
+199
+Kenya Post Office Savings Bank
+Limuru
+000
+0 UNKNOWN
+62
+202
+Kenya Post Office Savings Bank
+Lodwar
+000
+0 UNKNOWN
+62
+208
+Kenya Post Office Savings Bank
+Luanda
+000
+0 UNKNOWN
+62
+213
+Kenya Post Office Savings Bank
+Machakos
+000
+0 UNKNOWN
+62
+222
+Kenya Post Office Savings Bank
+Matuu
+000
+0 UNKNOWN
+62
+223
+Kenya Post Office Savings Bank
+Makueni
+000
+0 UNKNOWN
+62
+226
+Kenya Post Office Savings Bank
+Malindi
+000
+0 UNKNOWN
+62
+228
+Kenya Post Office Savings Bank
+Mbale
+000
+0 UNKNOWN
+62
+232
+Kenya Post Office Savings Bank
+Mariakani
+000
+0 UNKNOWN
+62
+236
+Kenya Post Office Savings Bank
+Marsabit
+000
+0 UNKNOWN
+62
+239
+Kenya Post Office Savings Bank
+Maua
+000
+0 UNKNOWN
+62
+249
+Kenya Post Office Savings Bank
+Meru
+000
+0 UNKNOWN
+62
+272
+Kenya Post Office Savings Bank
+Molo
+000
+0 UNKNOWN
+62
+273
+Kenya Post Office Savings Bank
+Savani Hse Mombasa
+000
+0 UNKNOWN
+62
+291
+Kenya Post Office Savings Bank
+Mumias
+000
+0 UNKNOWN
+
+
+62
+293
+Kenya Post Office Savings Bank
+Muranga
+000
+0 UNKNOWN
+62
+298
+Kenya Post Office Savings Bank
+Mwingi
+000
+0 UNKNOWN
+62
+347
+Kenya Post Office Savings Bank
+Nyamira
+000
+0 UNKNOWN
+62
+357
+Kenya Post Office Savings Bank
+Oyugis
+000
+0 UNKNOWN
+62
+378
+Kenya Post Office Savings Bank
+Ruiru
+000
+0 UNKNOWN
+62
+387
+Kenya Post Office Savings Bank
+Sare Awendo
+000
+0 UNKNOWN
+62
+397
+Kenya Post Office Savings Bank
+Siaya
+000
+0 UNKNOWN
+62
+409
+Kenya Post Office Savings Bank
+Suna Migori
+000
+0 UNKNOWN
+62
+414
+Kenya Post Office Savings Bank
+Taveta
+000
+0 UNKNOWN
+62
+416
+Kenya Post Office Savings Bank
+Thika
+000
+0 UNKNOWN
+62
+428
+Kenya Post Office Savings Bank
+Ukunda
+000
+0 UNKNOWN
+62
+436
+Kenya Post Office Savings Bank
+Viwandani
+000
+0 UNKNOWN
+62
+437
+Kenya Post Office Savings Bank
+Voi
+000
+0 UNKNOWN
+62
+440
+Kenya Post Office Savings Bank
+Mwea
+000
+0 UNKNOWN
+62
+442
+Kenya Post Office Savings Bank
+Watamu
+000
+0 UNKNOWN
+62
+444
+Kenya Post Office Savings Bank
+Webuye
+000
+0 UNKNOWN
+62
+448
+Kenya Post Office Savings Bank
+Westlands Nairobi
+000
+0 UNKNOWN
+62
+476
+Kenya Post Office Savings Bank
+Emali
+000
+0 UNKNOWN
+62
+560
+Kenya Post Office Savings Bank
+Chaani
+000
+0 UNKNOWN
+62
+592
+Kenya Post Office Savings Bank
+Uthiru
+000
+0 UNKNOWN
+62
+605
+Kenya Post Office Savings Bank
+Canon Hse Nairobi
+000
+0 UNKNOWN
+62
+705
+Kenya Post Office Savings Bank
+Afya Hse Nairobi
+000
+0 UNKNOWN
+62
+707
+Kenya Post Office Savings Bank
+Githurai
+000
+0 UNKNOWN
+62
+716
+Kenya Post Office Savings Bank
+Mtwapa
+000
+0 UNKNOWN
+62
+731
+Kenya Post Office Savings Bank
+Moi Ave Mombasa
+000
+0 UNKNOWN
+62
+066
+Kenya Post Office Savings Bank
+Garissa
+000
+0 UNKNOWN
+63
+090
+Diamond Trust Bank Limited
+Githurai Branch
+047
+0 Nairobi County
+63
+092
+Diamond Trust Bank Limited
+OYUGIS
+043
+0 Homa Bay
+63
+082
+Diamond Trust Bank Limited
+New Eastleigh Branch
+047
+0 Nairobi County
+63
+097
+Diamond Trust Bank Limited
+Karatina
+019
+0 Nyeri
+63
+084
+Diamond Trust Bank Limited
+Baba Dogo Branch
+047
+0 Nairobi County
+63
+096
+Diamond Trust Bank Limited
+Nanyuki
+031
+0 Laikipia
+63
+099
+Diamond Trust Bank Limited
+Kapsabet
+029
+0 Nandi
+63
+089
+Diamond Trust Bank Limited
+GTC Branch
+047
+0 Nairobi County
+63
+088
+Diamond Trust Bank Limited
+Ongata Rongai Branch
+034
+0 Kajiado
+63
+093
+Diamond Trust Bank Limited
+Karen Hardy Branch
+047
+0 Nairobi County
+63
+042
+Diamond Trust Bank Limited
+Mtwapa Branch
+003
+0 Kilifi
+63
+043
+Diamond Trust Bank Limited
+Lamu Branch
+005
+0 Lamu
+63
+044
+Diamond Trust Bank Limited
+Kilifi Branch
+003
+0 Kilifi
+63
+045
+Diamond Trust Bank Limited
+Mariakani Branch
+003
+0 Kilifi
+63
+046
+Diamond Trust Bank Limited
+Thika Road Mall
+047
+0 Nairobi County
+63
+047
+Diamond Trust Bank Limited
+Ronald Ngala
+047
+0 Nairobi County
+63
+048
+Diamond Trust Bank Limited
+Busia
+040
+0 Busia
+63
+049
+Diamond Trust Bank Limited
+West End Mall - Kisumu
+042
+0 Kisumu
+63
+050
+Diamond Trust Bank Limited
+Tom Mboya
+000
+0 UNKNOWN
+63
+077
+Diamond Trust Bank Limited
+Imaara Mall
+047
+0 Nairobi County
+63
+074
+Diamond Trust Bank Limited
+Kahawa Sukari
+022
+0 Kiambu
+63
+076
+Diamond Trust Bank Limited
+Kamakis
+022
+0 Kiambu
+63
+080
+Diamond Trust Bank Limited
+Greenspan Mall Branch
+047
+0 Nairobi County
+63
+079
+Diamond Trust Bank Limited
+Likoni Mall Branch
+001
+0 Mombasa
+63
+075
+Diamond Trust Bank Limited
+Sarit Centre
+047
+0 Nairobi County
+63
+014
+Diamond Trust Bank Limited
+Eldoret
+027
+0 Uasin Gishu
+
+
+63
+016
+Diamond Trust Bank Limited
+Changamwe
+001
+0 Mombasa
+63
+017
+Diamond Trust Bank Limited
+T-mall
+047
+0 Nairobi County
+63
+018
+Diamond Trust Bank Limited
+Nakuru
+032
+0 Nakuru
+63
+019
+Diamond Trust Bank Limited
+Village Market
+047
+0 Nairobi County
+63
+020
+Diamond Trust Bank Limited
+Diani
+002
+0 Kwale
+63
+021
+Diamond Trust Bank Limited
+Bungoma
+039
+0 Bungoma
+63
+022
+Diamond Trust Bank Limited
+Kitale
+026
+0 Trans-Nzoia
+63
+023
+Diamond Trust Bank Limited
+Prestige
+047
+0 Nairobi County
+63
+024
+Diamond Trust Bank Limited
+Buru Buru
+047
+0 Nairobi County
+63
+025
+Diamond Trust Bank Limited
+Kitengela
+034
+0 Kajiado
+63
+026
+Diamond Trust Bank Limited
+Jomo Kenyatta Branch
+001
+0 Mombasa
+63
+078
+Diamond Trust Bank Limited
+Kayole Junction
+047
+0 Nairobi County
+63
+081
+Diamond Trust Bank Limited
+Kiambu
+022
+0 Kiambu
+63
+083
+Diamond Trust Bank Limited
+Kijabe Street
+047
+0 Nairobi County
+63
+122
+Diamond Trust Bank Limited
+Nyahururu
+031
+0 Laikipia
+63
+091
+Diamond Trust Bank Limited
+Gikomba Branch
+047
+0 Nairobi County
+63
+123
+Diamond Trust Bank Limited
+Tom Mboya
+047
+0 Nairobi County
+63
+094
+Diamond Trust Bank Limited
+BONDENI
+000
+0 UNKNOWN
+63
+029
+Diamond Trust Bank Limited
+Upperhill Branch
+047
+0 Nairobi County
+63
+121
+Diamond Trust Bank Limited
+Bondo Branch
+041
+0 Siaya
+63
+085
+Diamond Trust Bank Limited
+Kenol Branch
+021
+0 Murang'a
+63
+087
+Diamond Trust Bank Limited
+Ol-Kalou Branch
+018
+0 Nyandarua
+63
+027
+Diamond Trust Bank Limited
+Kakamega
+037
+0 Kakamega
+63
+028
+Diamond Trust Bank Limited
+Kericho
+035
+0 Kericho
+63
+029
+Diamond Trust Bank Limited
+Upper Hill
+047
+0 Nairobi County
+63
+030
+Diamond Trust Bank Limited
+Wabera Street
+047
+0 Nairobi County
+63
+031
+Diamond Trust Bank Limited
+Karen
+047
+0 Nairobi County
+63
+032
+Diamond Trust Bank Limited
+Voi
+006
+0 Taita Taveta
+63
+033
+Diamond Trust Bank Limited
+Shimanzi
+001
+0 Mombasa
+63
+034
+Diamond Trust Bank Limited
+Meru
+012
+0 Meru
+63
+035
+Diamond Trust Bank Limited
+Diamond Plaza
+047
+0 Nairobi County
+63
+036
+Diamond Trust Bank Limited
+crossroad
+047
+0 Nairobi County
+63
+037
+Diamond Trust Bank Limited
+JKIA
+047
+0 Nairobi County
+63
+038
+Diamond Trust Bank Limited
+Nyali
+001
+0 Mombasa
+63
+039
+Diamond Trust Bank Limited
+Migori Branch
+044
+0 Migori
+63
+040
+Diamond Trust Bank Limited
+Madina Mall
+047
+0 Nairobi County
+63
+000
+Diamond Trust Bank Limited
+Head Office
+047
+0 Nairobi County
+63
+001
+Diamond Trust Bank Limited
+Nation Centre
+047
+0 Nairobi County
+63
+002
+Diamond Trust Bank Limited
+Mombasa
+001
+0 Mombasa
+63
+003
+Diamond Trust Bank Limited
+Kisumu
+042
+0 Kisumu
+63
+005
+Diamond Trust Bank Limited
+Parklands
+047
+0 Nairobi County
+63
+006
+Diamond Trust Bank Limited
+Westgate
+047
+0 Nairobi County
+63
+008
+Diamond Trust Bank Limited
+Mombasa Rd
+047
+0 Nairobi County
+63
+009
+Diamond Trust Bank Limited
+Ind Area
+047
+0 Nairobi County
+63
+010
+Diamond Trust Bank Limited
+Kisii
+045
+0 Kisii
+63
+011
+Diamond Trust Bank Limited
+Malindi
+003
+0 Kilifi
+63
+012
+Diamond Trust Bank Limited
+Thika
+022
+0 Kiambu
+63
+013
+Diamond Trust Bank Limited
+Otc
+047
+0 Nairobi County
+63
+041
+Diamond Trust Bank Limited
+Courtyard Branch
+047
+0 Nairobi County
+63
+067
+Diamond Trust Bank Limited
+Nyeri
+019
+0 Nyeri
+63
+052
+Diamond Trust Bank Limited
+DTB Centre
+047
+0 Nairobi County
+63
+053
+Diamond Trust Bank Limited
+South C
+047
+0 Nairobi County
+
+
+63
+054
+Diamond Trust Bank Limited
+Lavington
+047
+0 Nairobi County
+63
+056
+Diamond Trust Bank Limited
+Biashara street, Nakuru
+032
+0 Nakuru
+63
+059
+Diamond Trust Bank Limited
+Embu
+014
+0 Embu
+63
+060
+Diamond Trust Bank Limited
+Machakos
+016
+0 Machakos
+63
+064
+Diamond Trust Bank Limited
+Watamu
+003
+0 Kilifi
+63
+065
+Diamond Trust Bank Limited
+Riverside
+047
+0 Nairobi County
+63
+066
+Diamond Trust Bank Limited
+Rivaan Center
+047
+0 Nairobi County
+63
+061
+Diamond Trust Bank Limited
+Narok
+033
+0 Narok
+63
+070
+Diamond Trust Bank Limited
+Mwanzi Road
+047
+0 Nairobi County
+63
+069
+Diamond Trust Bank Limited
+Koinange Street
+047
+0 Nairobi County
+63
+071
+Diamond Trust Bank Limited
+Enterprise Road
+047
+0 Nairobi County
+63
+072
+Diamond Trust Bank Limited
+Nkuruma Road Mombasa
+047
+0 Nairobi County
+65
+007
+Commercial International Bank (CIB) Kenya
+Mombasa Nkrumah Road Branch
+001
+0 Mombasa
+65
+006
+Commercial International Bank (CIB) Kenya
+Upperhill
+047
+0 Nairobi County
+65
+001
+Commercial International Bank (CIB) Kenya
+Westlands
+047
+0 Nairobi County
+65
+002
+Commercial International Bank (CIB) Kenya
+Mayfair Centre
+047
+0 Nairobi County
+65
+003
+Commercial International Bank (CIB) Kenya
+Nyali
+001
+0 Mombasa
+65
+005
+Commercial International Bank (CIB) Kenya
+Industrial Area Branch
+047
+0 Nairobi County
+65
+004
+Commercial International Bank (CIB) Kenya
+Eldoret Branch
+027
+0 Uasin Gishu
+65
+000
+Commercial International Bank (CIB) Kenya
+Head Office
+000
+0 UNKNOWN
+66
+058
+Sidian Bank Limited
+Gikomba
+047
+0 Nairobi County
+66
+059
+Sidian Bank Limited
+Kamakis
+022
+0 Kiambu
+66
+061
+Sidian Bank Limited
+Nyali
+001
+0 Mombasa
+66
+060
+Sidian Bank Limited
+Kakamega
+037
+0 Kakamega
+66
+062
+Sidian Bank Limited
+Kiambu Branch
+022
+0 Kiambu
+66
+100
+Sidian Bank Limited
+Head Office
+000
+0 UNKNOWN
+66
+031
+Sidian Bank Limited
+Mtwapa
+003
+0 Kilifi
+66
+032
+Sidian Bank Limited
+Busia
+040
+0 Busia
+66
+033
+Sidian Bank Limited
+Moi Nbi
+047
+0 Nairobi County
+66
+034
+Sidian Bank Limited
+Mwea
+020
+0 Kirinyaga
+66
+035
+Sidian Bank Limited
+Kengeleni
+001
+0 Mombasa
+66
+036
+Sidian Bank Limited
+Kilimani
+047
+0 Nairobi County
+66
+037
+Sidian Bank Limited
+Rongai
+034
+0 Kajiado
+66
+029
+Sidian Bank Limited
+Kajiado
+034
+0 Kajiado
+66
+030
+Sidian Bank Limited
+Nkubu
+012
+0 Meru
+66
+021
+Sidian Bank Limited
+Email
+017
+0 Makueni
+66
+022
+Sidian Bank Limited
+Naivasha
+032
+0 Nakuru
+66
+023
+Sidian Bank Limited
+Nyahururu
+031
+0 Laikipia
+66
+024
+Sidian Bank Limited
+Isiolo
+011
+0 Isiolo
+66
+025
+Sidian Bank Limited
+Meru
+012
+0 Meru
+66
+026
+Sidian Bank Limited
+Kitale
+026
+0 Trans-Nzoia
+66
+027
+Sidian Bank Limited
+Kibwezi
+017
+0 Makueni
+66
+028
+Sidian Bank Limited
+Bungoma
+039
+0 Bungoma
+66
+054
+Sidian Bank Limited
+The Mall Westlands
+047
+0 Nairobi County
+66
+000
+Sidian Bank Limited
+Head Office
+000
+0 UNKNOWN
+66
+001
+Sidian Bank Limited
+Main Office
+047
+0 Nairobi County
+66
+002
+Sidian Bank Limited
+Mombasa
+001
+0 Mombasa
+66
+003
+Sidian Bank Limited
+Kenyatta Ave Nbi
+047
+0 Nairobi County
+66
+004
+Sidian Bank Limited
+Nakuru
+032
+0 Nakuru
+66
+005
+Sidian Bank Limited
+Nyeri
+000
+0 UNKNOWN
+66
+006
+Sidian Bank Limited
+Buruburu
+047
+0 Nairobi County
+66
+007
+Sidian Bank Limited
+Embu
+014
+0 Embu
+
+
+66
+008
+Sidian Bank Limited
+Eldoret
+027
+0 Uasin Gishu
+66
+009
+Sidian Bank Limited
+Kisumu
+042
+0 Kisumu
+66
+010
+Sidian Bank Limited
+Kericho
+035
+0 Kericho
+66
+011
+Sidian Bank Limited
+Mlolongo
+016
+0 Machakos
+66
+012
+Sidian Bank Limited
+Thika
+022
+0 Kiambu
+66
+013
+Sidian Bank Limited
+Kerugoya
+020
+0 Kirinyaga
+66
+014
+Sidian Bank Limited
+Kenyatta Market
+047
+0 Nairobi County
+66
+015
+Sidian Bank Limited
+Kisii
+045
+0 Kisii
+66
+016
+Sidian Bank Limited
+CHUKA
+013
+0 Tharaka-Nithi
+66
+017
+Sidian Bank Limited
+Kitui
+015
+0 Kitui
+66
+018
+Sidian Bank Limited
+Machakos
+016
+0 Machakos
+66
+019
+Sidian Bank Limited
+Nanyuki
+031
+0 Laikipia
+66
+020
+Sidian Bank Limited
+Kangemi
+047
+0 Nairobi County
+66
+051
+Sidian Bank Limited
+Sameer Park
+047
+0 Nairobi County
+66
+052
+Sidian Bank Limited
+River Road
+047
+0 Nairobi County
+66
+053
+Sidian Bank Limited
+Two Rivers
+022
+0 Kiambu
+68
+084
+Equity Bank Limited
+Eastleigh
+047
+0 Nairobi County
+68
+085
+Equity Bank Limited
+Namanga
+034
+0 Kajiado
+68
+086
+Equity Bank Limited
+Kajiado
+034
+0 Kajiado
+68
+087
+Equity Bank Limited
+Ruiru
+022
+0 Kiambu
+68
+088
+Equity Bank Limited
+Otc
+047
+0 Nairobi County
+68
+089
+Equity Bank Limited
+Kenol
+021
+0 Murang'a
+68
+090
+Equity Bank Limited
+Tala
+016
+0 Machakos
+68
+091
+Equity Bank Limited
+Ngara
+047
+0 Nairobi County
+68
+092
+Equity Bank Limited
+Nandi Hills
+029
+0 Nandi
+68
+093
+Equity Bank Limited
+Githunguri
+022
+0 Kiambu
+68
+094
+Equity Bank Limited
+Tea Room
+047
+0 Nairobi County
+68
+095
+Equity Bank Limited
+Buru Buru
+047
+0 Nairobi County
+68
+096
+Equity Bank Limited
+Mbale
+038
+0 Vihiga
+68
+097
+Equity Bank Limited
+Siaya
+041
+0 Siaya
+68
+098
+Equity Bank Limited
+Homa Bay
+043
+0 Homa Bay
+68
+022
+Equity Bank Limited
+Muranga
+021
+0 Murang'a
+68
+023
+Equity Bank Limited
+Molo
+032
+0 Nakuru
+68
+024
+Equity Bank Limited
+Harambee Avenu
+047
+0 Nairobi County
+68
+025
+Equity Bank Limited
+Mombasa
+001
+0 Mombasa
+68
+026
+Equity Bank Limited
+Kimathi Street
+047
+0 Nairobi County
+68
+027
+Equity Bank Limited
+Nanyuki
+031
+0 Laikipia
+68
+028
+Equity Bank Limited
+Kericho
+035
+0 Kericho
+68
+179
+Equity Bank Limited
+Utawala
+047
+0 Nairobi County
+68
+190
+Equity Bank Limited
+Engineer
+018
+0 Nyandarua
+68
+191
+Equity Bank Limited
+Njabini
+018
+0 Nyandarua
+68
+175
+Equity Bank Limited
+Garden City
+047
+0 Nairobi County
+68
+178
+Equity Bank Limited
+Wangige Sub Branch
+022
+0 Kiambu
+68
+176
+Equity Bank Limited
+Mlolongo
+016
+0 Machakos
+68
+177
+Equity Bank Limited
+Embassy House
+047
+0 Nairobi County
+68
+180
+Equity Bank Limited
+Kawangware sub Branch
+047
+0 Nairobi County
+68
+038
+Equity Bank Limited
+Mwea
+020
+0 Kirinyaga
+68
+039
+Equity Bank Limited
+Matuu
+016
+0 Machakos
+68
+040
+Equity Bank Limited
+Maua
+012
+0 Meru
+68
+041
+Equity Bank Limited
+Isiolo
+011
+0 Isiolo
+68
+042
+Equity Bank Limited
+Kagio
+020
+0 Kirinyaga
+68
+043
+Equity Bank Limited
+Gikomba
+047
+0 Nairobi County
+
+
+68
+044
+Equity Bank Limited
+Ukunda
+002
+0 Kwale
+68
+045
+Equity Bank Limited
+Malindi
+003
+0 Kilifi
+68
+046
+Equity Bank Limited
+Mombasa Digo Road
+001
+0 Mombasa
+68
+047
+Equity Bank Limited
+Moi Avenue
+047
+0 Nairobi County
+68
+048
+Equity Bank Limited
+Bungoma
+039
+0 Bungoma
+68
+049
+Equity Bank Limited
+Kapsabet
+029
+0 Nandi
+68
+050
+Equity Bank Limited
+Kakamega
+037
+0 Kakamega
+68
+051
+Equity Bank Limited
+Kisii
+045
+0 Kisii
+68
+052
+Equity Bank Limited
+Nyamira
+046
+0 Nyamira
+68
+053
+Equity Bank Limited
+Litein
+035
+0 Kericho
+68
+054
+Equity Bank Limited
+Equity Centre Diaspora
+047
+0 Nairobi County
+68
+055
+Equity Bank Limited
+Westlands
+047
+0 Nairobi County
+68
+056
+Equity Bank Limited
+Industrial Area Kenpipe Plaza
+047
+0 Nairobi County
+68
+057
+Equity Bank Limited
+Kikuyu
+022
+0 Kiambu
+68
+058
+Equity Bank Limited
+Garissa
+007
+0 Garissa
+68
+059
+Equity Bank Limited
+Mwingi
+015
+0 Kitui
+68
+060
+Equity Bank Limited
+Machakos
+016
+0 Machakos
+68
+061
+Equity Bank Limited
+Ongata Rongai
+034
+0 Kajiado
+68
+062
+Equity Bank Limited
+Ol-kalao
+018
+0 Nyandarua
+68
+063
+Equity Bank Limited
+Kawangware
+047
+0 Nairobi County
+68
+064
+Equity Bank Limited
+Kiambu
+022
+0 Kiambu
+68
+065
+Equity Bank Limited
+Kayole
+047
+0 Nairobi County
+68
+066
+Equity Bank Limited
+Gatundu
+022
+0 Kiambu
+68
+067
+Equity Bank Limited
+Wote
+017
+0 Makueni
+68
+068
+Equity Bank Limited
+Mumias
+037
+0 Kakamega
+68
+069
+Equity Bank Limited
+Limuru
+022
+0 Kiambu
+68
+070
+Equity Bank Limited
+Kitengela
+034
+0 Kajiado
+68
+071
+Equity Bank Limited
+Githurai
+047
+0 Nairobi County
+68
+072
+Equity Bank Limited
+Kitui
+015
+0 Kitui
+68
+073
+Equity Bank Limited
+Ngong
+034
+0 Kajiado
+68
+074
+Equity Bank Limited
+Loitoktok
+034
+0 Kajiado
+68
+075
+Equity Bank Limited
+Bondo
+041
+0 Siaya
+68
+076
+Equity Bank Limited
+Mbita
+043
+0 Homa Bay
+68
+077
+Equity Bank Limited
+Gilgil
+032
+0 Nakuru
+68
+078
+Equity Bank Limited
+Busia
+040
+0 Busia
+68
+079
+Equity Bank Limited
+Voi
+006
+0 Taita Taveta
+68
+080
+Equity Bank Limited
+Enterprise Road
+047
+0 Nairobi County
+68
+081
+Equity Bank Limited
+Equity Centre
+047
+0 Nairobi County
+68
+082
+Equity Bank Limited
+Donholm
+047
+0 Nairobi County
+68
+083
+Equity Bank Limited
+Mukurwe-ini
+019
+0 Nyeri
+68
+006
+Equity Bank Limited
+Murarandia
+021
+0 Murang'a
+68
+007
+Equity Bank Limited
+Kangari
+021
+0 Murang'a
+68
+008
+Equity Bank Limited
+Othaya
+019
+0 Nyeri
+68
+009
+Equity Bank Limited
+Thika / Equity Plaza
+022
+0 Kiambu
+68
+010
+Equity Bank Limited
+Kerugoya
+020
+0 Kirinyaga
+68
+116
+Equity Bank Limited
+Migori
+044
+0 Migori
+68
+117
+Equity Bank Limited
+Kibera
+047
+0 Nairobi County
+68
+011
+Equity Bank Limited
+Nyeri
+019
+0 Nyeri
+68
+012
+Equity Bank Limited
+Tom Mboya
+047
+0 Nairobi County
+68
+013
+Equity Bank Limited
+Nakuru
+032
+0 Nakuru
+68
+014
+Equity Bank Limited
+Meru
+012
+0 Meru
+68
+015
+Equity Bank Limited
+Mama Ngina
+047
+0 Nairobi County
+
+
+68
+016
+Equity Bank Limited
+Nyahururu
+031
+0 Laikipia
+68
+017
+Equity Bank Limited
+Community
+047
+0 Nairobi County
+68
+018
+Equity Bank Limited
+Community Corporate
+047
+0 Nairobi County
+68
+019
+Equity Bank Limited
+Embu
+014
+0 Embu
+68
+020
+Equity Bank Limited
+Naivasha
+032
+0 Nakuru
+68
+021
+Equity Bank Limited
+Chuka
+013
+0 Tharaka-Nithi
+68
+120
+Equity Bank Limited
+Changamwe
+001
+0 Mombasa
+68
+121
+Equity Bank Limited
+Hola
+004
+0 Tana River
+68
+122
+Equity Bank Limited
+Bomet
+036
+0 Bomet
+68
+123
+Equity Bank Limited
+Kilgoris
+033
+0 Narok
+68
+124
+Equity Bank Limited
+Keroka
+046
+0 Nyamira
+68
+125
+Equity Bank Limited
+KAREN
+047
+0 Nairobi County
+68
+126
+Equity Bank Limited
+KISUMU ANGAWA AVE
+042
+0 Kisumu
+68
+127
+Equity Bank Limited
+MPEKETONI
+005
+0 Lamu
+68
+128
+Equity Bank Limited
+NAIROBI WEST
+047
+0 Nairobi County
+68
+129
+Equity Bank Limited
+KENYATTA AVENUE
+047
+0 Nairobi County
+68
+130
+Equity Bank Limited
+City Hall
+047
+0 Nairobi County
+68
+131
+Equity Bank Limited
+Eldama Ravine
+030
+0 Baringo
+68
+132
+Equity Bank Limited
+Embakasi
+047
+0 Nairobi County
+68
+133
+Equity Bank Limited
+KPCU
+047
+0 Nairobi County
+68
+134
+Equity Bank Limited
+Ridgeways
+047
+0 Nairobi County
+68
+135
+Equity Bank Limited
+Runyenjes Sub Branch
+014
+0 Embu
+68
+136
+Equity Bank Limited
+Dadaad
+007
+0 Garissa
+68
+137
+Equity Bank Limited
+Kangemi
+047
+0 Nairobi County
+68
+138
+Equity Bank Limited
+Nyali Centre Corporate
+001
+0 Mombasa
+68
+139
+Equity Bank Limited
+Kabarnet
+030
+0 Baringo
+68
+140
+Equity Bank Limited
+Westlands Corporate
+047
+0 Nairobi County
+68
+141
+Equity Bank Limited
+Lavington Corporate
+047
+0 Nairobi County
+68
+142
+Equity Bank Limited
+Taita Taveta
+006
+0 Taita Taveta
+68
+143
+Equity Bank Limited
+Awendo
+044
+0 Migori
+68
+144
+Equity Bank Limited
+Ruai
+047
+0 Nairobi County
+68
+145
+Equity Bank Limited
+Kilimani
+047
+0 Nairobi County
+68
+146
+Equity Bank Limited
+Nakuru Westside Mall
+032
+0 Nakuru
+68
+147
+Equity Bank Limited
+Kilimani Supreme
+047
+0 Nairobi County
+68
+148
+Equity Bank Limited
+JKIA Cargo Centre
+047
+0 Nairobi County
+68
+149
+Equity Bank Limited
+EPZ Athi River
+016
+0 Machakos
+68
+150
+Equity Bank Limited
+Oyugis
+043
+0 Homa Bay
+68
+151
+Equity Bank Limited
+Mayfair Supreme Centre
+047
+0 Nairobi County
+68
+152
+Equity Bank Limited
+Juja
+022
+0 Kiambu
+68
+153
+Equity Bank Limited
+Iten
+028
+0 Elgeyo-Marakwet
+68
+154
+Equity Bank Limited
+Nyali Supreme Centre
+001
+0 Mombasa
+68
+155
+Equity Bank Limited
+Thika Supreme Centre
+022
+0 Kiambu
+68
+156
+Equity Bank Limited
+Mombasa Supreme Centre
+001
+0 Mombasa
+68
+157
+Equity Bank Limited
+Kapsowar Sub-Branch
+028
+0 Elgeyo-Marakwet
+68
+158
+Equity Bank Limited
+Kwale
+002
+0 Kwale
+68
+159
+Equity Bank Limited
+Lamu
+005
+0 Lamu
+68
+000
+Equity Bank Limited
+Equity Bank Head Office
+047
+0 Nairobi County
+68
+001
+Equity Bank Limited
+Equity Bank Corporate
+047
+0 Nairobi County
+68
+002
+Equity Bank Limited
+Equity Bank Fourways
+047
+0 Nairobi County
+68
+003
+Equity Bank Limited
+Kangema
+021
+0 Murang'a
+68
+004
+Equity Bank Limited
+Karatina
+019
+0 Nyeri
+68
+005
+Equity Bank Limited
+Kiriaini
+021
+0 Murang'a
+
+
+68
+174
+Equity Bank Limited
+Ruaka
+022
+0 Kiambu
+68
+777
+Equity Bank Limited
+Equity Hapo Hapo
+047
+0 Nairobi County
+68
+099
+Equity Bank Limited
+Lodwar
+023
+0 Turkana
+68
+100
+Equity Bank Limited
+Mandera
+009
+0 Mandera
+68
+101
+Equity Bank Limited
+Marsabit
+010
+0 Marsabit
+68
+102
+Equity Bank Limited
+Moyale
+010
+0 Marsabit
+68
+103
+Equity Bank Limited
+Wajir
+008
+0 Wajir
+68
+104
+Equity Bank Limited
+Meru Makutano
+012
+0 Meru
+68
+105
+Equity Bank Limited
+Malaba Town
+040
+0 Busia
+68
+029
+Equity Bank Limited
+Kisumu
+042
+0 Kisumu
+68
+030
+Equity Bank Limited
+Eldoret
+027
+0 Uasin Gishu
+68
+031
+Equity Bank Limited
+Nakuru Kenyatta Avenue
+032
+0 Nakuru
+68
+032
+Equity Bank Limited
+Kariobangi
+047
+0 Nairobi County
+68
+033
+Equity Bank Limited
+Kitale
+026
+0 Trans-Nzoia
+68
+034
+Equity Bank Limited
+Thika Kenyatta Avenue
+022
+0 Kiambu
+68
+035
+Equity Bank Limited
+Knut House
+047
+0 Nairobi County
+68
+036
+Equity Bank Limited
+Narok
+033
+0 Narok
+68
+037
+Equity Bank Limited
+Nkubu
+012
+0 Meru
+68
+206
+Equity Bank Limited
+Mikinduri
+012
+0 Meru
+68
+209
+Equity Bank Limited
+Timau Mall
+012
+0 Meru
+68
+212
+Equity Bank Limited
+Gikomba 2 Sub Branch
+047
+0 Nairobi County
+68
+214
+Equity Bank Limited
+njoro sub-branch
+032
+0 Nakuru
+68
+193
+Equity Bank Limited
+Kimana Sub-Branch
+034
+0 Kajiado
+68
+219
+Equity Bank Limited
+Dagoretti Market Sub-branch
+039
+0 Bungoma
+68
+213
+Equity Bank Limited
+North Horr Sub-Branch
+010
+0 Marsabit
+68
+211
+Equity Bank Limited
+Mariakani Branch
+003
+0 Kilifi
+68
+215
+Equity Bank Limited
+Marigat Sub-Branch
+030
+0 Baringo
+68
+182
+Equity Bank Limited
+Kagwe Sub - Branch
+022
+0 Kiambu
+68
+181
+Equity Bank Limited
+Emali Branch
+017
+0 Makueni
+68
+183
+Equity Bank Limited
+Rumuruti Branch
+031
+0 Laikipia
+68
+184
+Equity Bank Limited
+Sotik
+036
+0 Bomet
+68
+186
+Equity Bank Limited
+Laare
+012
+0 Meru
+68
+216
+Equity Bank Limited
+Takaba Sub-Branch
+009
+0 Mandera
+68
+192
+Equity Bank Limited
+Kahawa West Sub-Branch
+047
+0 Nairobi County
+68
+196
+Equity Bank Limited
+Hindi Sub - branch
+005
+0 Lamu
+68
+207
+Equity Bank Limited
+Mitunguu
+012
+0 Meru
+68
+202
+Equity Bank Limited
+Eastleigh BBS Mall
+047
+0 Nairobi County
+68
+205
+Equity Bank Limited
+Masii
+016
+0 Machakos
+68
+218
+Equity Bank Limited
+Chogoria
+013
+0 Tharaka-Nithi
+68
+198
+Equity Bank Limited
+Kamakis
+022
+0 Kiambu
+68
+208
+Equity Bank Limited
+Moi's Bridge
+027
+0 Uasin Gishu
+68
+212
+Equity Bank Limited
+Gikomba 2 Sub-Branch
+047
+0 Nairobi County
+68
+213
+Equity Bank Limited
+North Horr Sub-Branch
+010
+0 Marsabit
+68
+210
+Equity Bank Limited
+Mombasa Jomo Kenyatta Avenue
+001
+0 Mombasa
+68
+203
+Equity Bank Limited
+Kiritiri
+014
+0 Embu
+68
+197
+Equity Bank Limited
+KISII STAGE
+000
+0 UNKNOWN
+68
+199
+Equity Bank Limited
+IMAARA MALL SUB BRANCH
+047
+0 Nairobi County
+68
+194
+Equity Bank Limited
+Chaka
+019
+0 Nyeri
+68
+217
+Equity Bank Limited
+Joska Sub-Branch
+016
+0 Machakos
+68
+185
+Equity Bank Limited
+Isinya
+034
+0 Kajiado
+68
+187
+Equity Bank Limited
+Isibania
+044
+0 Migori
+68
+188
+Equity Bank Limited
+Kenyatta Market
+047
+0 Nairobi County
+
+
+68
+189
+Equity Bank Limited
+Inland Container Depot (ICD) Emb
+047
+0 Nairobi County
+68
+200
+Equity Bank Limited
+Sondu Branch
+042
+0 Kisumu
+68
+201
+Equity Bank Limited
+Bumala
+040
+0 Busia
+68
+204
+Equity Bank Limited
+Maai Mahiu
+032
+0 Nakuru
+68
+106
+Equity Bank Limited
+Kilifi
+003
+0 Kilifi
+68
+107
+Equity Bank Limited
+Kapenguria
+024
+0 West Pokot
+68
+108
+Equity Bank Limited
+Mombasa Road
+047
+0 Nairobi County
+68
+109
+Equity Bank Limited
+Eldoret Market
+027
+0 Uasin Gishu
+68
+110
+Equity Bank Limited
+Maralal
+025
+0 Samburu
+68
+111
+Equity Bank Limited
+Kimende
+022
+0 Kiambu
+68
+112
+Equity Bank Limited
+Luanda
+038
+0 Vihiga
+68
+113
+Equity Bank Limited
+Ku Sub Branch
+022
+0 Kiambu
+68
+114
+Equity Bank Limited
+Kengeleni
+001
+0 Mombasa
+68
+115
+Equity Bank Limited
+Nyeri Kimathi Way
+019
+0 Nyeri
+68
+160
+Equity Bank Limited
+Kenyatta Avenue Supreme
+047
+0 Nairobi County
+68
+161
+Equity Bank Limited
+KPA Sub-Branch Mombasa
+001
+0 Mombasa
+68
+162
+Equity Bank Limited
+Gigiri Supreme Centre
+047
+0 Nairobi County
+68
+163
+Equity Bank Limited
+Karen Supreme Centre
+047
+0 Nairobi County
+68
+164
+Equity Bank Limited
+Eldoret Supreme Centre
+027
+0 Uasin Gishu
+68
+165
+Equity Bank Limited
+Kakuma
+023
+0 Turkana
+68
+166
+Equity Bank Limited
+Archers Post
+025
+0 Samburu
+68
+167
+Equity Bank Limited
+Mutomo
+015
+0 Kitui
+68
+168
+Equity Bank Limited
+Kiserian Sub Branch
+034
+0 Kajiado
+68
+169
+Equity Bank Limited
+Dagoretti Corner
+047
+0 Nairobi County
+68
+170
+Equity Bank Limited
+Kisumu Supreme Centre
+042
+0 Kisumu
+68
+171
+Equity Bank Limited
+Thika Makongeni
+022
+0 Kiambu
+68
+172
+Equity Bank Limited
+Kutus Sub - Branch
+020
+0 Kirinyaga
+68
+173
+Equity Bank Limited
+Kibwezi Sub - Branch
+017
+0 Makueni
+68
+118
+Equity Bank Limited
+Kasarani
+047
+0 Nairobi County
+68
+119
+Equity Bank Limited
+Mtwapa
+003
+0 Kilifi
+70
+005
+Family Bank Ltd
+Thika
+022
+0 Kiambu
+70
+006
+Family Bank Ltd
+Muranga
+021
+0 Murang'a
+70
+007
+Family Bank Ltd
+Kangari
+021
+0 Murang'a
+70
+008
+Family Bank Ltd
+Kiria-ini
+021
+0 Murang'a
+70
+009
+Family Bank Ltd
+Kangema
+021
+0 Murang'a
+70
+011
+Family Bank Ltd
+Othaya
+019
+0 Nyeri
+70
+012
+Family Bank Ltd
+Kenyatta Avenue
+047
+0 Nairobi County
+70
+014
+Family Bank Ltd
+Cargen House
+047
+0 Nairobi County
+70
+015
+Family Bank Ltd
+Laptrust
+047
+0 Nairobi County
+70
+016
+Family Bank Ltd
+City Hall Annex
+047
+0 Nairobi County
+70
+017
+Family Bank Ltd
+Kasarani
+047
+0 Nairobi County
+70
+018
+Family Bank Ltd
+Nakuru Finance House
+032
+0 Nakuru
+70
+019
+Family Bank Ltd
+Nakuru Market
+032
+0 Nakuru
+70
+021
+Family Bank Ltd
+Dagoretti
+047
+0 Nairobi County
+70
+022
+Family Bank Ltd
+Kericho
+035
+0 Kericho
+70
+023
+Family Bank Ltd
+Nyahururu
+031
+0 Laikipia
+70
+024
+Family Bank Ltd
+Ruiru
+022
+0 Kiambu
+70
+025
+Family Bank Ltd
+Kisumu Reliance
+042
+0 Kisumu
+70
+026
+Family Bank Ltd
+Nyamira
+046
+0 Nyamira
+70
+027
+Family Bank Ltd
+Kisii
+045
+0 Kisii
+70
+028
+Family Bank Ltd
+Kisumu Al Imran
+042
+0 Kisumu
+70
+029
+Family Bank Ltd
+Narok
+033
+0 Narok
+
+
+70
+031
+Family Bank Ltd
+Industrial Area
+047
+0 Nairobi County
+70
+032
+Family Bank Ltd
+Thika Makongeni
+022
+0 Kiambu
+70
+033
+Family Bank Ltd
+Donholm
+047
+0 Nairobi County
+70
+034
+Family Bank Ltd
+Utawala
+047
+0 Nairobi County
+70
+035
+Family Bank Ltd
+Fourways Retail Branch
+047
+0 Nairobi County
+70
+036
+Family Bank Ltd
+Mlolongo
+016
+0 Machakos
+70
+037
+Family Bank Ltd
+Olkalou
+018
+0 Nyandarua
+70
+038
+Family Bank Ltd
+Ktda Plaza
+047
+0 Nairobi County
+70
+039
+Family Bank Ltd
+Gateway Mall Nairobi
+016
+0 Machakos
+70
+041
+Family Bank Ltd
+Kariobangi
+047
+0 Nairobi County
+70
+042
+Family Bank Ltd
+Gikomba Area 42
+047
+0 Nairobi County
+70
+043
+Family Bank Ltd
+Sokoni
+047
+0 Nairobi County
+70
+044
+Family Bank Ltd
+Kahawa West
+047
+0 Nairobi County
+70
+045
+Family Bank Ltd
+Githurai
+022
+0 Kiambu
+70
+046
+Family Bank Ltd
+Yaya
+047
+0 Nairobi County
+70
+047
+Family Bank Ltd
+Limuru
+022
+0 Kiambu
+70
+030
+Family Bank Ltd
+Kangemi
+047
+0 Nairobi County
+70
+010
+Family Bank Ltd
+JKIA
+047
+0 Nairobi County
+70
+020
+Family Bank Ltd
+Kutus
+020
+0 Kirinyaga
+70
+726
+Family Bank Ltd
+Kitui Teachers Sacco Branch
+047
+0 Nairobi County
+70
+701
+Family Bank Ltd
+Amica Sacco Branch
+047
+0 Nairobi County
+70
+099
+Family Bank Ltd
+Eastleigh Branch
+047
+0 Nairobi County
+70
+101
+Family Bank Ltd
+Wangige -Kiambu
+022
+0 Kiambu
+70
+704
+Family Bank Ltd
+Muungano Micro Finance Bank Br
+047
+0 Nairobi County
+70
+066
+Family Bank Ltd
+Ongata Rongai
+034
+0 Kajiado
+70
+067
+Family Bank Ltd
+Kajiado
+034
+0 Kajiado
+70
+068
+Family Bank Ltd
+Fourways Corporate Branch
+047
+0 Nairobi County
+70
+069
+Family Bank Ltd
+Ngara
+047
+0 Nairobi County
+70
+071
+Family Bank Ltd
+Kitengela
+034
+0 Kajiado
+70
+072
+Family Bank Ltd
+Kitui
+015
+0 Kitui
+70
+073
+Family Bank Ltd
+Mackakos
+016
+0 Machakos
+70
+074
+Family Bank Ltd
+Migori
+044
+0 Migori
+70
+075
+Family Bank Ltd
+Embu
+014
+0 Embu
+70
+076
+Family Bank Ltd
+Mwea
+020
+0 Kirinyaga
+70
+077
+Family Bank Ltd
+Bungoma
+039
+0 Bungoma
+70
+078
+Family Bank Ltd
+Kakamega
+037
+0 Kakamega
+70
+079
+Family Bank Ltd
+Busia
+040
+0 Busia
+70
+081
+Family Bank Ltd
+Mumias
+037
+0 Kakamega
+70
+082
+Family Bank Ltd
+Eldoret West
+027
+0 Uasin Gishu
+70
+083
+Family Bank Ltd
+Molo
+032
+0 Nakuru
+70
+084
+Family Bank Ltd
+Bomet
+036
+0 Bomet
+70
+085
+Family Bank Ltd
+Eldoret
+027
+0 Uasin Gishu
+70
+086
+Family Bank Ltd
+Maua
+012
+0 Meru
+70
+087
+Family Bank Ltd
+Litein
+035
+0 Kericho
+70
+088
+Family Bank Ltd
+Wote
+017
+0 Makueni
+70
+089
+Family Bank Ltd
+Bamburi
+001
+0 Mombasa
+70
+091
+Family Bank Ltd
+Ukunda
+002
+0 Kwale
+70
+092
+Family Bank Ltd
+Digo
+001
+0 Mombasa
+70
+093
+Family Bank Ltd
+Kitale
+026
+0 Trans-Nzoia
+70
+094
+Family Bank Ltd
+Mtwapa
+003
+0 Kilifi
+70
+095
+Family Bank Ltd
+Mombasa Nkrumah Road
+001
+0 Mombasa
+70
+096
+Family Bank Ltd
+Mombasa Jomo Kenyatta Avenue
+001
+0 Mombasa
+
+
+70
+097
+Family Bank Ltd
+Kapsabet
+029
+0 Nandi
+70
+098
+Family Bank Ltd
+Malindi
+003
+0 Kilifi
+70
+102
+Family Bank Ltd
+Kikuyu
+022
+0 Kiambu
+70
+048
+Family Bank Ltd
+Westlands
+047
+0 Nairobi County
+70
+049
+Family Bank Ltd
+Kagwe
+022
+0 Kiambu
+70
+051
+Family Bank Ltd
+Banana
+022
+0 Kiambu
+70
+052
+Family Bank Ltd
+Ruaka
+022
+0 Kiambu
+70
+053
+Family Bank Ltd
+Naivasha
+032
+0 Nakuru
+70
+054
+Family Bank Ltd
+Chuka
+013
+0 Tharaka-Nithi
+70
+055
+Family Bank Ltd
+Nyeri
+019
+0 Nyeri
+70
+056
+Family Bank Ltd
+Karatina
+019
+0 Nyeri
+70
+057
+Family Bank Ltd
+Kerugoya
+020
+0 Kirinyaga
+70
+058
+Family Bank Ltd
+Tom Mboya
+047
+0 Nairobi County
+70
+059
+Family Bank Ltd
+River Road
+047
+0 Nairobi County
+70
+061
+Family Bank Ltd
+Kayole
+047
+0 Nairobi County
+70
+062
+Family Bank Ltd
+Nkubu
+012
+0 Meru
+70
+063
+Family Bank Ltd
+Meru
+012
+0 Meru
+70
+064
+Family Bank Ltd
+Nanyuki
+031
+0 Laikipia
+70
+065
+Family Bank Ltd
+Ktda Plaza Corporate
+047
+0 Nairobi County
+70
+090
+Family Bank Ltd
+Kongowea Branch
+001
+0 Mombasa
+70
+703
+Family Bank Ltd
+Stima Sacco Branch
+047
+0 Nairobi County
+70
+727
+Family Bank Ltd
+Rafiki Micro Finance Bank Branch
+047
+0 Nairobi County
+70
+729
+Family Bank Ltd
+Acumen Sacco Branch
+047
+0 Nairobi County
+70
+728
+Family Bank Ltd
+United Winners Sacco Branch
+047
+0 Nairobi County
+70
+100
+Family Bank Ltd
+Nyali Branch
+001
+0 Mombasa
+70
+070
+Family Bank Ltd
+Isiolo
+011
+0 Isiolo
+70
+000
+Family Bank Ltd
+Head Office
+047
+0 Nairobi County
+70
+001
+Family Bank Ltd
+Kiambu
+022
+0 Kiambu
+70
+002
+Family Bank Ltd
+Githunguri
+022
+0 Kiambu
+70
+003
+Family Bank Ltd
+Sonalux
+047
+0 Nairobi County
+70
+004
+Family Bank Ltd
+Gatundu
+022
+0 Kiambu
+72
+005
+Gulf African Bank Ltd
+Mombasa
+001
+0 Mombasa
+72
+006
+Gulf African Bank Ltd
+Garissa
+007
+0 Garissa
+72
+007
+Gulf African Bank Ltd
+Lamu
+005
+0 Lamu
+72
+008
+Gulf African Bank Ltd
+Malindi
+003
+0 Kilifi
+72
+009
+Gulf African Bank Ltd
+Muthaiga
+047
+0 Nairobi County
+72
+010
+Gulf African Bank Ltd
+Bondeni
+001
+0 Mombasa
+72
+012
+Gulf African Bank Ltd
+Eastleigh Athumani Kipanga Stree
+047
+0 Nairobi County
+72
+014
+Gulf African Bank Ltd
+Industrial Area
+047
+0 Nairobi County
+72
+015
+Gulf African Bank Ltd
+Jomo Kenyatta Avenue
+001
+0 Mombasa
+72
+017
+Gulf African Bank Ltd
+Mombasa Road
+047
+0 Nairobi County
+72
+000
+Gulf African Bank Ltd
+Head Office
+047
+0 Nairobi County
+72
+001
+Gulf African Bank Ltd
+Central Clearing Centre
+047
+0 Nairobi County
+72
+002
+Gulf African Bank Ltd
+Upperhill
+047
+0 Nairobi County
+72
+003
+Gulf African Bank Ltd
+Eastleigh
+047
+0 Nairobi County
+72
+004
+Gulf African Bank Ltd
+Kenyatta Avenue
+047
+0 Nairobi County
+72
+019
+Gulf African Bank Ltd
+Eldoret
+027
+0 Uasin Gishu
+72
+020
+Gulf African Bank Ltd
+Nakuru
+032
+0 Nakuru
+74
+001
+Premier Bank Kenya Limited
+Wabera Street
+047
+0 Nairobi County
+74
+002
+Premier Bank Kenya Limited
+Baraka Bazar, Eastleigh 1
+047
+0 Nairobi County
+74
+003
+Premier Bank Kenya Limited
+Mombasa 1
+001
+0 Mombasa
+74
+004
+Premier Bank Kenya Limited
+Garissa
+007
+0 Garissa
+
+
+74
+005
+Premier Bank Kenya Limited
+Business Bay Square (BSS)
+047
+0 Nairobi County
+74
+006
+Premier Bank Kenya Limited
+Malindi
+003
+0 Kilifi
+74
+007
+Premier Bank Kenya Limited
+Kisumu
+042
+0 Kisumu
+74
+008
+Premier Bank Kenya Limited
+Kimathi Street
+047
+0 Nairobi County
+74
+009
+Premier Bank Kenya Limited
+Westlands
+047
+0 Nairobi County
+74
+010
+Premier Bank Kenya Limited
+South C
+047
+0 Nairobi County
+74
+011
+Premier Bank Kenya Limited
+Industrial Area
+047
+0 Nairobi County
+74
+014
+Premier Bank Kenya Limited
+Wajir
+008
+0 Wajir
+74
+015
+Premier Bank Kenya Limited
+Moyale
+010
+0 Marsabit
+74
+016
+Premier Bank Kenya Limited
+Nakuru
+032
+0 Nakuru
+74
+017
+Premier Bank Kenya Limited
+Imaara Building
+001
+0 Mombasa
+74
+018
+Premier Bank Kenya Limited
+Lunga Lunga
+047
+0 Nairobi County
+74
+019
+Premier Bank Kenya Limited
+Isiolo
+011
+0 Isiolo
+74
+020
+Premier Bank Kenya Limited
+Mihrab
+047
+0 Nairobi County
+74
+999
+Premier Bank Kenya Limited
+Head Office/clearing Center
+047
+0 Nairobi County
+74
+021
+Premier Bank Kenya Limited
+Basic Nyali Branch
+001
+0 Mombasa
+74
+011
+Premier Bank Kenya Limited
+Imara Mall Branch
+047
+0 Nairobi County
+75
+003
+DIB Bank Kenya Limited
+Moi Avenue Mombasa
+001
+0 Mombasa
+75
+001
+DIB Bank Kenya Limited
+Upper Hill Branch
+047
+0 Nairobi County
+75
+002
+DIB Bank Kenya Limited
+Sarit Branch
+047
+0 Nairobi County
+75
+008
+DIB Bank Kenya Limited
+Nyali
+001
+0 Mombasa
+75
+006
+DIB Bank Kenya Limited
+Banda Street
+047
+0 Nairobi County
+75
+007
+DIB Bank Kenya Limited
+South C
+047
+0 Nairobi County
+75
+004
+DIB Bank Kenya Limited
+Eastleigh
+047
+0 Nairobi County
+75
+005
+DIB Bank Kenya Limited
+Bondeni
+001
+0 Mombasa
+75
+000
+DIB Bank Kenya Limited
+Head Office
+047
+0 Nairobi County
+76
+001
+UBA Kenya Bank Ltd
+Westlands
+047
+0 Nairobi County
+76
+002
+UBA Kenya Bank Ltd
+Enterprise Road
+047
+0 Nairobi County
+76
+005
+UBA Kenya Bank Ltd
+Nakuru
+032
+0 Nakuru
+76
+004
+UBA Kenya Bank Ltd
+Mombasa
+001
+0 Mombasa
+76
+003
+UBA Kenya Bank Ltd
+Upper Hill
+047
+0 Nairobi County
+76
+099
+UBA Kenya Bank Ltd
+Head Office
+047
+0 Nairobi County
+78
+019
+Kenya Women Microfinance Bank
+Meru Branch
+012
+0 Meru
+78
+020
+Kenya Women Microfinance Bank
+Diani Branch
+002
+0 Kwale
+78
+021
+Kenya Women Microfinance Bank
+Upperhill Branch
+047
+0 Nairobi County
+78
+022
+Kenya Women Microfinance Bank
+Naivasha Branch
+032
+0 Nakuru
+78
+024
+Kenya Women Microfinance Bank
+Busia Branch
+040
+0 Busia
+78
+027
+Kenya Women Microfinance Bank
+Kariobangi Branch
+047
+0 Nairobi County
+78
+028
+Kenya Women Microfinance Bank
+Bungoma Branch
+039
+0 Bungoma
+78
+029
+Kenya Women Microfinance Bank
+Bomet Branch
+036
+0 Bomet
+78
+031
+Kenya Women Microfinance Bank
+Kawangware Branch
+000
+0 UNKNOWN
+78
+032
+Kenya Women Microfinance Bank
+Gikomba Branch
+000
+0 UNKNOWN
+78
+033
+Kenya Women Microfinance Bank
+Kiambu Branch
+000
+0 UNKNOWN
+78
+034
+Kenya Women Microfinance Bank
+Rongai Branch
+000
+0 UNKNOWN
+78
+041
+Kenya Women Microfinance Bank
+Marsabit Branch
+010
+0 Marsabit
+78
+043
+Kenya Women Microfinance Bank
+Lodwar Branch
+023
+0 Turkana
+78
+015
+Kenya Women Microfinance Bank
+Nakuru Branch
+032
+0 Nakuru
+78
+016
+Kenya Women Microfinance Bank
+Emali Branch
+017
+0 Makueni
+78
+017
+Kenya Women Microfinance Bank
+Voi Branch
+006
+0 Taita Taveta
+78
+018
+Kenya Women Microfinance Bank
+Kisumu Branch
+042
+0 Kisumu
+78
+001
+Kenya Women Microfinance Bank
+Kakamega Branch
+037
+0 Kakamega
+78
+002
+Kenya Women Microfinance Bank
+Eldoret Branch
+027
+0 Uasin Gishu
+
+
+78
+003
+Kenya Women Microfinance Bank
+Nyeri Branch
+019
+0 Nyeri
+78
+004
+Kenya Women Microfinance Bank
+Mombasa Branch
+001
+0 Mombasa
+78
+005
+Kenya Women Microfinance Bank
+River Rd Branch
+047
+0 Nairobi County
+78
+006
+Kenya Women Microfinance Bank
+Malindi Branch
+003
+0 Kilifi
+78
+007
+Kenya Women Microfinance Bank
+Kericho Branch
+035
+0 Kericho
+78
+008
+Kenya Women Microfinance Bank
+Machakos Branch
+016
+0 Machakos
+78
+009
+Kenya Women Microfinance Bank
+Embu Branch
+014
+0 Embu
+78
+010
+Kenya Women Microfinance Bank
+Kisii Branch
+045
+0 Kisii
+78
+011
+Kenya Women Microfinance Bank
+Nanyuki Branch
+031
+0 Laikipia
+78
+012
+Kenya Women Microfinance Bank
+Migori Branch
+044
+0 Migori
+78
+013
+Kenya Women Microfinance Bank
+Thika Branch
+022
+0 Kiambu
+78
+014
+Kenya Women Microfinance Bank
+Kitale Branch
+026
+0 Trans-Nzoia
+78
+000
+Kenya Women Microfinance Bank
+Head Office
+047
+0 Nairobi County
+78
+023
+Kenya Women Microfinance Bank
+Kitui
+015
+0 Kitui
+79
+045
+Faulu Microfinance Bank Ltd
+Voi
+000
+0 UNKNOWN
+79
+085
+Faulu Microfinance Bank Ltd
+Homabay
+000
+0 UNKNOWN
+79
+074
+Faulu Microfinance Bank Ltd
+Busia
+000
+0 UNKNOWN
+79
+060
+Faulu Microfinance Bank Ltd
+Limuru
+000
+0 UNKNOWN
+79
+012
+Faulu Microfinance Bank Ltd
+Kericho
+000
+0 UNKNOWN
+79
+056
+Faulu Microfinance Bank Ltd
+Ugunja
+000
+0 UNKNOWN
+79
+065
+Faulu Microfinance Bank Ltd
+Kapenguria
+000
+0 UNKNOWN
+79
+036
+Faulu Microfinance Bank Ltd
+Nanyuki
+000
+0 UNKNOWN
+79
+039
+Faulu Microfinance Bank Ltd
+Maua
+000
+0 UNKNOWN
+79
+042
+Faulu Microfinance Bank Ltd
+Litein
+000
+0 UNKNOWN
+79
+043
+Faulu Microfinance Bank Ltd
+Kengeleni
+000
+0 UNKNOWN
+79
+083
+Faulu Microfinance Bank Ltd
+Jevanjee
+000
+0 UNKNOWN
+79
+034
+Faulu Microfinance Bank Ltd
+Kitui
+000
+0 UNKNOWN
+79
+033
+Faulu Microfinance Bank Ltd
+Mwingi
+000
+0 UNKNOWN
+79
+041
+Faulu Microfinance Bank Ltd
+Kakamega
+000
+0 UNKNOWN
+79
+011
+Faulu Microfinance Bank Ltd
+Bomet
+000
+0 UNKNOWN
+79
+044
+Faulu Microfinance Bank Ltd
+Changamwe
+000
+0 UNKNOWN
+79
+058
+Faulu Microfinance Bank Ltd
+Ukunda
+000
+0 UNKNOWN
+79
+054
+Faulu Microfinance Bank Ltd
+Bondo
+000
+0 UNKNOWN
+79
+086
+Faulu Microfinance Bank Ltd
+Gikomba
+000
+0 UNKNOWN
+79
+003
+Faulu Microfinance Bank Ltd
+Kariobangi
+000
+0 UNKNOWN
+79
+004
+Faulu Microfinance Bank Ltd
+Githurai
+000
+0 UNKNOWN
+79
+046
+Faulu Microfinance Bank Ltd
+Kawangware
+000
+0 UNKNOWN
+79
+047
+Faulu Microfinance Bank Ltd
+Kayole
+000
+0 UNKNOWN
+79
+048
+Faulu Microfinance Bank Ltd
+Matuu
+000
+0 UNKNOWN
+79
+049
+Faulu Microfinance Bank Ltd
+Mwea
+000
+0 UNKNOWN
+79
+050
+Faulu Microfinance Bank Ltd
+Makutano
+000
+0 UNKNOWN
+79
+051
+Faulu Microfinance Bank Ltd
+Mumias
+000
+0 UNKNOWN
+79
+052
+Faulu Microfinance Bank Ltd
+Kiserian
+000
+0 UNKNOWN
+79
+053
+Faulu Microfinance Bank Ltd
+Rongai
+000
+0 UNKNOWN
+79
+055
+Faulu Microfinance Bank Ltd
+Migori
+000
+0 UNKNOWN
+79
+062
+Faulu Microfinance Bank Ltd
+Kilifi
+000
+0 UNKNOWN
+79
+080
+Faulu Microfinance Bank Ltd
+Kibera
+000
+0 UNKNOWN
+79
+084
+Faulu Microfinance Bank Ltd
+Moi Avenue MSA
+000
+0 UNKNOWN
+79
+079
+Faulu Microfinance Bank Ltd
+Kimathi St
+000
+0 UNKNOWN
+79
+005
+Faulu Microfinance Bank Ltd
+Machakos
+000
+0 UNKNOWN
+79
+006
+Faulu Microfinance Bank Ltd
+Ngong Road
+000
+0 UNKNOWN
+79
+002
+Faulu Microfinance Bank Ltd
+OTC
+000
+0 UNKNOWN
+
+
+79
+007
+Faulu Microfinance Bank Ltd
+Kiambu
+000
+0 UNKNOWN
+79
+008
+Faulu Microfinance Bank Ltd
+Nakuru
+000
+0 UNKNOWN
+79
+009
+Faulu Microfinance Bank Ltd
+Nyahururu
+000
+0 UNKNOWN
+79
+010
+Faulu Microfinance Bank Ltd
+Molo
+000
+0 UNKNOWN
+79
+013
+Faulu Microfinance Bank Ltd
+Naivasha
+000
+0 UNKNOWN
+79
+015
+Faulu Microfinance Bank Ltd
+Eldoret
+000
+0 UNKNOWN
+79
+016
+Faulu Microfinance Bank Ltd
+Bungoma
+000
+0 UNKNOWN
+79
+017
+Faulu Microfinance Bank Ltd
+Kitale
+000
+0 UNKNOWN
+79
+018
+Faulu Microfinance Bank Ltd
+Mois Bridge
+000
+0 UNKNOWN
+79
+019
+Faulu Microfinance Bank Ltd
+Kisumu
+000
+0 UNKNOWN
+79
+020
+Faulu Microfinance Bank Ltd
+Nyeri
+000
+0 UNKNOWN
+79
+021
+Faulu Microfinance Bank Ltd
+Thika
+000
+0 UNKNOWN
+79
+022
+Faulu Microfinance Bank Ltd
+Meru
+000
+0 UNKNOWN
+79
+025
+Faulu Microfinance Bank Ltd
+Malindi
+000
+0 UNKNOWN
+79
+027
+Faulu Microfinance Bank Ltd
+Kitengela
+000
+0 UNKNOWN
+79
+023
+Faulu Microfinance Bank Ltd
+Embu
+000
+0 UNKNOWN
+79
+024
+Faulu Microfinance Bank Ltd
+Mombasa Central
+000
+0 UNKNOWN
+79
+029
+Faulu Microfinance Bank Ltd
+Narok
+000
+0 UNKNOWN
+79
+031
+Faulu Microfinance Bank Ltd
+Kabarnet
+000
+0 UNKNOWN
+79
+032
+Faulu Microfinance Bank Ltd
+Karatina
+000
+0 UNKNOWN
+79
+035
+Faulu Microfinance Bank Ltd
+Muranga
+000
+0 UNKNOWN
+80
+001
+Caritas Microfinance Bank Limited
+Head Office
+000
+0 UNKNOWN
+80
+002
+Caritas Microfinance Bank Limited
+Cardinal Otunga Plaza
+000
+0 UNKNOWN
+80
+003
+Caritas Microfinance Bank Limited
+Cardinal Otunga Annex
+000
+0 UNKNOWN
+80
+004
+Caritas Microfinance Bank Limited
+Kawangware
+000
+0 UNKNOWN
+80
+005
+Caritas Microfinance Bank Limited
+Donholm
+000
+0 UNKNOWN
+80
+010
+Caritas Microfinance Bank Limited
+Nakuru
+032
+0 Nakuru
+80
+007
+Caritas Microfinance Bank Limited
+Karuri
+000
+0 UNKNOWN
+80
+008
+Caritas Microfinance Bank Limited
+Karen
+000
+0 UNKNOWN
+80
+009
+Caritas Microfinance Bank Limited
+Nyeri
+000
+0 UNKNOWN
+80
+011
+Caritas Microfinance Bank Limited
+Githurai
+047
+0 Nairobi County
+80
+006
+Caritas Microfinance Bank Limited
+Thika
+000
+0 UNKNOWN
+
