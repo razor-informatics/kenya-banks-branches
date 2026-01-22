@@ -919,6 +919,35 @@ bank_code,bank_name,branch_code,branch_name,full_name,county_code,county_name
 18,Middle East Bank Kenya Limited,18 005,Eldoret,"Middle East Bank Kenya Limited, Eldoret",27,Uasin Gishu
 18,Middle East Bank Kenya Limited,18 000,Head Office,"Middle East Bank Kenya Limited, Head Office",47,Nairobi County
 18,Middle East Bank Kenya Limited,18 002,Mombasa,"Middle East Bank Kenya Limited, Mombasa",01,Mombasa
+19,Bank of Africa Kenya Limited,19 000,Reinsurance Plaza Nairobi,"Bank of Africa Kenya Limited, Reinsurance Plaza Nairobi",47,Nairobi County
+19,Bank of Africa Kenya Limited,19 001,Mombasa,"Bank of Africa Kenya Limited, Mombasa","01",Mombasa
+19,Bank of Africa Kenya Limited,19 002,Westlands,"Bank of Africa Kenya Limited, Westlands",47,Nairobi County
+19,Bank of Africa Kenya Limited,19 003,Uhuru Highway,"Bank of Africa Kenya Limited, Uhuru Highway",47,Nairobi County
+19,Bank of Africa Kenya Limited,19 004,River Road,"Bank of Africa Kenya Limited, River Road",47,Nairobi County
+19,Bank of Africa Kenya Limited,19 005,Thika,"Bank of Africa Kenya Limited, Thika",22,Kiambu
+19,Bank of Africa Kenya Limited,19 006,Kisumu,"Bank of Africa Kenya Limited, Kisumu",42,Kisumu
+19,Bank of Africa Kenya Limited,19 007,Ruaraka,"Bank of Africa Kenya Limited, Ruaraka",47,Nairobi County
+19,Bank of Africa Kenya Limited,19 008,Monrovia Street,"Bank of Africa Kenya Limited, Monrovia Street",47,Nairobi County
+19,Bank of Africa Kenya Limited,19 009,Nakuru,"Bank of Africa Kenya Limited, Nakuru",32,Nakuru
+19,Bank of Africa Kenya Limited,19 010,Ngong Road,"Bank of Africa Kenya Limited, Ngong Road",47,Nairobi County
+19,Bank of Africa Kenya Limited,19 011,Eldoret,"Bank of Africa Kenya Limited, Eldoret",27,Uasin Gishu
+19,Bank of Africa Kenya Limited,19 012,Embakasi,"Bank of Africa Kenya Limited, Embakasi",47,Nairobi County
+19,Bank of Africa Kenya Limited,19 014,Ongata Rongai,"Bank of Africa Kenya Limited, Ongata Rongai",34,Kajiado
+19,Bank of Africa Kenya Limited,19 015,Changamwe,"Bank of Africa Kenya Limited, Changamwe",01,Mombasa
+19,Bank of Africa Kenya Limited,19 016,Bungoma,"Bank of Africa Kenya Limited, Bungoma",39,Bungoma
+19,Bank of Africa Kenya Limited,19 018,Meru,"Bank of Africa Kenya Limited, Meru",12,Meru
+19,Bank of Africa Kenya Limited,19 019,Kitengela,"Bank of Africa Kenya Limited, Kitengela",34,Kajiado
+19,Bank of Africa Kenya Limited,19 020,Nyali,"Bank of Africa Kenya Limited, Nyali",01,Mombasa
+19,Bank of Africa Kenya Limited,19 021,Galleria,"Bank of Africa Kenya Limited, Galleria",47,Nairobi County
+19,Bank of Africa Kenya Limited,19 022,Greenspan Mall,"Bank of Africa Kenya Limited, Greenspan Mall",47,Nairobi County
+19,Bank of Africa Kenya Limited,19 023,Upper Hill,"Bank of Africa Kenya Limited, Upper Hill",47,Nairobi County
+19,Bank of Africa Kenya Limited,19 024,Nanyuki,"Bank of Africa Kenya Limited, Nanyuki",31,Laikipia
+19,Bank of Africa Kenya Limited,19 026,Kenyatta Avenue,"Bank of Africa Kenya Limited, Kenyatta Avenue",47,Nairobi County
+19,Bank of Africa Kenya Limited,19 027,Sameer Business Park,"Bank of Africa Kenya Limited, Sameer Business Park",47,Nairobi County
+19,Bank of Africa Kenya Limited,19 028,"Moi Avenue, Mombasa","Bank of Africa Kenya Limited, Moi Avenue, Mombasa",01,Mombasa
+19,Bank of Africa Kenya Limited,19 029,Ongata Rongai II,"Bank of Africa Kenya Limited, Ongata Rongai II",34,Kajiado
+19,Bank of Africa Kenya Limited,19 030,Gikomba,"Bank of Africa Kenya Limited, Gikomba",47,Nairobi County
+19,Bank of Africa Kenya Limited,19 031,Githurai,"Bank of Africa Kenya Limited, Githurai",47,Nairobi County
 19,Bank of Africa Kenya Limited,19 032,Embu,"Bank of Africa Kenya Limited, Embu",14,Embu
 19,Bank of Africa Kenya Limited,19 033,Gateway Mall,"Bank of Africa Kenya Limited, Gateway Mall",47,Nairobi County
 19,Bank of Africa Kenya Limited,19 034,Kitale,"Bank of Africa Kenya Limited, Kitale",26,Trans-Nzoia
@@ -928,40 +957,7 @@ bank_code,bank_name,branch_code,branch_name,full_name,county_code,county_name
 19,Bank of Africa Kenya Limited,19 038,Likoni Road,"Bank of Africa Kenya Limited, Likoni Road",47,Nairobi County
 19,Bank of Africa Kenya Limited,19 039,Thika Road,"Bank of Africa Kenya Limited, Thika Road",47,Nairobi County
 19,Bank of Africa Kenya Limited,19 040,Narok,"Bank of Africa Kenya Limited, Narok",33,Narok
-19,Bank of Africa Kenya Limited,19 000,Reinsurance Plaza Nairobi,"Bank of Africa Kenya Limited, Reinsurance Plaza Nairobi",47,Nairobi County
-19,Bank of Africa Kenya Limited,19 001,Mombasa,"Bank of Africa Kenya Limited, Mombasa",47,Nairobi County
-19,Bank of Africa Kenya Limited,19 002,Westlands,"Bank of Africa Kenya Limited, Westlands",47,Nairobi County
-19,Bank of Africa Kenya Limited,19 003,Uhuru Highway,"Bank of Africa Kenya Limited, Uhuru Highway",47,Nairobi County
-19,Bank of Africa Kenya Limited,19 004,River Road,"Bank of Africa Kenya Limited, River Road",47,Nairobi County
 19,Bank of Africa Kenya Limited,19 043,Ukunda,"Bank of Africa Kenya Limited, Ukunda",02,Kwale
-19,Bank of,19 031,Africa Kenya Limited,"Bank of, Africa Kenya Limited",Githurai,47
-0 Nairobi County,030,0 Nairobi County 19,Bank of,"030, Bank of",Africa Kenya Limited,Gikomba
-047,19,047 0 Nairobi County,029,"19, 029",Bank of,Africa Kenya Limited
-Ongata Rongai II,0 Kajiado,Ongata Rongai II 034,19,"0 Kajiado, 19",28,Bank of
-Africa Kenya Limited,001,"Africa Kenya Limited Moi Avenue, Mombasa",0 Mombasa,"001, 0 Mombasa",19,27
-Bank of,Sameer Business Park,Bank of Africa Kenya Limited,047,"Sameer Business Park, 047",Nairobi County,19
-026,Africa Kenya Limited,026 Bank of,Kenyatta Avenue,"Africa Kenya Limited, Kenyatta Avenue",47,Nairobi County
-19,Bank of,19 024,Africa Kenya Limited,"Bank of, Africa Kenya Limited",Nanyuki,31
-0 Laikipia,023,0 Laikipia 19,Bank of,"023, Bank of",Africa Kenya Limited,Upper Hilll
-047,19,047 0 Nairobi County,022,"19, 022",Bank of,Africa Kenya Limited
-Greenspan Mall,0 Nairobi County,Greenspan Mall 047,19,"0 Nairobi County, 19",21,Bank of
-Africa Kenya Limited,047,Africa Kenya Limited Galleria,0 Nairobi County,"047, 0 Nairobi County",19,20
-Bank of,Nyali,Bank of Africa Kenya Limited,001,"Nyali, 001",Mombasa,19
-019,Africa Kenya Limited,019 Bank of,Kitengela,"Africa Kenya Limited, Kitengela",34,Kajiado
-19,Bank of,19 018,Africa Kenya Limited,"Bank of, Africa Kenya Limited",MERU,12
-0 Meru,016,0 Meru 19,Bank of,"016, Bank of",Africa Kenya Limited,Bungoma
-039,19,039 0 Bungoma,015,"19, 015",Bank of,Africa Kenya Limited
-Changamwe,0 Mombasa,Changamwe 001,19,"0 Mombasa, 19",14,Bank of
-Africa Kenya Limited,034,Africa Kenya Limited Ongata Rongai,0 Kajiado,"034, 0 Kajiado",19,12
-Bank of,Embakasi,Bank of Africa Kenya Limited,047,"Embakasi, 047",Nairobi County,19
-011,Africa Kenya Limited,011 Bank of,Eldoret,"Africa Kenya Limited, Eldoret",27,Uasin Gishu
-19,Bank of,19 010,Africa Kenya Limited,"Bank of, Africa Kenya Limited",Ngong Road,47
-0 Nairobi County,009,0 Nairobi County 19,Bank of,"009, Bank of",Africa Kenya Limited,Nakuru
-032,19,032 0 Nakuru,008,"19, 008",Bank of,Africa Kenya Limited
-Monrovia Street,0 Nairobi County,Monrovia Street 047,19,"0 Nairobi County, 19",07,Bank of
-Africa Kenya Limited,047,Africa Kenya Limited Ruaraka,0 Nairobi County,"047, 0 Nairobi County",19,05
-Bank of,Thika,Bank of Africa Kenya Limited,022,"Thika, 022",Kiambu,19
-006,Africa Kenya Limited,006 Bank of,Kisumu,"Africa Kenya Limited, Kisumu",42,Kisumu
 23,Consolidated Bank of Kenya Ltd,23 015,Eldoret,"Consolidated Bank of Kenya Ltd, Eldoret",27,Uasin Gishu
 23,Consolidated Bank of Kenya Ltd,23 016,Nakuru,"Consolidated Bank of Kenya Ltd, Nakuru",32,Nakuru
 23,Consolidated Bank of Kenya Ltd,23 017,Kitengela,"Consolidated Bank of Kenya Ltd, Kitengela",34,Kajiado

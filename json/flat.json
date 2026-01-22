@@ -8282,6 +8282,267 @@
   {
     "bank_code": "19",
     "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 000",
+    "branch_name": "Reinsurance Plaza Nairobi",
+    "full_name": "Bank of Africa Kenya Limited, Reinsurance Plaza Nairobi",
+    "county_code": "47",
+    "county_name": "Nairobi County"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 001",
+    "branch_name": "Mombasa",
+    "full_name": "Bank of Africa Kenya Limited, Mombasa",
+    "county_code": "01",
+    "county_name": "Mombasa"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 002",
+    "branch_name": "Westlands",
+    "full_name": "Bank of Africa Kenya Limited, Westlands",
+    "county_code": "47",
+    "county_name": "Nairobi County"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 003",
+    "branch_name": "Uhuru Highway",
+    "full_name": "Bank of Africa Kenya Limited, Uhuru Highway",
+    "county_code": "47",
+    "county_name": "Nairobi County"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 004",
+    "branch_name": "River Road",
+    "full_name": "Bank of Africa Kenya Limited, River Road",
+    "county_code": "47",
+    "county_name": "Nairobi County"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 005",
+    "branch_name": "Thika",
+    "full_name": "Bank of Africa Kenya Limited, Thika",
+    "county_code": "22",
+    "county_name": "Kiambu"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 006",
+    "branch_name": "Kisumu",
+    "full_name": "Bank of Africa Kenya Limited, Kisumu",
+    "county_code": "42",
+    "county_name": "Kisumu"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 007",
+    "branch_name": "Ruaraka",
+    "full_name": "Bank of Africa Kenya Limited, Ruaraka",
+    "county_code": "47",
+    "county_name": "Nairobi County"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 008",
+    "branch_name": "Monrovia Street",
+    "full_name": "Bank of Africa Kenya Limited, Monrovia Street",
+    "county_code": "47",
+    "county_name": "Nairobi County"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 009",
+    "branch_name": "Nakuru",
+    "full_name": "Bank of Africa Kenya Limited, Nakuru",
+    "county_code": "32",
+    "county_name": "Nakuru"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 010",
+    "branch_name": "Ngong Road",
+    "full_name": "Bank of Africa Kenya Limited, Ngong Road",
+    "county_code": "47",
+    "county_name": "Nairobi County"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 011",
+    "branch_name": "Eldoret",
+    "full_name": "Bank of Africa Kenya Limited, Eldoret",
+    "county_code": "27",
+    "county_name": "Uasin Gishu"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 012",
+    "branch_name": "Embakasi",
+    "full_name": "Bank of Africa Kenya Limited, Embakasi",
+    "county_code": "47",
+    "county_name": "Nairobi County"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 014",
+    "branch_name": "Ongata Rongai",
+    "full_name": "Bank of Africa Kenya Limited, Ongata Rongai",
+    "county_code": "34",
+    "county_name": "Kajiado"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 015",
+    "branch_name": "Changamwe",
+    "full_name": "Bank of Africa Kenya Limited, Changamwe",
+    "county_code": "01",
+    "county_name": "Mombasa"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 016",
+    "branch_name": "Bungoma",
+    "full_name": "Bank of Africa Kenya Limited, Bungoma",
+    "county_code": "39",
+    "county_name": "Bungoma"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 018",
+    "branch_name": "Meru",
+    "full_name": "Bank of Africa Kenya Limited, Meru",
+    "county_code": "12",
+    "county_name": "Meru"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 019",
+    "branch_name": "Kitengela",
+    "full_name": "Bank of Africa Kenya Limited, Kitengela",
+    "county_code": "34",
+    "county_name": "Kajiado"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 020",
+    "branch_name": "Nyali",
+    "full_name": "Bank of Africa Kenya Limited, Nyali",
+    "county_code": "01",
+    "county_name": "Mombasa"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 021",
+    "branch_name": "Galleria",
+    "full_name": "Bank of Africa Kenya Limited, Galleria",
+    "county_code": "47",
+    "county_name": "Nairobi County"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 022",
+    "branch_name": "Greenspan Mall",
+    "full_name": "Bank of Africa Kenya Limited, Greenspan Mall",
+    "county_code": "47",
+    "county_name": "Nairobi County"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 023",
+    "branch_name": "Upper Hill",
+    "full_name": "Bank of Africa Kenya Limited, Upper Hill",
+    "county_code": "47",
+    "county_name": "Nairobi County"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 024",
+    "branch_name": "Nanyuki",
+    "full_name": "Bank of Africa Kenya Limited, Nanyuki",
+    "county_code": "31",
+    "county_name": "Laikipia"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 026",
+    "branch_name": "Kenyatta Avenue",
+    "full_name": "Bank of Africa Kenya Limited, Kenyatta Avenue",
+    "county_code": "47",
+    "county_name": "Nairobi County"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 027",
+    "branch_name": "Sameer Business Park",
+    "full_name": "Bank of Africa Kenya Limited, Sameer Business Park",
+    "county_code": "47",
+    "county_name": "Nairobi County"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 028",
+    "branch_name": "Moi Avenue, Mombasa",
+    "full_name": "Bank of Africa Kenya Limited, Moi Avenue, Mombasa",
+    "county_code": "01",
+    "county_name": "Mombasa"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 029",
+    "branch_name": "Ongata Rongai II",
+    "full_name": "Bank of Africa Kenya Limited, Ongata Rongai II",
+    "county_code": "34",
+    "county_name": "Kajiado"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 030",
+    "branch_name": "Gikomba",
+    "full_name": "Bank of Africa Kenya Limited, Gikomba",
+    "county_code": "47",
+    "county_name": "Nairobi County"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
+    "branch_code": "19 031",
+    "branch_name": "Githurai",
+    "full_name": "Bank of Africa Kenya Limited, Githurai",
+    "county_code": "47",
+    "county_name": "Nairobi County"
+  },
+  {
+    "bank_code": "19",
+    "bank_name": "Bank of Africa Kenya Limited",
     "branch_code": "19 032",
     "branch_name": "Embu",
     "full_name": "Bank of Africa Kenya Limited, Embu",
@@ -8363,308 +8624,11 @@
   {
     "bank_code": "19",
     "bank_name": "Bank of Africa Kenya Limited",
-    "branch_code": "19 000",
-    "branch_name": "Reinsurance Plaza Nairobi",
-    "full_name": "Bank of Africa Kenya Limited, Reinsurance Plaza Nairobi",
-    "county_code": "47",
-    "county_name": "Nairobi County"
-  },
-  {
-    "bank_code": "19",
-    "bank_name": "Bank of Africa Kenya Limited",
-    "branch_code": "19 001",
-    "branch_name": "Mombasa",
-    "full_name": "Bank of Africa Kenya Limited, Mombasa",
-    "county_code": "47",
-    "county_name": "Nairobi County"
-  },
-  {
-    "bank_code": "19",
-    "bank_name": "Bank of Africa Kenya Limited",
-    "branch_code": "19 002",
-    "branch_name": "Westlands",
-    "full_name": "Bank of Africa Kenya Limited, Westlands",
-    "county_code": "47",
-    "county_name": "Nairobi County"
-  },
-  {
-    "bank_code": "19",
-    "bank_name": "Bank of Africa Kenya Limited",
-    "branch_code": "19 003",
-    "branch_name": "Uhuru Highway",
-    "full_name": "Bank of Africa Kenya Limited, Uhuru Highway",
-    "county_code": "47",
-    "county_name": "Nairobi County"
-  },
-  {
-    "bank_code": "19",
-    "bank_name": "Bank of Africa Kenya Limited",
-    "branch_code": "19 004",
-    "branch_name": "River Road",
-    "full_name": "Bank of Africa Kenya Limited, River Road",
-    "county_code": "47",
-    "county_name": "Nairobi County"
-  },
-  {
-    "bank_code": "19",
-    "bank_name": "Bank of Africa Kenya Limited",
     "branch_code": "19 043",
     "branch_name": "Ukunda",
     "full_name": "Bank of Africa Kenya Limited, Ukunda",
     "county_code": "02",
     "county_name": "Kwale"
-  },
-  {
-    "bank_code": "19",
-    "bank_name": "Bank of",
-    "branch_code": "19 031",
-    "branch_name": "Africa Kenya Limited",
-    "full_name": "Bank of, Africa Kenya Limited",
-    "county_code": "Githurai",
-    "county_name": "47"
-  },
-  {
-    "bank_code": "0 Nairobi County",
-    "bank_name": "030",
-    "branch_code": "0 Nairobi County 19",
-    "branch_name": "Bank of",
-    "full_name": "030, Bank of",
-    "county_code": "Africa Kenya Limited",
-    "county_name": "Gikomba"
-  },
-  {
-    "bank_code": "047",
-    "bank_name": "19",
-    "branch_code": "047 0 Nairobi County",
-    "branch_name": "029",
-    "full_name": "19, 029",
-    "county_code": "Bank of",
-    "county_name": "Africa Kenya Limited"
-  },
-  {
-    "bank_code": "Ongata Rongai II",
-    "bank_name": "0 Kajiado",
-    "branch_code": "Ongata Rongai II 034",
-    "branch_name": "19",
-    "full_name": "0 Kajiado, 19",
-    "county_code": "28",
-    "county_name": "Bank of"
-  },
-  {
-    "bank_code": "Africa Kenya Limited",
-    "bank_name": "001",
-    "branch_code": "Africa Kenya Limited Moi Avenue, Mombasa",
-    "branch_name": "0 Mombasa",
-    "full_name": "001, 0 Mombasa",
-    "county_code": "19",
-    "county_name": "27"
-  },
-  {
-    "bank_code": "Bank of",
-    "bank_name": "Sameer Business Park",
-    "branch_code": "Bank of Africa Kenya Limited",
-    "branch_name": "047",
-    "full_name": "Sameer Business Park, 047",
-    "county_code": "Nairobi County",
-    "county_name": "19"
-  },
-  {
-    "bank_code": "026",
-    "bank_name": "Africa Kenya Limited",
-    "branch_code": "026 Bank of",
-    "branch_name": "Kenyatta Avenue",
-    "full_name": "Africa Kenya Limited, Kenyatta Avenue",
-    "county_code": "47",
-    "county_name": "Nairobi County"
-  },
-  {
-    "bank_code": "19",
-    "bank_name": "Bank of",
-    "branch_code": "19 024",
-    "branch_name": "Africa Kenya Limited",
-    "full_name": "Bank of, Africa Kenya Limited",
-    "county_code": "Nanyuki",
-    "county_name": "31"
-  },
-  {
-    "bank_code": "0 Laikipia",
-    "bank_name": "023",
-    "branch_code": "0 Laikipia 19",
-    "branch_name": "Bank of",
-    "full_name": "023, Bank of",
-    "county_code": "Africa Kenya Limited",
-    "county_name": "Upper Hilll"
-  },
-  {
-    "bank_code": "047",
-    "bank_name": "19",
-    "branch_code": "047 0 Nairobi County",
-    "branch_name": "022",
-    "full_name": "19, 022",
-    "county_code": "Bank of",
-    "county_name": "Africa Kenya Limited"
-  },
-  {
-    "bank_code": "Greenspan Mall",
-    "bank_name": "0 Nairobi County",
-    "branch_code": "Greenspan Mall 047",
-    "branch_name": "19",
-    "full_name": "0 Nairobi County, 19",
-    "county_code": "21",
-    "county_name": "Bank of"
-  },
-  {
-    "bank_code": "Africa Kenya Limited",
-    "bank_name": "047",
-    "branch_code": "Africa Kenya Limited Galleria",
-    "branch_name": "0 Nairobi County",
-    "full_name": "047, 0 Nairobi County",
-    "county_code": "19",
-    "county_name": "20"
-  },
-  {
-    "bank_code": "Bank of",
-    "bank_name": "Nyali",
-    "branch_code": "Bank of Africa Kenya Limited",
-    "branch_name": "001",
-    "full_name": "Nyali, 001",
-    "county_code": "Mombasa",
-    "county_name": "19"
-  },
-  {
-    "bank_code": "019",
-    "bank_name": "Africa Kenya Limited",
-    "branch_code": "019 Bank of",
-    "branch_name": "Kitengela",
-    "full_name": "Africa Kenya Limited, Kitengela",
-    "county_code": "34",
-    "county_name": "Kajiado"
-  },
-  {
-    "bank_code": "19",
-    "bank_name": "Bank of",
-    "branch_code": "19 018",
-    "branch_name": "Africa Kenya Limited",
-    "full_name": "Bank of, Africa Kenya Limited",
-    "county_code": "MERU",
-    "county_name": "12"
-  },
-  {
-    "bank_code": "0 Meru",
-    "bank_name": "016",
-    "branch_code": "0 Meru 19",
-    "branch_name": "Bank of",
-    "full_name": "016, Bank of",
-    "county_code": "Africa Kenya Limited",
-    "county_name": "Bungoma"
-  },
-  {
-    "bank_code": "039",
-    "bank_name": "19",
-    "branch_code": "039 0 Bungoma",
-    "branch_name": "015",
-    "full_name": "19, 015",
-    "county_code": "Bank of",
-    "county_name": "Africa Kenya Limited"
-  },
-  {
-    "bank_code": "Changamwe",
-    "bank_name": "0 Mombasa",
-    "branch_code": "Changamwe 001",
-    "branch_name": "19",
-    "full_name": "0 Mombasa, 19",
-    "county_code": "14",
-    "county_name": "Bank of"
-  },
-  {
-    "bank_code": "Africa Kenya Limited",
-    "bank_name": "034",
-    "branch_code": "Africa Kenya Limited Ongata Rongai",
-    "branch_name": "0 Kajiado",
-    "full_name": "034, 0 Kajiado",
-    "county_code": "19",
-    "county_name": "12"
-  },
-  {
-    "bank_code": "Bank of",
-    "bank_name": "Embakasi",
-    "branch_code": "Bank of Africa Kenya Limited",
-    "branch_name": "047",
-    "full_name": "Embakasi, 047",
-    "county_code": "Nairobi County",
-    "county_name": "19"
-  },
-  {
-    "bank_code": "011",
-    "bank_name": "Africa Kenya Limited",
-    "branch_code": "011 Bank of",
-    "branch_name": "Eldoret",
-    "full_name": "Africa Kenya Limited, Eldoret",
-    "county_code": "27",
-    "county_name": "Uasin Gishu"
-  },
-  {
-    "bank_code": "19",
-    "bank_name": "Bank of",
-    "branch_code": "19 010",
-    "branch_name": "Africa Kenya Limited",
-    "full_name": "Bank of, Africa Kenya Limited",
-    "county_code": "Ngong Road",
-    "county_name": "47"
-  },
-  {
-    "bank_code": "0 Nairobi County",
-    "bank_name": "009",
-    "branch_code": "0 Nairobi County 19",
-    "branch_name": "Bank of",
-    "full_name": "009, Bank of",
-    "county_code": "Africa Kenya Limited",
-    "county_name": "Nakuru"
-  },
-  {
-    "bank_code": "032",
-    "bank_name": "19",
-    "branch_code": "032 0 Nakuru",
-    "branch_name": "008",
-    "full_name": "19, 008",
-    "county_code": "Bank of",
-    "county_name": "Africa Kenya Limited"
-  },
-  {
-    "bank_code": "Monrovia Street",
-    "bank_name": "0 Nairobi County",
-    "branch_code": "Monrovia Street 047",
-    "branch_name": "19",
-    "full_name": "0 Nairobi County, 19",
-    "county_code": "07",
-    "county_name": "Bank of"
-  },
-  {
-    "bank_code": "Africa Kenya Limited",
-    "bank_name": "047",
-    "branch_code": "Africa Kenya Limited Ruaraka",
-    "branch_name": "0 Nairobi County",
-    "full_name": "047, 0 Nairobi County",
-    "county_code": "19",
-    "county_name": "05"
-  },
-  {
-    "bank_code": "Bank of",
-    "bank_name": "Thika",
-    "branch_code": "Bank of Africa Kenya Limited",
-    "branch_name": "022",
-    "full_name": "Thika, 022",
-    "county_code": "Kiambu",
-    "county_name": "19"
-  },
-  {
-    "bank_code": "006",
-    "bank_name": "Africa Kenya Limited",
-    "branch_code": "006 Bank of",
-    "branch_name": "Kisumu",
-    "full_name": "Africa Kenya Limited, Kisumu",
-    "county_code": "42",
-    "county_name": "Kisumu"
   },
   {
     "bank_code": "23",
